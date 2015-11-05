@@ -1,0 +1,36 @@
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/2523.png",HBO
+http://103.240.232.91/hls/hboabr/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://i.imgur.com/0WySc9Y.jpg",WBTV HD
+http://103.240.232.91/hls/wbabr/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/1557.jpg",FOX Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8|?supertvlat=%2F.ts
+#EXTINF:-1 group-title="Entertainment"  tvg-logo="http://channelpear.com/images/media/221.png",Universal Channel
+http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/1466_3.jpg",FX
+http://channelpear.com/watch/stream/?id=1466
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/8011.jpg",Jupiter Broadcasting
+http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/8010.png",HuffPost Live
+http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1400.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/875.png",Syfy
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/2567.jpg",Bravo
+http://channelpear.com/watch/stream/?id=2567
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/7185.jpg",247 Retro
+http://edge.streamspot.com:1935/live2/247retd41a/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/8554.jpg",Sci-Fi Series and Movies
+http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/218.png",FOX Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8|?supertvlat=%2F.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/365.png",Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8|?supertvlat=%2F.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/219.jpg",FOX Action Movies HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8|?supertvlat=%2F.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6638.jpg",Film Noir Classic Channel
+http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8|
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6677.jpg",At The Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+                                                           
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/2510.png",Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
