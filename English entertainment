@@ -43,3 +43,5 @@ http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?supertvlat=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=%2F.ts
                 #EXTINF:0 tvg-logo="http://channelpear.com/images/media/219.jpg",FOX Action Movies HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts
+                #EXTINF:0 tvg-logo="http://channelpear.com/images/media/1557.jpg",FOX Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts
