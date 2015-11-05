@@ -11,3 +11,17 @@ http://178.33.88.129:888/udp/239.102.0.85:1234
 #EXTINF:-1 group-title="Documentaires",Animaux
 
     http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg",Genesis Science Network
+                                            http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://i.imgur.com/8i73Fnl.jpg",RT Documentary
+                                            http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg",UFO Channel
+                                            http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/102.png",World Fashion Channel
+                                            http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg",NASA TV
+                                            http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3910.png",Discovery HD Theater
+                                            http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=%2F.t
