@@ -35,3 +35,11 @@ http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
                                                            
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/2510.png",Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+                #EXTINF:0 tvg-logo="http://channelpear.com/images/media/218.png",FOX Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=%2F.ts
+                #EXTINF:0 tvg-logo="http://channelpear.com/images/media/365.png",Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?supertvlat=%2F.ts
+                #EXTINF:0 tvg-logo="http://channelpear.com/images/media/3910.png",Discovery HD Theater
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=%2F.ts
+                #EXTINF:0 tvg-logo="http://channelpear.com/images/media/219.jpg",FOX Action Movies HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts
