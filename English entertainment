@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/2523.png",HBO
 http://103.240.232.91/hls/hboabr/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://i.imgur.com/0WySc9Y.jpg",WBTV HD
