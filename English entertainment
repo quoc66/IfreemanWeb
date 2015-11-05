@@ -28,7 +28,7 @@ http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8|?supertvlat=%2F.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/219.jpg",FOX Action Movies HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8|?supertvlat=%2F.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6638.jpg",Film Noir Classic Channel
-http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8|
+http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6677.jpg",At The Drive-In
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
                                                            
