@@ -19,3 +19,37 @@ http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
 http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Premier sports
 http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
+
+ 
+#EXTINF:-1 group-title="Sport", Eurosport uk
+http://195.154.226.186:1935/liveedge/vesplsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", Eurosport 2 uk
+http://195.154.226.186:1935/liveedge/vesp2lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", Eurosport
+http://62.210.238.18:443/live/eurosport/playlist.m3u8
+#EXTINF:-1 group-title="Sport", Eurosport 2
+http://62.210.238.18:443/live/eurosport2/playlist.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Sport",NBCSN Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title="Sport",NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+ 
+ #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg",NFL Network HD 2000k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now 5000k
+                                            http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8|
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/4047_2.jpg",ESPN
+                                            http://channelpear.com/watch/stream/?id=4047
+ 
+#EXTINF:-1 tvg-id="0228" group-title="Sport" tvg-logo="0228.png",[COLOR orangered]L'Equipe 21 HD[/COLOR]
+http://wownet.ro/str/0228.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 group-title="Sport",Canal+ Sport HD
+http://178.33.88.129:888/udp/239.102.0.55:1234
+ 
+#EXTINF:-1 group-title="Sport",FR:CANAL+SPORT
+http://cdn.step-tv.com:8000/live/1313/1313/446.m3u8
