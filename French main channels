@@ -2,51 +2,47 @@
  
                                            
 #EXTINF:0,bein3 fr
-                                            http://195.154.226.186:1935/liveedge/bein3frlsh/playlist.m3u8
+http://195.154.226.186:1935/liveedge/bein3frlsh/playlist.m3u8
+                                           
+#EXTINF:-1,M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:0,w9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:0,6ter
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+
+#EXTINF:-1,Disney XD 
+http://178.33.88.129:888/udp/239.102.0.88:1234
+#EXTINF:-1,Cartoon Network 
+http://178.33.88.129:888/udp/239.102.0.89:1234
+                                         
                                             
-                                            #EXTINF:-1,M6
-                                            https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-                                            #EXTINF:0,w9
-                                            https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-                                            #EXTINF:0,6ter
-                                            https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1,TV5 MONDE Europe 
+http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
+#EXTINF:-1,Arte (German/French Tv)
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1,ICI RDI HD
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+#EXTINF:-1,Discovery Channel 
                                             
-                                            
-                                            
-                                            
-                                            #EXTINF:-1,Disney XD 
-                                            http://178.33.88.129:888/udp/239.102.0.88:1234
-                                            #EXTINF:-1,Cartoon Network 
-                                            http://178.33.88.129:888/udp/239.102.0.89:1234
-                                            
-                                            
-                                            #EXTINF:-1,TV5 MONDE Europe 
-                                            http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-                                            #EXTINF:-1,Arte (German/French Tv)
-                                            http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-                                            #EXTINF:-1,TVA Montréal
-                                            http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-                                            #EXTINF:-1,ICI RDI HD
-                                            http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
-                                            
-                                            #EXTINF:-1,Discovery Channel 
-                                            
-                                            http://178.33.88.129:888/udp/239.102.0.90:1234
-                                            #EXTINF:-1,Ushuaia TV 
-                                            http://178.33.88.129:888/udp/239.102.0.91:1234
-                                            #EXTINF:-1,Planete+ Thalassa 
-                                            http://178.33.88.129:888/udp/239.102.0.92:1234
-                                            #EXTINF:-1,Voyage 
-                                            http://178.33.88.129:888/udp/239.102.0.85:1234
-                                            #EXTINF:-1,Animaux 
-                                            http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-                                            #EXTINF:-1,Alsace20
-                                            http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/master.m3u8
-                                            
-                                            #EXTINF:-1,APTV Martinique
-                                            rtmp://wowg-in-a1.tdf-cdn.com/5865//live
-                                            #EXTINF:-1,Zahra TV
-                                            rtmp://176.31.233.163/centre-zahra/tv
+http://178.33.88.129:888/udp/239.102.0.90:1234
+#EXTINF:-1,Ushuaia TV 
+http://178.33.88.129:888/udp/239.102.0.91:1234
+#EXTINF:-1,Planete+ Thalassa 
+http://178.33.88.129:888/udp/239.102.0.92:1234
+#EXTINF:-1,Voyage 
+http://178.33.88.129:888/udp/239.102.0.85:1234
+#EXTINF:-1,Animaux 
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1,Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/master.m3u8
+
+#EXTINF:-1,APTV Martinique
+rtmp://wowg-in-a1.tdf-cdn.com/5865//live
+#EXTINF:-1,Zahra TV
+rtmp://176.31.233.163/centre-zahra/tv
  
 ############################################################
 #EXTINF:-1,[COLOR red]Les chaînes françaises OFF (Down pour le moment)[/COLOR]
