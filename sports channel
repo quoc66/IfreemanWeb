@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sport", SkySport 1
+http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport2
+http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport 3
+http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport 4
+http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport 5
+http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", SkySport F1
+http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", BT Sport Europe
+http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", BT Sport 1
+http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport", BT Sport 2
+http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Premier sports
+http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
