@@ -3,7 +3,7 @@
 http://103.240.232.91/hls/hboabr/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://i.imgur.com/0WySc9Y.jpg",WBTV HD
 http://103.240.232.91/hls/wbabr/index.m3u8
-                #EXTINF:0 tvg-logo="http://channelpear.com/images/media/1557.jpg",FOX Movies HD
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1557.jpg",FOX Movies HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 group-title="Entertainment"  tvg-logo="http://channelpear.com/images/media/221.png",Universal Channel
 http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
