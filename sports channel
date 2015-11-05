@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sport", SkySport 1
+#EXTINF:-1 group-title="Sport", SkySport 1 github
 http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
 #EXTINF:-1 group-title="Sport", SkySport2
 http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
