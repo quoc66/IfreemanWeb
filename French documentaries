@@ -1,0 +1,13 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="Documentaires",Discovery Channel
+http://178.33.88.129:888/udp/239.102.0.90:1234
+#EXTINF:-1 group-title="Documentaires",Ushuaia TV
+http://178.33.88.129:888/udp/239.102.0.91:1234
+#EXTINF:-1 group-title="Documentaires",Planete+ Thalassa
+http://178.33.88.129:888/udp/239.102.0.92:1234
+#EXTINF:-1 group-title="Documentaires",Voyage
+http://178.33.88.129:888/udp/239.102.0.85:1234
+#EXTINF:-1 group-title="Documentaires",Animaux
+
+    http://87.248.160.8/edge/smil:animaux/playlist.m3u8
