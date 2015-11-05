@@ -1,0 +1,10 @@
+#EXTM3U
+ 
+#EXTINF:0220 group-title="Junior",gulli
+http://hls.tv.iptv.ink/gullifr@841822.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:0234 group-title="Junior",Cartoon Network
+http://hls.tv.iptv.ink/cnfr@143244.m3u8|X-Forwarded-For=81.17.18.55
+#EXTINF:-1 group-title="Junior",Disney XD
+http://178.33.88.129:888/udp/239.102.0.88:1234
+#EXTINF:-1 group-title="Junior",Cartoon Network
+http://178.33.88.129:888/udp/239.102.0.89:1234
