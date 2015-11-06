@@ -58,8 +58,32 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/playlist.m3u8
 
 ############################################################
+#EXTINF:-1,[COLOR red]Les chaines a tester 6 nov[/COLOR]
+############################################################
+
+#EXTINF:-1,FR_TF1_HD
+http://iptv.taqmaq.com:8080/live/test/test/119.ts
+#EXTINF:-1,FR_M6_HD
+http://iptv.taqmaq.com:8080/live/test/test/124.ts
+#EXTINF:-1,FR_FranceO
+http://iptv.taqmaq.com:8080/live/test/test/109.ts
+#EXTINF:-1,FR_France2
+http://iptv.taqmaq.com:8080/live/test/test/110.ts
+#EXTINF:-1,FR_France3
+http://iptv.taqmaq.com:8080/live/test/test/111.ts
+#EXTINF:-1,FR_France4
+http://iptv.taqmaq.com:8080/live/test/test/112.ts
+#EXTINF:-1,FR_D8
+http://iptv.taqmaq.com:8080/live/test/test/116.ts
+#EXTINF:-1,FR_Canal+_HD
+http://iptv.taqmaq.com:8080/live/test/test/131.ts
+#EXTINF:-1,FR_Canal+_Family_HD
+http://iptv.taqmaq.com:8080/live/test/test/130.ts
+#EXTINF:-1,FR_Canal+_Decale_HD
+http://iptv.taqmaq.com:8080/live/test/test/129.ts
+
+############################################################
 #EXTINF:-1,[COLOR red]Les chaînes françaises OFF (Down pour le moment)[/COLOR]
-http://atlasweb.net
 ############################################################
  
 #EXTINF:-1 tvg-id="0201" group-title="Generales" tvg-logo="0201.png",[COLOR orange]TF1[/COLOR]
