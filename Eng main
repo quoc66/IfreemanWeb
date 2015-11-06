@@ -12,6 +12,19 @@ http://82.135.224.134/udp/239.100.3.5:1234
 #EXTINF:-1, ITV 1 London
 http://82.135.224.134/udp/239.100.3.6:1234
 
+#EXTINF:-1,UK: ITV 1
+http://top-iptv.zapto.org:8000/live/adem/adem/645.ts
+#EXTINF:-1,UK: ITV 2
+http://top-iptv.zapto.org:8000/live/adem/adem/644.ts
+#EXTINF:-1,UK: ITV 4
+http://top-iptv.zapto.org:8000/live/adem/adem/641.ts
+#EXTINF:-1,UK: ITV 3
+http://top-iptv.zapto.org:8000/live/adem/adem/643.ts
+
+
+############################################################
+#EXTINF:-1,[COLOR red]Temporary down [/COLOR]
+############################################################
 #EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
 http://wownet.ro/str/0401.m3u8|X-Forwarded-For=81.17.18.50
 
