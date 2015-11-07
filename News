@@ -24,6 +24,18 @@ http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 ############################################################
 #EXTINF:-1,[COLOR red]English[/COLOR]
 ############################################################
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6957.jpeg",CBS News HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_4000_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4059.jpg",KTVU News
+http://bcoveliveios-i.akamaihd.net/hls/live/207145/374678397001/KTVU_NEWSCAST/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qtpm9W2.png",RT America
+http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="0426" group-title="US/UK News" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
+http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
+
 #EXTINF:-1 tvg-id="0421" group-title="US/UK News" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
 http://wownet.ro/str/0421.m3u8|X-Forwarded-For=81.17.18.50
 
@@ -39,8 +51,6 @@ http://wownet.ro/str/0424.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0425" group-title="US/UK News" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
 http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
 
-#EXTINF:-1 tvg-id="0426" group-title="US/UK News" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
-http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
 
 #EXTINF:-1 tvg-id="0427" group-title="US/UK News" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
 http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
