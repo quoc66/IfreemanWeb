@@ -27,12 +27,34 @@ http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6957.jpeg",CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_4000_av-b.m3u8?sd=10&amp;rebase=on
+
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/4059.jpg",KTVU News
 http://bcoveliveios-i.akamaihd.net/hls/live/207145/374678397001/KTVU_NEWSCAST/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/fox59news.jpg",FOX 59 News
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Qtpm9W2.png",RT America
 http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/6365.png",Bloomberg News
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:-1 tvg-id="0429" group-title="US/UK News" tvg-logo="0431.png",[COLOR orangered]Russia Today HD [EN][/COLOR]
+http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Z5FR8Xk.jpg",CCTV News
+http://77.36.61.45:8010/CCTVNews.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/99.jpg",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&amp;b=1200&amp;rebase=on
+############################################################
+#EXTINF:-1,[COLOR red]Temporarely not working[/COLOR]
+############################################################
+
 #EXTINF:-1 tvg-id="0426" group-title="US/UK News" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
 http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
 
@@ -61,8 +83,6 @@ http://wownet.ro/str/0428.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0429" group-title="US/UK News" tvg-logo="0429.png",[COLOR orange]Russia Today [EN][/COLOR]
 http://wownet.ro/str/0429.m3u8|X-Forwarded-For=81.17.18.50
 
-#EXTINF:-1 tvg-id="0429" group-title="US/UK News" tvg-logo="0431.png",[COLOR orangered]Russia Today HD [EN][/COLOR]
-http://wownet.ro/str/0431.m3u8|X-Forwarded-For=78.43.32.8
 
 #EXTINF:-1 tvg-id="0430" group-title="US/UK News" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
 http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
