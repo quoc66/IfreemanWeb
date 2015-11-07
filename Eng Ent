@@ -38,3 +38,5 @@ http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?supertvlat=%2F.ts
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6677.jpg",At The Drive-In
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+#EXTINF:-1, America TV HD
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
