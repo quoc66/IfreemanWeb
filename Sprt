@@ -15,34 +15,37 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/4047_2.jpg",ESPN
                                             http://channelpear.com/watch/stream/?id=4047
  
-#EXTINF:0,UK: SKY SPORTS 1 SD
+#EXTINF:-1,UK: SKY SPORTS 1 SD
 http://top-iptv.zapto.org:8000/live/adem/adem/627.ts
-#EXTINF:0,UK: SKY SPORTS 2 SD
+#EXTINF:-1,UK: SKY SPORTS 2 SD
 http://top-iptv.zapto.org:8000/live/adem/adem/628.ts
-#EXTINF:0,UK: SKY SPORTS 3 SD
+#EXTINF:-1,UK: SKY SPORTS 3 SD
 http://top-iptv.zapto.org:8000/live/adem/adem/629.ts
-#EXTINF:0,UK: SKY SPORTS 4 SD
+#EXTINF:-1,UK: SKY SPORTS 4 SD
 http://top-iptv.zapto.org:8000/live/adem/adem/630.ts
 
-#EXTINF:0,UK: Sky sports 1
+#EXTINF:-1,UK: Sky sports 1
 http://top-iptv.zapto.org:8000/live/adem/adem/536.ts
-#EXTINF:0,UK: Sky sports 2
+#EXTINF:-1,UK: Sky sports 2
 http://top-iptv.zapto.org:8000/live/adem/adem/535.ts
-#EXTINF:0,UK: Sky sports 3
+#EXTINF:-1,UK: Sky sports 3
 http://top-iptv.zapto.org:8000/live/adem/adem/534.ts
-#EXTINF:0,UK: Sky sports 5
+#EXTINF:-1,UK: Sky sports 5
 http://top-iptv.zapto.org:8000/live/adem/adem/532.ts
-#EXTINF:0,UK: Sky sports 4
+#EXTINF:-1,UK: Sky sports 4
 http://top-iptv.zapto.org:8000/live/adem/adem/533.ts 
-#EXTINF:0,UK: Sky F1
+#EXTINF:-1,UK: Sky F1
 http://top-iptv.zapto.org:8000/live/adem/adem/542.ts
-#EXTINF:0,UK: Eurosport 2
+#EXTINF:-1,UK: Eurosport 2
 http://top-iptv.zapto.org:8000/live/adem/adem/547.ts
-#EXTINF:0,UK: Eurosport 1
+#EXTINF:-1,UK: Eurosport 1
 http://top-iptv.zapto.org:8000/live/adem/adem/548.ts
-#EXTINF:0,UK: BT-sport2
+#EXTINF:-1,UK: BT-sport2
 http://top-iptv.zapto.org:8000/live/adem/adem/549.ts
-#EXTINF:0,UK: BT-sport1
+#EXTINF:-1,UK: BT-sport1
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
 
 ############################################################
 #EXTINF:-1,[COLOR red]Temporary down[/COLOR]
