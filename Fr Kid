@@ -2,9 +2,13 @@
  
 #EXTINF:0220 group-title="Junior",gulli
 http://hls.tv.iptv.ink/gullifr@841822.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0234 group-title="Junior",Cartoon Network
+#EXTINF:0234 group-title="Junior",Cartoon Network French
 http://hls.tv.iptv.ink/cnfr@143244.m3u8|X-Forwarded-For=81.17.18.55
 #EXTINF:-1 group-title="Junior",Disney XD
 http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1 group-title="Junior",Cartoon Network
+#EXTINF:-1 group-title="Junior",Cartoon Network French
 http://178.33.88.129:888/udp/239.102.0.89:1234
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/2510.png",Cartoon Network English
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
