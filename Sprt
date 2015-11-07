@@ -15,6 +15,10 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/4047_2.jpg",ESPN
                                             http://channelpear.com/watch/stream/?id=4047
  
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
+
 #EXTINF:-1,UK: Sky sports 1
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/18.ts
 
@@ -33,77 +37,17 @@ http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/22.ts
 #EXTINF:-1,UK: Sky sports F1
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/23.ts
 
-#EXTINF:-1,UK: SKY SPORTS 1 SD
-http://top-iptv.zapto.org:8000/live/adem/adem/627.ts
-#EXTINF:-1,UK: SKY SPORTS 2 SD
-http://top-iptv.zapto.org:8000/live/adem/adem/628.ts
-#EXTINF:-1,UK: SKY SPORTS 3 SD
-http://top-iptv.zapto.org:8000/live/adem/adem/629.ts
-#EXTINF:-1,UK: SKY SPORTS 4 SD
-http://top-iptv.zapto.org:8000/live/adem/adem/630.ts
+#EXTINF:-1,UK: Eurosport
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/26.ts
 
-#EXTINF:-1,UK: Sky sports 1
-http://top-iptv.zapto.org:8000/live/adem/adem/536.ts
-#EXTINF:-1,UK: Sky sports 2
-http://top-iptv.zapto.org:8000/live/adem/adem/535.ts
-#EXTINF:-1,UK: Sky sports 3
-http://top-iptv.zapto.org:8000/live/adem/adem/534.ts
-#EXTINF:-1,UK: Sky sports 5
-http://top-iptv.zapto.org:8000/live/adem/adem/532.ts
-#EXTINF:-1,UK: Sky sports 4
-http://top-iptv.zapto.org:8000/live/adem/adem/533.ts 
-#EXTINF:-1,UK: Sky F1
-http://top-iptv.zapto.org:8000/live/adem/adem/542.ts
 #EXTINF:-1,UK: Eurosport 2
-http://top-iptv.zapto.org:8000/live/adem/adem/547.ts
-#EXTINF:-1,UK: Eurosport 1
-http://top-iptv.zapto.org:8000/live/adem/adem/548.ts
-#EXTINF:-1,UK: BT-sport2
-http://top-iptv.zapto.org:8000/live/adem/adem/549.ts
-#EXTINF:-1,UK: BT-sport1
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/27.ts
 
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
+#EXTINF:-1,UK: bt sport ESPN
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/16.ts
 
-############################################################
-#EXTINF:-1,[COLOR red]Temporary down[/COLOR]
-############################################################
+#EXTINF:-1,UK: Premier sports
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/17.ts
 
-#EXTINF:-1 group-title="Sport", SkySport 1
-http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", SkySport2
-http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", SkySport 3
-http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", SkySport 4
-http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", SkySport 5
-http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", SkySport F1
-http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", BT Sport Europe
-http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", BT Sport 1
-http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", BT Sport 2
-http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Premier sports
-http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
 
- 
-#EXTINF:-1 group-title="Sport", Eurosport uk
-http://195.154.226.186:1935/liveedge/vesplsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", Eurosport 2 uk
-http://195.154.226.186:1935/liveedge/vesp2lsh/playlist.m3u8
-#EXTINF:-1 group-title="Sport", Eurosport
-http://62.210.238.18:443/live/eurosport/playlist.m3u8
-#EXTINF:-1 group-title="Sport", Eurosport 2
-http://62.210.238.18:443/live/eurosport2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0228" group-title="Sport" tvg-logo="0228.png",[COLOR orangered]L'Equipe 21 HD[/COLOR]
-http://wownet.ro/str/0228.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 group-title="Sport",Canal+ Sport HD
-http://178.33.88.129:888/udp/239.102.0.55:1234
- 
-#EXTINF:-1 group-title="Sport",FR:CANAL+SPORT
-http://cdn.step-tv.com:8000/live/1313/1313/446.m3u8
