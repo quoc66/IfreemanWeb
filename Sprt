@@ -19,6 +19,17 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
 
+#EXTINF:-1,SKY SPORTS 1
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports1.stream/chunklist.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports2.stream/chunklist.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports3.stream/chunklist.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports4.stream/chunklist.m3u8
+#EXTINF:-1,SKY SPORTs 5
+http://cds.a3g6t8m9.hwcdn.net/caliveorigin/skysports5.stream/chunklist.m3u8
+
 #EXTINF:-1,UK: Sky sports 1
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/18.ts
 
