@@ -18,6 +18,9 @@ http://87.248.160.8/edge/smil:animaux/playlist.m3u8
 ############################################################
 #EXTINF:-1,[COLOR red]English[/COLOR]
 ############################################################
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild
+http://top-iptv.zapto.org:8000/live/adem/adem/559.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg",Genesis Science Network
 http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://i.imgur.com/8i73Fnl.jpg",RT Documentary
