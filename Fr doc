@@ -4,6 +4,9 @@
 ############################################################
 #EXTINF:-1,[COLOR red]Francaises[/COLOR]
 ############################################################
+
+#EXTINF:-1 group-title="Documentaires" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/RMC_D%25C3%25A9couverte_logo_2012.png",RMC Decouverte 
+http://streaming-hub.com/stream/rmc.m3u8
 #EXTINF:-1 group-title="Documentaires",Discovery Channel 
 http://178.33.88.129:888/udp/239.102.0.90:1234
 #EXTINF:-1 group-title="Documentaires",Ushuaia TV
