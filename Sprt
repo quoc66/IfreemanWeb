@@ -61,4 +61,4 @@ http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/16.ts
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/17.ts
 
 #EXTINF:-1,canal+ sport
-http://178.33.88.129:888/udp/239.102.0.55:1234
+rtmp://178.16.220.163/live/canalsport
