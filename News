@@ -24,6 +24,10 @@ http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 ############################################################
 #EXTINF:-1,[COLOR red]English[/COLOR]
 ############################################################
+
+#EXTINF:-1 tvg-logo="http://www.astoundbroadband.com/img/logos/CNN-HD-Logo.gif",CNN HD
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/5.m3u8?op_id=18
+
 #EXTINF:-1 tvg-logo="http://www.stream2watch.co/images/thumbs/al%20jazeera%20live%20stream.jpg",Al Jazeera International
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
