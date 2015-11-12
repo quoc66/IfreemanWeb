@@ -4,7 +4,8 @@
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 group-title="Sport",NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
+#EXTINF:-1 tv-logo="https://irldefender.files.wordpress.com/2012/02/partner-1.jpg",NBC SN
+http://185.63.255.45/live/0Hd9OCkXLULI/playlist.m3u8 
  
  #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
