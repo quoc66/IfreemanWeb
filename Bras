@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1,CANAL RURAL
+http://7149o.ls.azioncdn.net:1935/7149o/canal_rural.sdp/live.m3u8
+#EXTINF:-1,CANAL+ PORTADA
+http://plus_1-f.akamaihd.net/media/1039301517001/201308/27/1039301517001_263230,1035,3309,001_173716.mp4.csmil/bitrate=1?videoId=2632264176001&lineUpId=&pubId=1039301517001&playerId=1133432061001&affiliateId=&v=3.1.0&fp=WIN 11,8,800,94&r=UPPYQ&g=WWGJRCQKIUUJ
+#EXTINF:-1,CANAL+ XTRA
+http://us.123rf.com/450wm/naypong/naypong1303/naypong130300194/18587909-no-hay-senal-imagenes-abstractas-senales-de-television.jpg
+#EXTINF:-1,Discovery Civilization
+http://62.210.89.38:1935/liverepeat/discivil377/discivil377/live.m3u8?BRASILIPTV
+#EXTINF:-1,Extremadura TV http
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,Gazeta TV Brasil
+http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,LEVANTE TV
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+#EXTINF:-1,MANA SAT
+rtmp://195.22.19.179/manasat/manasat2
+#EXTINF:-1,NICKELODEON
+http://us.123rf.com/450wm/naypong/naypong1303/naypong130300194/18587909-no-hay-senal-imagenes-abstractas-senales-de-television.jpg
+#EXTINF:-1,NTV 8
+http://www.tvtuga.com/live47/ntv8.asx
+#EXTINF:-1,Record PB (TV Correio)
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8?BRASILIPTV
+#EXTINF:-1,REDE FAMILIA mms
+mms://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1,Rede Família rtsp
+rtsp://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1,REDE GOSPEL
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:-1,Rede Minas
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,RIT TV
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8?BRASILIPTV
+#EXTINF:-1,SBT ** smart not works
+rtmp://94.242.228.41:1935/live/sbt2 pageUrl=http://www.tvonline.org/out/sbt.m3u8?BRASILIPTV
+#EXTINF:-1,SBT CE (NordesTV)
+rtmp://187.18.187.5/livepkgr/nordestv1
+#EXTINF:-1,SBT PE (TV Jornal)
+http://evp.mm.uol.com.br:1935/ne10/ne10_tvjornal.sdp/live.m3u8
+#EXTINF:-1,Terra Viva Brasil
+rtmp://evp.mm.uol.com.br/terraviva/_definst_/terraviva
+#EXTINF:-1,TV BRASIL (TV CULTURA BELÉM)
+rtmp://str.portalcultura.com.br:8080/live/funtelpa/tv_funtelpa
+#EXTINF:-1,TV Câmara
+mms://stream.camara.gov.br:80/tvcamara1t200
+#EXTINF:-1,TV COM RS
+http://2747t.lp.azioncdn.net:1935/2747t/tvcom.sdp/live.m3u8
+#EXTINF:-1,TV COM SC
+http://2747t.lp.azioncdn.net:1935/2747t/tvcom-sc.sdp/live.m3u8
+#EXTINF:-1,TV DIÁRIO DE CAMPOS
+http://streaming49.sitehosting.com.br:1935/cadripaes/cadripaes/livestream.m3u8
+#EXTINF:-1,TV Escola
+http://livela.sambatech.com.br:80/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8?BRASILIPTV
+#EXTINF:-1,TV Escola HD 720 Brasil
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1,TV MANÁ Cordoba
+http://195.22.19.189:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1,TV MANÁ FRANCE
+http://195.22.19.183:1935/tvfr/tvfr3/playlist.m3u8
+#EXTINF:-1,TV Maná-Maputo
+http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1,TV O FLU
+http://srv6.zoeweb.tv:1935/z846-live/stream/livestream.m3u8
+#EXTINF:-1,TV Paraíba (Afiliada Record) Brasil
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8
+#EXTINF:-1,TV Pioneira Teresina (Afiliada SBT) Brasil
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv
+#EXTINF:-1,TV Pocos – Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1,TV Senado mms
+mms://drix.senado.gov.br/tv2
+#EXTINF:-1,TV Urbana Brasil
+rtmp://srv6.zoeweb.tv/z433-live/stream
+#EXTINF:-1,TVE HD 720 Brasil
+rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb?
+#EXTINF:-1,TVE/TV Cultura (PARANÁ)
+http://200.189.113.201:80/hls/tve.m3u8
+#EXTINF:-1,TVV – TV VOTORANTIM
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
+#EXTINF:-1,VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
