@@ -1,228 +1,110 @@
 #EXTM3U
+
+
+
+
+############################################################
+#EXTINF:-1,[COLOR red]chaînes françaises liste 2 [/COLOR]
+http://atlasweb.net
+############################################################
+
+
+
+#EXTINF:-1 ,CANAL+ 
+http://clinetiptv.ddns.net:8000/live/alger/alger/295.m3u8
+ 
+#EXTINF:-1 ,TF1
+http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
+
+ 
+#EXTINF:-1 ,M6 
+http://clinetiptv.ddns.net:8000/live/alger/alger/77.m3u8
+ 
+ 
+#EXTINF:-1 ,ARTE 
+http://clinetiptv.ddns.net:8000/live/alger/alger/80.m3u8
+ 
+#EXTINF:-1 ,FRANCE 2 
+http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
+ 
+#EXTINF:-1 ,FRANCE 3 
+http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
+ 
+#EXTINF:-1 ,FRANCE 4 
+http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
+ 
+#EXTINF:-1 ,FRANCE 5 
+http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
+ 
+#EXTINF:-1 ,FRANCE O 
+http://clinetiptv.ddns.net:8000/live/alger/alger/76.m3u8
+ 
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC 
+http://clinetiptv.ddns.net:8000/live/alger/alger/520.m3u8
+
+#EXTINF:-1 ,InfoSport + 
+http://clinetiptv.ddns.net:8000/live/alger/alger/78.m3u8
+ 
+#EXTINF:-1 ,W9 
+http://clinetiptv.ddns.net:8000/live/alger/alger/79.m3u8
+
+ 
+ 
+#EXTINF:-1 ,CARTOON NETWORK 
+http://clinetiptv.ddns.net:8000/live/alger/alger/400.m3u8
+ 
+#EXTINF:-1 ,GULLI 
+http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
+
+ 
+#EXTINF:-1 ,GLOUBI  
+http://teleclub.fr/ch06.ts
+
+ 
+#EXTINF:-1 ,ENCYCLO 
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+ 
+#EXTINF:-1 ,L’ENORME TV 
+rtmp://ec.playmedia.fr/enorme-tv/ playpath=live swfUrl=http://enorme.tv/mediaelement-live/flashmediaelement.swf pageUrl=http://enorme.tv/
+ 
+ 
  
 
-#EXTINF:0,bein3 fr
-http://195.154.226.186:1935/liveedge/bein3frlsh/playlist.m3u8
-
-#EXTINF:-1,M6
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-#EXTINF:0,w9
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:0,6ter
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
-
-#EXTINF:-1,Disney XD 
-http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1,Cartoon Network 
-http://178.33.88.129:888/udp/239.102.0.89:1234
-
-
-#EXTINF:-1,TV5 MONDE Europe 
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1,Arte (German/French Tv)
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1,TVA Montréal
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1,ICI RDI HD
-http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
-#EXTINF:-1,Discovery Channel 
-http://178.33.88.129:888/udp/239.102.0.90:1234
-#EXTINF:-1,Ushuaia TV 
-http://178.33.88.129:888/udp/239.102.0.91:1234
-#EXTINF:-1,Planete+ Thalassa 
-http://178.33.88.129:888/udp/239.102.0.92:1234
-#EXTINF:-1,Voyage 
-http://178.33.88.129:888/udp/239.102.0.85:1234
-#EXTINF:-1,Animaux 
+ 
+#EXTINF:-1 ,ROUGE TV 
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+ 
+#EXTINF:-1 ,ANIMAUX 
 http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-#EXTINF:-1,Alsace20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/master.m3u8
+ 
 
-#EXTINF:-1,APTV Martinique
-rtmp://wowg-in-a1.tdf-cdn.com/5865//live
-#EXTINF:-1,Zahra TV
-rtmp://176.31.233.163/centre-zahra/tv
  
 #EXTINF:-1 ,Télé MB
 http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
-
+ 
 #EXTINF:-1 ,Télé Sambre
 http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
-
+ 
 #EXTINF:-1 ,Télé Bruxelles
 rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout=60
-                                             
+ 
 #EXTINF:-1 ,TV Lux
 rtmp://wowza.tvlux.imust.org/live/tvlux-live
+
+
 #EXTINF:-1 ,Matele
 http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/playlist.m3u8
 
-############################################################
-#EXTINF:-1,[COLOR red]Les chaines a tester 6 nov[/COLOR]
-############################################################
 
-#EXTINF:-1,FR_TF1_HD
-http://iptv.taqmaq.com:8080/live/test/test/119.ts
-#EXTINF:-1,FR_M6_HD
-http://iptv.taqmaq.com:8080/live/test/test/124.ts
-#EXTINF:-1,FR_FranceO
-http://iptv.taqmaq.com:8080/live/test/test/109.ts
-#EXTINF:-1,FR_France2
-http://iptv.taqmaq.com:8080/live/test/test/110.ts
-#EXTINF:-1,FR_France3
-http://iptv.taqmaq.com:8080/live/test/test/111.ts
-#EXTINF:-1,FR_France4
-http://iptv.taqmaq.com:8080/live/test/test/112.ts
-#EXTINF:-1,FR_D8
-http://iptv.taqmaq.com:8080/live/test/test/116.ts
-#EXTINF:-1,FR_Canal+_HD
-http://iptv.taqmaq.com:8080/live/test/test/131.ts
-#EXTINF:-1,FR_Canal+_Family_HD
-http://iptv.taqmaq.com:8080/live/test/test/130.ts
-#EXTINF:-1,FR_Canal+_Decale_HD
-http://iptv.taqmaq.com:8080/live/test/test/129.ts
 
-############################################################
-#EXTINF:-1,[COLOR red]Les chaînes françaises OFF (Down pour le moment)[/COLOR]
-############################################################
- 
-#EXTINF:-1 tvg-id="0201" group-title="Generales" tvg-logo="0201.png",[COLOR orange]TF1[/COLOR]
-http://wownet.ro/str/0201.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0201" group-title="Generales" tvg-logo="0202.png",[COLOR orangered]TF1 HD[/COLOR]
-http://wownet.ro/str/0202.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0203" group-title="Generales" tvg-logo="0203.png",[COLOR orange]France 2[/COLOR]
-http://wownet.ro/str/0203.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0203" group-title="Generales" tvg-logo="0204.png",[COLOR orangered]France 2 HD[/COLOR]
-http://wownet.ro/str/0204.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0205" group-title="Generales" tvg-logo="0205.png",[COLOR orange]France 3[/COLOR]
-http://wownet.ro/str/0205.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0221" group-title="Generales" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
-http://wownet.ro/str/0221.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0207" group-title="Generales" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
-http://wownet.ro/str/0207.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0206" group-title="Generales" tvg-logo="0206.png",[COLOR orange]Canal+[/COLOR]
-http://wownet.ro/str/0206.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0208" group-title="Generales" tvg-logo="0208.png",[COLOR orange]M6[/COLOR]
-http://wownet.ro/str/0208.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0208" group-title="Generales" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
-http://wownet.ro/str/0209.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0210" group-title="Generales" tvg-logo="0210.png",[COLOR orange]RTS Un[/COLOR]
-http://wownet.ro/str/0210.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0210" group-title="Generales" tvg-logo="0211.png",[COLOR orangered]RTS Un HD[/COLOR]
-http://wownet.ro/str/0211.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0212" group-title="Generales" tvg-logo="0212.png",[COLOR orange]RTS Deux[/COLOR]
-http://wownet.ro/str/0212.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0212" group-title="Generales" tvg-logo="0213.png",[COLOR orangered]RTS Deux HD[/COLOR]
-http://wownet.ro/str/0213.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0214" group-title="Generales" tvg-logo="0214.png",[COLOR orange]arte[/COLOR]
-http://wownet.ro/str/0214.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0214" group-title="Generales" tvg-logo="0215.png",[COLOR orangered]arte HD[/COLOR]
-http://wownet.ro/str/0215.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0216" group-title="Generales" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
-http://wownet.ro/str/0216.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0217" group-title="Generales" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
-http://wownet.ro/str/0217.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0218" group-title="Generales" tvg-logo="0218.png",[COLOR orange]TMC[/COLOR]
-http://wownet.ro/str/0218.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0219" group-title="Generales" tvg-logo="0219.png",[COLOR orange]NT 1[/COLOR]
-http://wownet.ro/str/0219.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0220" group-title="Generales" tvg-logo="0220.png",[COLOR orange]NRJ 12[/COLOR]
-http://wownet.ro/str/0220.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0222" group-title="Generales" tvg-logo="0222.png",[COLOR orange]BFM TV[/COLOR]
-http://wownet.ro/str/0222.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0235" group-title="Generales" tvg-logo="0235.png",[COLOR orange]BFM Business[/COLOR]
-http://wownet.ro/str/0235.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0223" group-title="Generales" tvg-logo="0223.png",[COLOR orange]i>Télé[/COLOR]
-http://wownet.ro/str/0223.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0224" group-title="Generales" tvg-logo="0224.png",[COLOR orange]D17[/COLOR]
-http://wownet.ro/str/0224.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0225" group-title="Generales" tvg-logo="0225.png",[COLOR orange]gulli[/COLOR]
-http://wownet.ro/str/0225.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0226" group-title="Generales" tvg-logo="0226.png",[COLOR orange]France Ô[/COLOR]
-http://wownet.ro/str/0226.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0227" group-title="Generales" tvg-logo="0227.png",[COLOR orangered]HD1 HD[/COLOR]
-http://wownet.ro/str/0227.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0228" group-title="Generales" tvg-logo="0228.png",[COLOR orangered]L'Equipe 21 HD[/COLOR]
-http://wownet.ro/str/0228.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0229" group-title="Generales" tvg-logo="0229.png",[COLOR orangered]6ter HD[/COLOR]
-http://wownet.ro/str/0229.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0230" group-title="Generales" tvg-logo="0230.png",[COLOR orangered]Numéro 23 HD[/COLOR]
-http://wownet.ro/str/0230.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0231" group-title="Generales" tvg-logo="0231.png",[COLOR orangered]RMC Découverte HD[/COLOR]
-http://wownet.ro/str/0231.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0232" group-title="Generales" tvg-logo="0232.png",[COLOR orangered]Chérie 25 HD[/COLOR]
-http://wownet.ro/str/0232.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="" group-title="Generales" tvg-logo="0233.png",[COLOR orangered]RTL 9 HD[/COLOR]
-http://wownet.ro/str/0233.m3u8|X-Forwarded-For=81.17.18.50
 
-#EXTINF:-1 tvg-id="0234" group-title="Generales" tvg-logo="0234.png",[COLOR orange]TV5MONDE[/COLOR]
-http://wownet.ro/str/0234.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0236" group-title="Generales" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
-http://wownet.ro/str/0236.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0237" group-title="Generales" tvg-logo="0237.png",[COLOR orange]euronews[/COLOR]
-http://wownet.ro/str/0237.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0238" group-title="Generales" tvg-logo="0238.png",[COLOR orange]Montagne TV[/COLOR]
-http://wownet.ro/str/0238.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0239" group-title="Generales" tvg-logo="0239.png",[COLOR orange]Cartoon Network[/COLOR]
-http://wownet.ro/str/0239.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="" group-title="Generales" tvg-logo="0240.png",[COLOR orange]TVM 3[/COLOR]
-http://wownet.ro/str/0240.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0241" group-title="Generales" tvg-logo="0241.png",[COLOR orange]rouge TV[/COLOR]
-http://wownet.ro/str/0241.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="" group-title="Generales" tvg-logo="0242.png",[COLOR orange]canal 9[/COLOR]
-http://wownet.ro/str/0242.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0243" group-title="Generales" tvg-logo="0243.png",[COLOR orange]kto[/COLOR]
-http://wownet.ro/str/0243.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0244" group-title="Generales" tvg-logo="0244.png",[COLOR orange]la télé[/COLOR]
-http://wownet.ro/str/0244.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0245" group-title="Generales" tvg-logo="0245.png",[COLOR orange]léman bleu[/COLOR]
-http://wownet.ro/str/0245.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0246" group-title="Generales" tvg-logo="0246.png",[COLOR orange]canal alpha[/COLOR]
-http://wownet.ro/str/0246.m3u8|X-Forwarded-For=81.17.18.50
- 
-#EXTINF:-1 tvg-id="0247" group-title="Generales" tvg-logo="0247.png",[COLOR orange]canal alpha NE[/COLOR]
-http://wownet.ro/str/0247.m3u8|X-Forwarded-For=81.17.18.50
+
+
+
+
+
+
+
+
+
+
