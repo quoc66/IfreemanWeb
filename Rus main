@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF: -1,Star
+http://win.cdn.bonus-tv.ru/TVB8/zvezda/playlist.m3u8
+#EXTINF: -1, Zoo
+http://win.cdn.bonus-tv.ru/TVB8/zoopark/playlist.m3u8
+#EXTINF: -1, World Fashion Europe HD
+http://win.cdn.bonus-tv.ru/TVB8/wfhdeu/playlist.m3u8
+#EXTINF: -1, World Fashion HD
+http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+#EXTINF: -1, World Business Channel HD
+http://win.cdn.bonus-tv.ru/TVB8/wbc/playlist.m3u8
+#EXTINF: -1, HD RF Together
+http://win.cdn.bonus-tv.ru/TVB8/vmesterf/playlist.m3u8
+#EXTINF: -1, TVM Channel
+http://win.cdn.bonus-tv.ru/TVB8/tvm/playlist.m3u8
+#EXTINF: -1, TNV
+http://win.cdn.bonus-tv.ru/TVB8/tnv/playlist.m3u8
+#EXTINF: -1, Tiji
+http://win.cdn.bonus-tv.ru/TVB8/tiji/playlist.m3u8
+#EXTINF: -1, Tamyr
+http://win.cdn.bonus-tv.ru/TVB8/tamyr/playlist.m3u8
+#EXTINF: -1, Shop 24
+http://win.cdn.bonus-tv.ru/TVB8/stilimoda/playlist.m3u8
+#EXTINF: -1, Chanson TV
+http://win.cdn.bonus-tv.ru/TVB8/shansontv/playlist.m3u8
+#EXTINF: -1, Russian Extreme
+http://win.cdn.bonus-tv.ru/TVB8/russkiyextrim/playlis.m3u8
+#EXTINF: -1, Russian Culture
+http://win.cdn.bonus-tv.ru/TVB8/russiak/playlist.m3u8
+#EXTINF: -1, Russia 24
+http://win.cdn.bonus-tv.ru/TVB8/russia24/playlist.m3u8
+#EXTINF: -1, Russia HD
+http://win.cdn.bonus-tv.ru/TVB8/russiahd/playlist.m3u8
+#EXTINF: -1, Match TV
+http://win.cdn.bonus-tv.ru/TVB8/russia2/playlist.m3u8
+#EXTINF: -1, Http://sat-master.org Russia 1
+http://win.cdn.bonus-tv.ru/TVB8/russia1/playlist.m3u8
+#EXTINF: -1, Russia Today HD
+http://win.cdn.bonus-tv.ru/TVB8/rttv/playlist.m3u8
+#EXTINF: -1, Russia Today HD Dock
+http://win.cdn.bonus-tv.ru/TVB8/rtdoc/playlist.m3u8
+#EXTINF: -1, My Joy
+http://win.cdn.bonus-tv.ru/TVB8/radostmoya/playlist.m3u8
+#EXTINF: -1, Education
+http://win.cdn.bonus-tv.ru/TVB8/prosvewenie/playlist.m3u8
+#EXTINF: -1, OTV
+http://win.cdn.bonus-tv.ru/TVB8/otv/playlist.m3u8
+#EXTINF: -1, Weapons
+http://win.cdn.bonus-tv.ru/TVB8/orujie/playlist.m3u8
+#EXTINF: -1, NTV
+http://win.cdn.bonus-tv.ru/TVB8/ntv/playlist.m3u8
+#EXTINF: -1, LIFENEWS
+http://win.cdn.bonus-tv.ru/TVB8/lifenews/playlist.m3u8
+#EXTINF: -1, Kurai
+http://win.cdn.bonus-tv.ru/TVB8/kurai/playlist.m3u8
+#EXTINF: -1, Inva Media TV
+http://win.cdn.bonus-tv.ru/TVB8/invatv/playlist.m3u8
+#EXTINF: -1, Russian Illusion
+http://win.cdn.bonus-tv.ru/TVB8/illuzionrus/playlist.m3u8
+#EXTINF: -1, Illusion +
+http://win.cdn.bonus-tv.ru/TVB8/illuzionplus/playlist.m3u8
+#EXTINF: -1, Gulli
+http://win.cdn.bonus-tv.ru/TVB8/gulli/playlist.m3u8
+#EXTINF: -1, Omsk 12 Channel
+http://win.cdn.bonus-tv.ru/TVB8/gtrkomsk/playlist.m3u8
+#EXTINF: -1, Football
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+#EXTINF: -1, Phoenix + Movie
+http://win.cdn.bonus-tv.ru/TVB8/fenixikino/playlist.m3u8
+#EXTINF: -1, Evrokino
+http://win.cdn.bonus-tv.ru/TVB8/eurokino/playlist.m3u8
+#EXTINF: -1, Children
+http://win.cdn.bonus-tv.ru/TVB8/detsky/playlist.m3u8
+#EXTINF: -1, Carousel
+http://win.cdn.bonus-tv.ru/TVB8/carousel/playlist.m3u8
+#EXTINF: -1, BLS
+http://win.cdn.bonus-tv.ru/TVB8/bst/playlist.m3u8
+#EXTINF: -1, 24 Astrakhan HD
+http://win.cdn.bonus-tv.ru/TVB8/astrakhan/playlist.m3u8
+#EXTINF: -1, A-ONE
+http://win.cdn.bonus-tv.ru/TVB8/a1tv/playlist.m3u8
+#EXTINF: -1, The Ninth Wave
+http://win.cdn.bonus-tv.ru/TVB8/9volna/playlist.m3u8
+#EXTINF: -1, Channel Five
+http://win.cdn.bonus-tv.ru/TVB8/5channel/playlist.m3u8
+#EXTINF: -1, Teledom
+http://win.cdn.bonus-tv.ru/TVB8/teledom/index.m3u8
