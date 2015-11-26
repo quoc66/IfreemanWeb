@@ -30,9 +30,9 @@
 </item>
 -----------------------------------------------------------------
 <item>
-<title>[COLOR palegreen][B]Recherche[/B][/COLOR]</title>
+<title>[COLOR palegreen][B]Recherche Film et series[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;mode=1;siteUrl=http%3A%2F%2Fvenom&amp</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;mode=1;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
 <thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
 </item>
 
