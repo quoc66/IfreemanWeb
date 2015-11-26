@@ -32,7 +32,7 @@
 <item>
 <title>[COLOR palegreen][B]Recherche FFilms[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
 <thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
 </item>
 
