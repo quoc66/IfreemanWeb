@@ -7,7 +7,7 @@
 <root>
 
 <item>
-<name>[COLOR lime][B]Films VF[/COLOR][/B]</name>
+<title>[COLOR lime][B]Films VF[/COLOR][/B]</title>
 <thumbnail>http://bit.ly/1SA5sC0</thumbnail>
 <fanart>http://bit.ly/1SA5sC0</fanart>
 <link>http://ignoreme</link>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[COLOR green][B]Series VF[/B][/COLOR]</title>
+<title>[COLOR green][B]Series VFF[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;sFav=showMovies;mode=1</jsonrpc>
 <thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
