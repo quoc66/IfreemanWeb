@@ -1,0 +1,35 @@
+#<layoutype>list</layoutype>
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+<item>
+<name>[COLOR lime][B]Films VF[/COLOR][/B]</name>
+<thumbnail>http://bit.ly/1SA5sC0</thumbnail>
+<fanart>http://bit.ly/1SA5sC0</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showMovies&amp;title=[COLOR+gray]Movies+-+News[/COLOR]+-+[COLOR+azure]Libre-stream.org[/COLOR]</jsonrpc>
+</item>
+ 
+<item>
+<title>[COLOR green][B]Series VF[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp</jsonrpc>
+<thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR palegreen][B]Categories des films[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp</jsonrpc>
+<thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR palegreen][B]Recherche[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp</jsonrpc>
+<thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
+</item>
+ 
+</root>
