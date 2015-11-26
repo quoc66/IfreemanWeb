@@ -11,11 +11,11 @@
 <thumbnail>http://bit.ly/1SA5sC0</thumbnail>
 <fanart>http://bit.ly/1SA5sC0</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showMovies&amp;title=[COLOR+gray]Movies+-+News[/COLOR]+-+[COLOR+azure]Libre-stream.org[/COLOR]</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showMovies&amp;title=[COLOR+gray]Movies+-+News[/COLOR]+-+[COLOR+azure]Libre-stream.org[/COLOR]&amp;siteUrl=http://libre-stream.org/films/&amp;mode=1</jsonrpc>
 </item>
 
 <item>
-<title>[COLOR green][B]Series VFFF[/B][/COLOR]</title>
+<title>[COLOR green][B]Series VF[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;sFav=showMovies;mode=1</jsonrpc>
 <thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
@@ -30,7 +30,7 @@
 </item>
 -----------------------------------------------------------------
 <item>
-<title>[COLOR palegreen][B]Recherche RR[/B][/COLOR]</title>
+<title>[COLOR palegreen][B]Recherche[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
 <thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
