@@ -6,17 +6,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 <item>
-<title>[COLOR gold][B]Live Event pre-selection[/B][/COLOR]</title>
+<title>[COLOR green][B]Series VF[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://lh5.googleusercontent.com/-VLJUzfCR7a0/Vgq_tWcafoI/AAAAAAAAAno/ah4lz773k3U/w675-h384-no/SportsBanner41.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp</jsonrpc>
+<thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
 </item>
  
+ 
 <item>
-<title>[COLOR green][B]Other selection[/B][/COLOR]</title>
+<title>[COLOR palegreen][B]Categories des films[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp</jsonrpc>
+<thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
 </item>
 -----------------------------------------------------------------
 <item>
