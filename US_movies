@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-<item>
-<title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
-<thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
-</item>
 
 <item>
-<title>[COLOR lime][B]USS2 Movies[/B][/COLOR]</title>
+<title>[COLOR lime][B]Movies[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
+ <item>
+<title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
+<thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
+</item>
+
  
 <item>
-<title>[COLOR lime][B]Movie categories[/B][/COLOR]</title>
+<title>[COLOR lime][B]Movies Genre[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=BrowseByGenreMenu</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]tV Serie categories[/B][/COLOR]</title>
+<title>[COLOR lime][B]TV Seris Genre[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
+
+
 -----------------------------------------------------------------
 <item>
 <title>[COLOR lime][B]Recherche[/B][/COLOR]</title>
