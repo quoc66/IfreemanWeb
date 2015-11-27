@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-
 <item>
 <title>[COLOR lime][B]Movies[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
-<thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
  
 <item>
@@ -21,6 +20,13 @@
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
+</item>
+
+<item>
+<title>Favorite Movies (watch later)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=browse_favorites</jsonrpc>
+<thumbnail>http://womensvoicesforchange.org/wp-content/uploads/2012/02/Logo_FIFA_-243x200.jpg</thumbnail>
 </item>
 
 
@@ -44,15 +50,12 @@
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
-
 <item>
-<title>Series Favorites</title>
+<title>Favorite Series (bookmark)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=browse_favorites</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+<thumbnail>http://www.classictvfavorites.com/images/logo.png</thumbnail>
 </item>
-
------------------------------------------------------------------
 
 
 <item>
