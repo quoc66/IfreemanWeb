@@ -19,14 +19,14 @@
 <item>
 <title>24/7 channels</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.dextertv/?url=http%3A%2F%2Fdexteriptv.com%2Fdev2%2Ftv%2F247%2Fcar.php%3Fusername%3Dvgqt2002%40gmail.com%26password%3Da89490487&amp;mode=1&amp;name=%5BCOLOR+oldlace%5D%5BB%5DANIMATED%5B%2FB%5D+%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fdexteriptv.com%2Flive%2Fthumbs%2Ffanart.jpg</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 -----------------------------------------------------------------
 <item>
 <title>Educational</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.zeus/?url=kids%2Beducational%2Bvideo&amp;mode=59&amp;name=%5BCOLOR+white%5DKIDS+SCHOOL%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fs6.postimg.org%2Fb05ms9ggx%2Fkidsschool.png&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
