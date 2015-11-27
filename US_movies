@@ -43,7 +43,7 @@
 <item>
 <title>[COLOR lime][B]Main menu (for film research)[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=BrowseListMenu</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel/?mode=GetSearchQuery&amp;section=tv</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
