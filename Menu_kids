@@ -15,19 +15,19 @@
 <thumbnail>http://1.bp.blogspot.com/-iRfKGaFSAuM/U3XmBsaoKCI/AAAAAAAAMUQ/GzBRUUZ6Fmk/s1600/drew+struzan+stephen+king.jpg</thumbnail>
 </item>
  
- 
-<item>
-<title>24/7 channels</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.dextertv/?url=http%3A%2F%2Fdexteriptv.com%2Fdev2%2Ftv%2F247%2Fcar.php%3Fusername%3Dvgqt2002%40gmail.com%26password%3Da89490487&amp;mode=1&amp;name=%5BCOLOR+oldlace%5D%5BB%5DANIMATED%5B%2FB%5D+%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fdexteriptv.com%2Flive%2Fthumbs%2Ffanart.jpg</jsonrpc>
-<thumbnail>http://rlv.zcache.com.au/property_of_my_kids_24_7_postcard-rffa14a7fc1fa48ce83dc80ba91bbf750_vgbaq_8byvr_324.jpg</thumbnail>
-</item>
------------------------------------------------------------------
+
 <item>
 <title>Educational</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.zeus/?url=kids%2Beducational%2Bvideo&amp;mode=59&amp;name=%5BCOLOR+white%5DKIDS+SCHOOL%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fs6.postimg.org%2Fb05ms9ggx%2Fkidsschool.png&amp;description=</jsonrpc>
 <thumbnail>http://igamemom.com/wp-content/uploads/2014/11/Educational-Movies-for-Kids-480x237.jpg</thumbnail>
+</item>
+
+<item>
+<title>24/7 channels</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.dextertv/?url=http%3A%2F%2Fdexteriptv.com%2Fdev2%2Ftv%2F247%2Fcar.php%3Fusername%3Dvgqt2002%40gmail.com%26password%3Da89490487&amp;mode=1&amp;name=%5BCOLOR+oldlace%5D%5BB%5DANIMATED%5B%2FB%5D+%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fdexteriptv.com%2Flive%2Fthumbs%2Ffanart.jpg</jsonrpc>
+<thumbnail>http://rlv.zcache.com.au/property_of_my_kids_24_7_postcard-rffa14a7fc1fa48ce83dc80ba91bbf750_vgbaq_8byvr_324.jpg</thumbnail>
 </item>
 
 </items>
