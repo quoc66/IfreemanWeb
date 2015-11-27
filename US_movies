@@ -33,7 +33,7 @@
 <title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
-<thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
+<thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
 
@@ -59,7 +59,7 @@
 <title>Search TV Serie</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
-<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
+<thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
 </item>
 
 </root>
