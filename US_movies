@@ -11,7 +11,7 @@
 <item>
 <title>[COLOR lime][B]USS Movies[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel"&amp;mode=1</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
