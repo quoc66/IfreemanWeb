@@ -3,8 +3,8 @@
 
 <item>
 <title>[COLOR lime][B]Films VFF[/COLOR][/B]</title>
-<thumbnail>http://bit.ly/1SA5sC0</thumbnail>
-<fanart>http://bit.ly/1SA5sC0</fanart>
+<thumbnail>http://chuckyg.com/lists/movies/posters/amelie-2001.jpg</thumbnail>
+<fanart>http://chuckyg.com/lists/movies/posters/amelie-2001.jpg</fanart>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showMovies&amp;title=[COLOR+gray]Movies+-+News[/COLOR]+-+[COLOR+azure]Libre-stream.org[/COLOR]&amp;siteUrl=http://libre-stream.org/films/&amp;mode=1</jsonrpc>
 </item>
