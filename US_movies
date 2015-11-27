@@ -25,12 +25,19 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]TV Seris Genre[/B][/COLOR]</title>
+<title>[COLOR lime][B]TV Series Genre[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR lime][B]Series Favorites[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=browse_favorites</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
 
 -----------------------------------------------------------------
 <item>
