@@ -41,9 +41,9 @@
 
 -----------------------------------------------------------------
 <item>
-<title>[COLOR lime][B]Search TV[/B][/COLOR]</title>
+<title>[COLOR lime][B]Search TV Movies[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?mode=GetSearchQuery&amp;section=tv</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
