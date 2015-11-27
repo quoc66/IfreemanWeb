@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root>
+<?xml version="1.0" encoding="utf-8" standalone = "yes"?>
+<items>
 
 <item>
 <title>Animation movies</title>
@@ -30,4 +30,4 @@
 <thumbnail>http://igamemom.com/wp-content/uploads/2014/11/Educational-Movies-for-Kids-480x237.jpg</thumbnail>
 </item>
 
-</root>
+</items>
