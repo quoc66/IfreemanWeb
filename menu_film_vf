@@ -1,6 +1,5 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<root>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
 <item>
 <title>[COLOR lime][B]Films VF[/COLOR][/B]</title>
@@ -32,4 +31,4 @@
 <thumbnail>https://svenskfotbolllive.files.wordpress.com/2011/04/cropped-header2.jpg</thumbnail>
 </item>
 
-    </root>
+</items>
