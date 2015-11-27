@@ -9,7 +9,6 @@
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
-  
 <item>
 <title>Movies Genre</title>
 <link>ignorme</link>
@@ -26,10 +25,8 @@
 
 
 <item>
-<title>[COLOR gold][B]                  =================             [/B][/gold]</title>
+<title>[COLOR gold][B]=================[/B][/color]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
-<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
  
  <item>
