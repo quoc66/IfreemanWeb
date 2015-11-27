@@ -9,6 +9,29 @@
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
+  
+<item>
+<title>Movies Genre</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=BrowseByGenreMenu</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
+
+<item>
+<title>Search Movie</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
+<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gold][B]                  =================             [/B][/gold]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
+<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
+</item>
+ 
  <item>
 <title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
 <link>ignorme</link>
@@ -16,16 +39,9 @@
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
 
- 
-<item>
-<title>[COLOR lime][B]Movies Genre[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=BrowseByGenreMenu</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-</item>
 
 <item>
-<title>[COLOR lime][B]TV Series Genre[/B][/COLOR]</title>
+<title>TV Series Genre</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
@@ -33,15 +49,17 @@
 
 
 <item>
-<title>[COLOR lime][B]Series Favorites[/B][/COLOR]</title>
+<title>Series Favorites</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=browse_favorites</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
 -----------------------------------------------------------------
+
+
 <item>
-<title>[COLOR lime][B]Search TV Movies[/B][/COLOR]</title>
+<title>[COLOR lime][B]Search TV Serie[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
