@@ -56,7 +56,7 @@
 
 
 <item>
-<title>[COLOR lime][B]Search TV Serie[/B][/COLOR]</title>
+<title>Search TV Serie</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
