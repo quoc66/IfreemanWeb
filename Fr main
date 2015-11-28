@@ -21,81 +21,67 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
 #EXTINF:-1,La tele
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 
-
 ############################################################
-#EXTINF:-1,[COLOR lime]Generales [/COLOR]
-http://atlasweb.net
+#EXTINF:-1,[COLOR palegreen]Generales[/COLOR]
 ############################################################
 
+#EXTINF:-1,M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:0,w9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:0,6ter
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
 
 
-#EXTINF:-1 ,CANAL+ 
-http://clinetiptv.ddns.net:8000/live/alger/alger/295.m3u8
- 
-#EXTINF:-1 ,TF1
+#EXTINF:-1 tvg-id=”tf1.fr”,TF1 
 http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
 
- 
-#EXTINF:-1 ,M6 
-http://clinetiptv.ddns.net:8000/live/alger/alger/77.m3u8
- 
- 
-#EXTINF:-1 ,ARTE 
-http://clinetiptv.ddns.net:8000/live/alger/alger/80.m3u8
- 
-#EXTINF:-1 ,FRANCE 2 
-http://clinetiptv.ddns.net:8000/live/alger/alger/71.m3u8
- 
-#EXTINF:-1 ,FRANCE 3 
-http://clinetiptv.ddns.net:8000/live/alger/alger/72.m3u8
- 
-#EXTINF:-1 ,FRANCE 4 
-http://clinetiptv.ddns.net:8000/live/alger/alger/73.m3u8
- 
-#EXTINF:-1 ,FRANCE 5 
-http://clinetiptv.ddns.net:8000/live/alger/alger/74.m3u8
- 
-#EXTINF:-1 ,FRANCE O 
-http://clinetiptv.ddns.net:8000/live/alger/alger/76.m3u8
- 
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC 
-http://clinetiptv.ddns.net:8000/live/alger/alger/520.m3u8
+#EXTINF:-1 tvg-id=”tf1.fr”,France 2 
+http://liveiptv.olympe.in/proxyf.php/http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
 
-#EXTINF:-1 ,InfoSport + 
-http://clinetiptv.ddns.net:8000/live/alger/alger/78.m3u8
- 
-#EXTINF:-1 ,W9 
-http://clinetiptv.ddns.net:8000/live/alger/alger/79.m3u8
+#EXTINF:-1 tvg-id=”tf1.fr”,France 3 
+http://liveiptv.olympe.in/proxyf.php/http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
 
- 
- 
-#EXTINF:-1 ,CARTOON NETWORK 
-http://clinetiptv.ddns.net:8000/live/alger/alger/400.m3u8
- 
-#EXTINF:-1 ,GULLI 
+#EXTINF:-1 tvg-id=”tf1.fr”,France 4 
+http://liveiptv.olympe.in/proxyf.php/http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+
+#EXTINF:-1 tvg-id=”tf1.fr”,France 5
+http://liveiptv.olympe.in/proxyf.php/http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+
+#EXTINF:-1 tvg-id=”tf1.fr”,Gulli
 http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
 
- 
-#EXTINF:-1 ,GLOUBI  
-http://teleclub.fr/ch06.ts
+#EXTINF:-1 tvg-id=”tf1.fr”,M6_music
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_1256.m3u8
 
- 
-#EXTINF:-1 ,ENCYCLO 
-http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-id=”tf1.fr”,Teletoon
+http://clinetiptv.ddns.net:8000/live/alger/alger/519.m3u8
+
+#EXTINF:-1,TV5 MONDE Europe 
+http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
+#EXTINF:-1,Arte (German/French Tv)
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,TVA Montréal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1,ICI RDI HD
+http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Alsace20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/master.m3u8
+
+#EXTINF:-1,APTV Martinique
+rtmp://wowg-in-a1.tdf-cdn.com/5865//live
+#EXTINF:-1,Zahra TV
+rtmp://176.31.233.163/centre-zahra/tv
+
 #EXTINF:-1 ,L’ENORME TV 
 rtmp://ec.playmedia.fr/enorme-tv/ playpath=live swfUrl=http://enorme.tv/mediaelement-live/flashmediaelement.swf pageUrl=http://enorme.tv/
- 
- 
- 
 
- 
+                                           
 #EXTINF:-1 ,ROUGE TV 
-rtsp://rtmp.infomaniak.ch/livecast/rougetv
- 
-#EXTINF:-1 ,ANIMAUX 
-http://87.248.160.8/edge/smil:animaux/playlist.m3u8
- 
+rtsp://rtmp.infomaniak.ch/livecast/rougetv 
 
  
 #EXTINF:-1 ,Télé MB
