@@ -6,7 +6,7 @@
 <title>UK/US TV</title>
 <thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DKids%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FKids.xml&amp;audio=0&amp;image=http%3A%2F%2Fcreateapk.com%2Fproject%2F2014%2F09%2Fafrizaldarwin%2Fthe-minions-despicable-me-wallpaper%2Ficon.png&amp;fanart=http%3A%2F%2Fs6.postimg.org%2F6tj6zom81%2Fkids4.png&amp;playable=true&amp;tvshow=0&amp;content=movies&amp;action=ndmode</jsonrpc>
+<jsonrpc>plugin://script.tvguidetecbox</jsonrpc>
 </item>
 
 </items>
