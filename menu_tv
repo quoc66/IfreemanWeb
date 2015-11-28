@@ -4,23 +4,39 @@
 
 <item>
 <title>UK/US TV</title>
-<thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
+<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/dax25d4dcfbzzi2/linked_channels-Sports.csv?dl=1</jsonrpc>
 </item>
 
 <item>
 <title>Sports Channels</title>
-<thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/dax25d4dcfbzzi2/linked_channels-Sports.csv?dl=1</jsonrpc>
 </item>
 
 <item>
 <title>Kids channels</title>
-<thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
+<thumbnail>http://store.virginmedia.com/content/dam/eSales/responsivediscover/tv/what-to-watch/watch-4kids-logos.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/udlvq1skpwashd0/linked_channels_kids.csv?dl=1</jsonrpc>
 </item>
+
+
+<item>
+<title>French channels</title>
+<thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb, https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Fr%20main)</jsonrpc>
+</item>
+
+<item>
+<title>Thai channels</title>
+<thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.mxthai</jsonrpc>
+</item>
+
 
 </items>
