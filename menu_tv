@@ -6,7 +6,7 @@
 <title>UK/US TV</title>
 <thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman</jsonrpc>
+<jsonrpc>plugin://script.ivue.ifreeman, https://www.dropbox.com/s/dax25d4dcfbzzi2/linked_channels-Sports.csv?dl=1</jsonrpc>
 </item>
 
 </items>
