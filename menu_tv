@@ -28,7 +28,7 @@
 <title>Chaines Francaises</title>
 <thumbnail>http://www.quel-horaire.com/img/programme-chaine-logo.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb, https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Fr%20main</jsonrpc>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Fr%20main</jsonrpc>
 </item>
 
 <item>
@@ -37,6 +37,5 @@
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.mxthai</jsonrpc>
 </item>
-
 
 </items>
