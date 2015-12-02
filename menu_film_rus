@@ -17,9 +17,9 @@
 </item>
 -----------------------------------------------------------------
 <item>
-<title>Search film</title>
+<title>main menu/Search film</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.kino-live.org</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
