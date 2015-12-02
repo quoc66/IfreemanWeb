@@ -5,7 +5,7 @@
 <title>Movies in Russian</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.kino-live.org/?href=http://kino-live2.org/hd/&amp;mode=readCategory&quot</jsonrpc>
+<jsonrpc>plugin://plugin.video.kino-live.org/?href=http://kino-live2.org/hd/&amp;mode=readCategory</jsonrpc>
 </item>
 
 
