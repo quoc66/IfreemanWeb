@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>Selection de Films en Francais #2</title>
+<title>Selection de Films en Francais</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+News%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DFilm-streaming.co%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Findex.php&amp;mode=1</jsonrpc>
@@ -30,13 +30,17 @@
 </item>
 
 <item>
-<title>Series en francais</title>
+<title>[B]Series en francais[/B]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
- 
+  
+<item>
+<title>========================================================</title>
+</item>
+
 <item>
 <title>Categories des films</title>
 <link>ignorme</link>
@@ -58,11 +62,5 @@
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
-<item>
-<title>Pre-selections films Francais</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+blue%5DNEW%3A+CINEMA+FRANCAIS%5B%2FCOLOR%5D%5BCOLOR+red%5D++%22PRAY+FOR+PARIS%22%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Ffrench.xml&amp;audio=0&amp;image=http%3A%2F%2Fs23.postimg.org%2F57ba7hkcb%2FCinema_Francais2.jpg&amp;fanart=http%3A%2F%2Fimg05.deviantart.net%2F6db8%2Fi%2F2013%2F337%2Fb%2Ff%2Fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<thumbnail>http://library.salve.edu/images/nb-frenchfilm2011b.jpg</thumbnail>
-</item>
 
 </root>
