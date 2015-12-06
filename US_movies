@@ -8,11 +8,31 @@
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
+
+
+ <item>
+<title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
+<thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]=================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
  
 <item>
 <title>Movies Genre</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=BrowseByGenreMenu</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Series Genre</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
@@ -24,31 +44,17 @@
 </item>
 
 <item>
+<title>Search TV Serie</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
+<thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
+</item>
+
+<item>
 <title>Favorite Movies (watch later)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=browse_favorites</jsonrpc>
 <thumbnail>http://womensvoicesforchange.org/wp-content/uploads/2012/02/Logo_FIFA_-243x200.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR gold][B]=================[/B][/COLOR]</title>
-<link>ignorme</link>
-</item>
- 
- <item>
-<title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
-<thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
-</item>
-
-
-<item>
-<title>TV Series Genre</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
 <item>
@@ -56,14 +62,6 @@
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=browse_favorites</jsonrpc>
 <thumbnail>http://www.classictvfavorites.com/images/logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>Search TV Serie</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
-<thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
 </item>
 
 </root>
