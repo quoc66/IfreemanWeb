@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+<item>
+<title>Imdb top 250</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+
+ <item>
+<title>Classic Westerns</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
+<thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
+</item>
+
+</root>
