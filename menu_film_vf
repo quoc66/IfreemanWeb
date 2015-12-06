@@ -13,7 +13,7 @@
 <title>Films en Francais #2 (nouvelle source)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Films+les+plus+vus&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ftop.php&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</jsonrpc>
 </item>
 
 <item>
