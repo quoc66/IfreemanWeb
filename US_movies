@@ -3,15 +3,22 @@
 <root>
 
 <item>
-<title>[COLOR lime][B]Movies[/B][/COLOR]</title>
+<title>[B]Movies[/B]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
+<item>
+<title>Movies selected playlists</title>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
 
  <item>
-<title>[COLOR lime][B]TV Series[/B][/COLOR]</title>
+<title>[B]TV Series[/B]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
