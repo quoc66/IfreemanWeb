@@ -3,12 +3,33 @@
 <root>
 
 <item>
+<title>Top 250 imdb</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.salts/?username=hulkhorgen&amp;section=Movies&amp;mode=show_list&amp;slug=imdb-best-250-movies</jsonrpc>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
+</item>
+
+<item>
+<title>Top box office</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.salts/?username=hulkhorgen&amp;section=Movies&amp;mode=show_list&amp;slug=imdb-best-250-movies</jsonrpc>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
+</item>
+
+<item>
+<title>Oscar movies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=Best+Picture+Oscars&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Foscars.xml&amp;audio=0&amp;image=http%3A%2F%2Fs16.postimg.org%2Fdmwumzm1x%2Foscars.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
+</item>
+
+
+<item>
 <title>Box sets</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
 </item>
-
 
  <item>
 <title>Classic Westerns</title>
@@ -35,6 +56,13 @@
 <title>Martial arts</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Martial%2520Arts%2520Movies.txt&amp;mode=1&amp;name=Classic+Martial+Arts+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
+</item>
+
+<item>
+<title>Comedies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=Funniest+Comedies+Ever&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FMovies%2Ffunny.xml&amp;audio=0&amp;image=http%3A%2F%2Fs3.postimg.org%2Fbbzs9l983%2FComedies.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
 <thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
 </item>
 
