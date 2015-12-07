@@ -12,7 +12,7 @@
 <item>
 <title>Top box office</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.salts/?username=hulkhorgen&amp;section=Movies&amp;mode=show_list&amp;slug=imdb-best-250-movies</jsonrpc>
+<jsonrpc>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</jsonrpc>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
 </item>
 
@@ -31,10 +31,22 @@
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR gold][B]=================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
  <item>
 <title>Classic Westerns</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Western%2520Movies.txt&amp;mode=1&amp;name=Classic+Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<thumbnail>http://www.spaghetti-western.net/images/thumb/4/41/Anyguncanplaybook.png/300px-Anyguncanplaybook.png</thumbnail>
+</item>
+
+ <item>
+<title>Action movies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D21127&amp;mode=show_playlist&amp;public=True</jsonrpc>
 <thumbnail>http://www.spaghetti-western.net/images/thumb/4/41/Anyguncanplaybook.png/300px-Anyguncanplaybook.png</thumbnail>
 </item>
 
@@ -49,6 +61,20 @@
 <title>War movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520War%2520Movies.txt&amp;mode=1&amp;name=Classic+War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<thumbnail>http://www.filmsite.org/images/greatest-war-films2.jpg</thumbnail>
+</item> 
+
+ <item>
+<title>Thriller/suspens</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D21859&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<thumbnail>http://www.filmsite.org/images/greatest-war-films2.jpg</thumbnail>
+</item> 
+
+ <item>
+<title>Sci-fi</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D52536&amp;mode=show_playlist&amp;public=True</jsonrpc>
 <thumbnail>http://www.filmsite.org/images/greatest-war-films2.jpg</thumbnail>
 </item> 
 
