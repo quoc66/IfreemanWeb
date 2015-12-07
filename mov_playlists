@@ -86,6 +86,13 @@
 </item>
 
 <item>
+<title>Martial arts #2</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D43901&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
+</item>
+
+<item>
 <title>Comedies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=Funniest+Comedies+Ever&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FMovies%2Ffunny.xml&amp;audio=0&amp;image=http%3A%2F%2Fs3.postimg.org%2Fbbzs9l983%2FComedies.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
