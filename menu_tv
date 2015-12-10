@@ -32,7 +32,7 @@
 <title>Informations 24/24</title>
 <thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Fr%20main</jsonrpc>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/fr_news</jsonrpc>
 </item>
 
 <item>
