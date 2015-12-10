@@ -3,10 +3,10 @@
 
 
 <item>
-<title>Equipe 21</title>
+<title>Equipe 21 21</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.AtlasWeb/?url=http%3A%2F%2Fstreaming-hub.com%2Fstream%2Flequipe21.m3u8&amp;mode=12</jsonrpc>
+<playmedia>plugin://plugin.video.AtlasWeb/?url=http%3A%2F%2Fstreaming-hub.com%2Fstream%2Flequipe21.m3u8&amp;mode=12</playmedia>
 </item>
 
 <item>
