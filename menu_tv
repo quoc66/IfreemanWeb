@@ -23,20 +23,35 @@
 <jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/udlvq1skpwashd0/linked_channels_kids.csv?dl=1</jsonrpc>
 </item>
 
+<item>
+<title>[COLOR gold][B]=================Chaines Francaises===================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
 
 <item>
-<title>Chaines Francaises</title>
-<thumbnail>http://www.quel-horaire.com/img/programme-chaine-logo.png</thumbnail>
+<title>Informations 24/24</title>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Fr%20main</jsonrpc>
 </item>
-
 
 <item>
 <title>Chaines de sport</title>
 <thumbnail>http://3.bp.blogspot.com/-jnLRTajKiRw/VRBZSfNyWGI/AAAAAAAAAVY/CsQg5uNKIfQ/s1600/bein-sport-3.png</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/sprt_fr</jsonrpc>
+</item>
+
+<item>
+<title>Chaines generales</title>
+<thumbnail>http://www.quel-horaire.com/img/programme-chaine-logo.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Fr%20main</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR gold][B]==================================[/B][/COLOR]</title>
+<link>ignorme</link>
 </item>
 
 <item>
