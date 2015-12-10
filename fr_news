@@ -14,5 +14,7 @@ http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/04.m3u8
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
 #EXTINF:-1,France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
+#EXTINF:-1,TV5 MONDE Europe 
+http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
 #EXTINF:-1,La tele
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
