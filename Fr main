@@ -2,7 +2,7 @@
 
 
 ############################################################
-#EXTINF:-1,[COLOR gold]Generales[/COLOR]
+#EXTINF:-1,[COLOR gold]===========Generales========[/COLOR]
 ############################################################
 
 
@@ -46,8 +46,11 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_ae
 #EXTINF:0,w9
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
 
+#EXTINF:-1,Arte (German/French Tv)
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+
 ############################################################
-#EXTINF:-1,[COLOR gold]Enfants[/COLOR]
+#EXTINF:-1,[COLOR gold]===========Enfants=========[/COLOR]
 ############################################################
 
 #EXTINF:-1 tvg-id=”tf1.fr”,Gulli
@@ -57,18 +60,10 @@ http://tvclub.fr/ch05.ts
 #EXTINF:-1 tvg-id=”tf1.fr”,Teletoon
 http://clinetiptv.ddns.net:8000/live/alger/alger/519.m3u8
 
-############################################################
-#EXTINF:-1,[COLOR gold]================[/COLOR]
-############################################################
-
-#EXTINF:-1,TV5 MONDE Europe 
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1,Arte (German/French Tv)
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 
 
 ############################################################
-#EXTINF:-1,[COLOR gold]Regionales[/COLOR]
+#EXTINF:-1,[COLOR gold]=========Regionales=========[/COLOR]
 ############################################################
 
 
