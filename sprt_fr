@@ -13,11 +13,18 @@
 <title>Canal plus Sport</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?fanart=image%3a%2f%2f%252fstorage%252f.kodi%252faddons%252fplugin.video.SportsDevil%252ffanart.jpg%2f&mode=53&name=Canal%2b%20Sport%20France%20&url=plugin%3a%2f%2fplugin.video.SportsDevil%2f%3fmode%3d1%26item%3ddefinedIn%253Dilive.to-sports.cfg%2526url.tmp%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fchannels%25252FLive%252BSport%25253Fp%25253D2%252526q%25253D%252526sort%25253D1%2526title%253DCanal%25252B%252BSport%252BFrance%252B%2526url%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fembedplayer_new.php%25253Fwidth%25253D640%252526height%25253D480%252526channel%25253D72738%252526autoplay%25253Dtrue%2526cfg%253Dilive.to-sports.cfg%252540Streams%2526videoTitle%253DCanal%25252B%252BSport%252BFrance%252B%2526referer%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fchannels%25252FLive%252BSport%25253Fsort%25253D1%2526icon%253D%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252Famk3q9tx3hnv3in_snapshot.jpg</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to-sports.cfg%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D5%2526q%253D%2526sort%253D1%26title%3dCanal%252B%2bSport%2bFrance%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72738%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26videoTitle%3dCanal%252B%2bSport%2bFrance%2b%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Famk3q9tx3hnv3in_snapshot.jpg&amp;mode=1</jsonrpc>
 </item>
 
 <item>
-<title>Bein sport 2 two</title>
+<title>Bein sport 1</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=videoTitle%3dBein%2bSport%2bFrance%2b1%2b%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dBein%2bSport%2bFrance%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72731%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26definedIn%3dilive.to-sports.cfg%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fsort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvbit21ed03hy2ua_snapshot.jpg&amp;mode=1</jsonrpc>
+<thumbnail>http://library.salve.edu/images/nb-frenchfilm2011b.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein sport 2</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=videoTitle%3dBein%2bSport%2bFrance%2b3%2b%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dBein%2bSport%2bFrance%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72733%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26definedIn%3dilive.to-sports.cfg%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fsort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn5prtzw5a1lvu87_snapshot.jpg&amp;mode=1</jsonrpc>
 <thumbnail>http://library.salve.edu/images/nb-frenchfilm2011b.jpg</thumbnail>
@@ -26,7 +33,7 @@
 <item>
 <title>Bein sport 3</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?fanart=image%3a%2f%2f%252fstorage%252f.kodi%252faddons%252fplugin.video.SportsDevil%252ffanart.jpg%2f&mode=53&name=Bein%20Sport%20France%203%20&url=plugin%3a%2f%2fplugin.video.SportsDevil%2f%3fmode%3d1%26item%3ddefinedIn%253Dtv%25252Filive.to-sports.cfg%2526title%253DBein%252BSport%252BFrance%252B3%252B%2526url%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fembedplayer_new.php%25253Fwidth%25253D640%252526height%25253D480%252526channel%25253D72733%252526autoplay%25253Dtrue%2526cfg%253Dilive.to-sports.cfg%252540Streams%2526videoTitle%253DBein%252BSport%252BFrance%252B3%252B%2526icon%253D%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252Fn5prtzw5a1lvu87_snapshot.jpg</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=videoTitle%3dBein%2bSport%2bFrance%2b3%2b%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dBein%2bSport%2bFrance%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72733%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26definedIn%3dilive.to-sports.cfg%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fsort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn5prtzw5a1lvu87_snapshot.jpg&amp;mode=1</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
