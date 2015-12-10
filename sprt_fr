@@ -3,10 +3,9 @@
 
 
 <item>
-<title>Equipe 21</title>
+<title>Equipe 21-1</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-#<link>http://ignoreme</link>
-<playmedia>plugin://plugin.video.AtlasWeb/?url=http%3A%2F%2Fstreaming-hub.com%2Fstream%2Flequipe21.m3u8&amp;mode=12</playmedia>
+<playmedia>http://streaming-hub.com/stream/lequipe21.m3u8</playmedia>
 </item>
 
 <item>
