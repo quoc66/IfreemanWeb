@@ -58,17 +58,11 @@
 </item>
 
 <item>
-<title>Favorite Movies (watch later)</title>
+<title>Favourites (watch later)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=browse_favorites</jsonrpc>
+<jsonrpc>XBMC.ActivateWindow(Favourites)</jsonrpc>
 <thumbnail>http://womensvoicesforchange.org/wp-content/uploads/2012/02/Logo_FIFA_-243x200.jpg</thumbnail>
 </item>
 
-<item>
-<title>Favorite Series (bookmark)</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=browse_favorites</jsonrpc>
-<thumbnail>http://www.classictvfavorites.com/images/logo.png</thumbnail>
-</item>
 
 </root>
