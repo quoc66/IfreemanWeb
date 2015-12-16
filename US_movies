@@ -10,6 +10,13 @@
 </item>
 
 <item>
+<title>[B]1channel[/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
 <title>Movies selected playlists</title>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
