@@ -26,7 +26,7 @@
 <item>
 <title>[B]Series en francais[/B]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=docspot_fr&amp;function=showMovies&amp;title=Nouveaux-2015&amp;siteUrl=http%3A%2F%2Fwww.docspot.fr%2Fsearch%2Fdocumentaire+2015&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
@@ -34,7 +34,7 @@
 <item>
 <title>[B]Documentaires francais[/B]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?site=docspot_fr&amp;function=showMovies&amp;title=Nouveaux-2015&amp;siteUrl=http%3A%2F%2Fwww.docspot.fr%2Fsearch%2Fdocumentaire+2015&amp;mode=1</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
