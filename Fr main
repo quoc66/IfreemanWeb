@@ -5,12 +5,9 @@
 #EXTINF:-1,[COLOR gold]===========Generales========[/COLOR]
 ############################################################
 
+#EXTINF:0,TF1
+http://s0.live-tv-direct.com/hls/tf1live2.m3u8|User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
 
-#EXTINF:-1,TF1 HD
-http://85.25.218.230:1935/acaninter/tf1/playlist.m3u8
-
-#EXTINF:-1 tvg-id=”tf1.fr”,TF1 
-http://clinetiptv.ddns.net:8000/live/alger/alger/70.m3u8
 
 #EXTINF:-1 tvg-id=”tf1.fr”,France 2 
 http://liveiptv.olympe.in/proxyf.php/http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
@@ -40,8 +37,11 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_ae
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
 #EXTINF:-1 tvg-id=”tf1.fr”,M6_music
 
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_1256.m3u8
 #EXTINF:0,D8
+http://edge1.france-tv-tnt.com:9180/live/hls/d8-clair-hd-and/and-hd-clair/index.m3u8|User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+#EXTINF:0,D17
+http://edge1.france-tv-tnt.com:9180//live/hls/d17-clair-hd-and/and-hd-clair/d17-clair-hd-video=300000-audio_AACL_fra_96000_127=96000.m3u8|User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) 
+
 
 #EXTINF:0,w9
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
@@ -50,16 +50,36 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_ae
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 
 ############################################################
-#EXTINF:-1,[COLOR gold]===========Enfants=========[/COLOR]
+#EXTINF:-1,[COLOR gold]===========Divertissements=========[/COLOR]
 ############################################################
 
-#EXTINF:-1 tvg-id=”tf1.fr”,Gulli
-http://clinetiptv.ddns.net:8000/live/alger/alger/294.m3u8
+#EXTINF:0,Gulli
+http://streaming-hub.com/stream/gulli.m3u8
+
+
+#EXTINF:0,Canal + 
+http://skyiptv.ddns.net:8000/live/iptv1492/457872125/287.m3u8
+
+#EXTINF:0,Canal frisson
+http://skyiptv.ddns.net:8000/live/iptv1492/457872125/284.m3u8
+
+#EXTINF:0,Canal Premier
+http://skyiptv.ddns.net:8000/live/iptv1492/457872125/285.m3u8
+#EXTINF:0,Premiere 
+http://tvclub.fr/ch02.ts
 #EXTINF:0,5 Plus
 http://tvclub.fr/ch05.ts
-#EXTINF:-1 tvg-id=”tf1.fr”,Teletoon
-http://clinetiptv.ddns.net:8000/live/alger/alger/519.m3u8
-
+#EXTINF:0,club 1
+http://tvclub.fr/ch01.ts
+#EXTINF:0,Speed
+http://tvclub.fr/ch10.ts
+#EXTINF:0,Carré Blanc
+http://tvclub.fr/ch13.ts
+#EXTINF:0,West
+http://tvclub.fr/ch08.ts
+#EXTINF:0,cine fil
+http://tvclub.fr/ch09.ts
+#EXTINF:0,MysteresTV
 
 
 ############################################################
