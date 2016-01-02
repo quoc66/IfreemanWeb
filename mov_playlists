@@ -32,6 +32,14 @@
 
 
 <item>
+<title>Nominated Oscar movies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D94319&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<thumbnail>https://theedgesoftheworlddotcom.files.wordpress.com/2015/03/oscars_design_video.jpg?w=1200</thumbnail>
+</item>
+
+
+<item>
 <title>Box sets</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
