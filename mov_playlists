@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>Top 250 imdb - source #2</title>
+<title>Top 250 imdb - source 2</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D24063&amp;mode=show_playlist&amp;public=True</jsonrpc>
 <thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
