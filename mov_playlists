@@ -3,31 +3,10 @@
 <root>
 
 <item>
-<title>Top 250 imdb</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.salts/?username=hulkhorgen&amp;section=Movies&amp;mode=show_list&amp;slug=imdb-best-250-movies</jsonrpc>
-<thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
-</item>
-
-<item>
-<title>Top 250 imdb - source 2</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D24063&amp;mode=show_playlist&amp;public=True</jsonrpc>
-<thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
-</item>
-
-<item>
 <title>Highest grossing movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</jsonrpc>
 <thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>Oscar movies</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=Best+Picture+Oscars&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Foscars.xml&amp;audio=0&amp;image=http%3A%2F%2Fs16.postimg.org%2Fdmwumzm1x%2Foscars.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<thumbnail>https://theedgesoftheworlddotcom.files.wordpress.com/2015/03/oscars_design_video.jpg?w=1200</thumbnail>
 </item>
 
 
@@ -44,11 +23,6 @@
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gold][B]=================[/B][/COLOR]</title>
-<link>ignorme</link>
 </item>
 
  <item>
@@ -101,17 +75,30 @@
 </item>
 
 <item>
+<title>Comedies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=Funniest+Comedies+Ever&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FMovies%2Ffunny.xml&amp;audio=0&amp;image=http%3A%2F%2Fs3.postimg.org%2Fbbzs9l983%2FComedies.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<thumbnail>http://watchmojo.com/uploads/blipthumbs/Fi-M-Top10-Comedy-Films-of-the-90s-480p30_480.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]====Beta test==========[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
+<item>
+<title>Top 250 imdb - source 2</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D24063&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
+</item>
+
+<item>
 <title>Martial arts #2</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D43901&amp;mode=show_playlist&amp;public=True</jsonrpc>
 <thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
 </item>
 
-<item>
-<title>Comedies</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=Funniest+Comedies+Ever&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FMovies%2Ffunny.xml&amp;audio=0&amp;image=http%3A%2F%2Fs3.postimg.org%2Fbbzs9l983%2FComedies.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<thumbnail>http://watchmojo.com/uploads/blipthumbs/Fi-M-Top10-Comedy-Films-of-the-90s-480p30_480.jpg</thumbnail>
-</item>
 
 </root>
