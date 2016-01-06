@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
+<item>
+<title>LDPR (News) (RU) (Russian)</title> 
+<thumbnail>http://tv-tv.in/wp-content/uploads/2015/01/ldpr-live-streaming.gif</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ccloudtv/?url=http%3A%2F%2Frt.ashttp14.visionip.tv%2Flive%2Frt-doc-live-HD%2Fplaylist.m3u8&amp;mode=1&amp</jsonrpc>
+</item>
+
 
 <item>
 <title>Equipe 21</title>
@@ -14,6 +21,7 @@
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to-sports.cfg%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D5%2526q%253D%2526sort%253D1%26title%3dCanal%252B%2bSport%2bFrance%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72738%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26videoTitle%3dCanal%252B%2bSport%2bFrance%2b%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Famk3q9tx3hnv3in_snapshot.jpg&amp;mode=1</jsonrpc>
 </item>
+
 
 <item>
 <title>Bein sport 1</title>
