@@ -58,7 +58,7 @@
 <title>Russian channels</title>
 <thumbnail>https://lh4.ggpht.com/KWNUiEMqoYSC7x3M740q5Ws7PtGPR3CJVIDwRgr-aC2jbK_O89MmyuYTfMLbEmc_koM=h900</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.mxthai</jsonrpc>
+<jsonrpc>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/ru_tv</jsonrpc>
 </item>
 
 <item>
