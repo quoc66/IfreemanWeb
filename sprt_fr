@@ -9,6 +9,12 @@
 </item>
 
 <item>
+<title>LDPR () (Russian)</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/29/L'Equipe_21.svg</thumbnail>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+</item>
+
+<item>
 <title>LDPR (News) (RU) (Russian)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ccloudtv/?url=http%3A%2F%2Frt.ashttp14.visionip.tv%2Flive%2Frt-doc-live-HD%2Fplaylist.m3u8&amp;mode=1&amp;name=LDPR+%28News%29+%28RU%29+%28Russian%29&amp;iconimage=http%3A%2F%2Ftv-tv.in%2Fwp-content%2Fuploads%2F2015%2F01%2Fldpr-live-streaming.gif</jsonrpc>
