@@ -15,9 +15,9 @@
 </item>
 
 <item>
-<title>LDPR (News) (RU) (Russian)</title>
+<title>Life News (News) (RU) (Russian)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ccloudtv/?url=http%3A%2F%2Frt.ashttp14.visionip.tv%2Flive%2Frt-doc-live-HD%2Fplaylist.m3u8&amp;mode=1&amp;name=LDPR+%28News%29+%28RU%29+%28Russian%29&amp;iconimage=http%3A%2F%2Ftv-tv.in%2Fwp-content%2Fuploads%2F2015%2F01%2Fldpr-live-streaming.gif</jsonrpc>
+<jsonrpc>plugin://plugin.video.ccloudtv/?url=http%3A%2F%2Ftv.life.ru%2Flifetv%2F360p%2Findex.m3u8&amp;mode=1&amp;name=Life+News+%28News%29+%28RU%29+%28Russian%29&amp;iconimage=http%3A%2F%2Fanytimecar.ru%2Fimages%2Fnews%2Flifenews.png</jsonrpc>
 <thumbnail>http://bintangbaru.com/wp-content/uploads/2015/02/beinsport2.jpg</thumbnail>
 </item>
 
