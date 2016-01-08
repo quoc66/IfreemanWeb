@@ -60,9 +60,9 @@
 
 
 <item>
-<title>Search 123Movies</title>
+<title>Search 123-Movies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;name=%5BB%5D%5BCOLOR+white%5DSearch%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.md9movies%5Cicon.png&amp;description=</jsonrpc>
+<jsonrpc>plugin://plugin.video.md123movies/?url=url&amp;mode=4&amp;name=%5BB%5D%5BCOLOR+white%5DSearch%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.md123movies%5Cicon.png&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
