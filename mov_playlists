@@ -27,6 +27,12 @@
 
 
 <item>
+<title>Sky movie channels</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.genesis/?action=channels</jsonrpc>
+<thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
+</item>
+<item>
 <title>[COLOR gold][B]===================[/B][/COLOR]</title>
 <link>ignorme</link>
 </it
