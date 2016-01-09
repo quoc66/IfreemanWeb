@@ -2,17 +2,26 @@
 
 <root>
 
+
 <item>
-<title>Movies - Featured list</title>
+<title>Movies - recent HD (recommended - manual subtitles)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
+<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+
+<item>
+<title>Movies - recent HD (recommended - automatic subtitles)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
 <item>
-<title>Movies - recent HD (recommended)</title>
+<title>Movies - Featured list</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
@@ -51,20 +60,22 @@
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
+
 <item>
-<title>Search Movie</title>
+<title>Search Movie (Recommended)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
+<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
+</item>
+
+
+<item>
+<title>Search Movie (larger choice)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
-
-<item>
-<title>Search 9Movies</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
-<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
-</item>
 
 
 <item>
