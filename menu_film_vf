@@ -1,46 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-
-#<item>
-#<title>Films en Francais #1</title>
-#<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-#<link>http://ignoreme</link>
-#<jsonrpc>plugin://plugin.video.vstream/?site=streamzer_net&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+News%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DStreamzer.net%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.streamzer.net%2Findex.php%3Ffile%3DFilms%26op%3Dclasse%26secid%3D%26orderby%3Dnews%26p%3D1%23stream&amp;mode=1</jsonrpc>
-#</item>
-
 <item>
-<title>Films en Francais #2 (nouvelle source)</title>
+<title>Liste exhaustive </title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</jsonrpc>
 </item>
 
 <item>
-<title>Films classiques Francais</title>
+<title>Films les plus populaires</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+blue%5DNEW%3A+CINEMA+FRANCAIS%5B%2FCOLOR%5D%5BCOLOR+red%5D++%22PRAY+FOR+PARIS%22%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Ffrench.xml&amp;audio=0&amp;image=http%3A%2F%2Fs23.postimg.org%2F57ba7hkcb%2FCinema_Francais2.jpg&amp;fanart=http%3A%2F%2Fimg05.deviantart.net%2F6db8%2Fi%2F2013%2F337%2Fb%2Ff%2Fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<thumbnail>http://library.salve.edu/images/nb-frenchfilm2011b.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Suggestions Films</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D29781&amp;mode=show_playlist&amp;public=True</jsonrpc>
-<thumbnail>http://library.salve.edu/images/nb-frenchfilm2011b.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/1303534605/logo_top_movies_02.png</thumbnail>
 </item>
 
 <item>
-<title>[B]Series en francais[/B]</title>
+<title>Suggestion de films </title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]==============================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
+<item>
+<title>Series TV en francais</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
  
- 
 <item>
-<title>[B]Documentaires francais[/B]</title>
+<title>Documentaires francais</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=docspot_fr&amp;function=showMovies&amp;title=Nouveaux-2015&amp;siteUrl=http%3A%2F%2Fwww.docspot.fr%2Fsearch%2Fdocumentaire+2015&amp;mode=1</jsonrpc>
 <thumbnail>https://longitude166.files.wordpress.com/2014/09/reportages-logo-10383816imtfn.jpg</thumbnail>
