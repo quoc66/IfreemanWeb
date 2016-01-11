@@ -17,6 +17,13 @@
 </item>
 
 <item>
+<title>Movies - Entertainment</title>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/dax25d4dcfbzzi2/linked_channels-movies.csv?dl=1</jsonrpc>
+</item>
+
+<item>
 <title>Kids channels</title>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/responsivediscover/tv/what-to-watch/watch-4kids-logos.jpg</thumbnail>
 <link>http://ignoreme</link>
