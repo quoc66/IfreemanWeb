@@ -24,6 +24,13 @@
 </item>
 
 <item>
+<title>News</title>
+<thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/xp78jvse6u6lnt8/linked_channels-News.csv?dl=1</jsonrpc>
+</item>
+
+<item>
 <title>Kids channels</title>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/responsivediscover/tv/what-to-watch/watch-4kids-logos.jpg</thumbnail>
 <link>http://ignoreme</link>
