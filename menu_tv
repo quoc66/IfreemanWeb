@@ -17,10 +17,10 @@
 </item>
 
 <item>
-<title>Movies - Entertainment</title>
+<title>Movies-Entertainment</title>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 <link>http://ignoreme</link>
-<thumbnail>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/mqohj2vwc557v42/linked_channels-movies.csv?dl=1</thumbnail>
+<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/mqohj2vwc557v42/linked_channels-movies.csv?dl=1</jsonrpc>
 </item>
 
 <item>
