@@ -113,4 +113,20 @@
 </item>
 
 
+<item>
+<title>Highest grossing movies testing</title>
+<link>ignorme</link>
+<movie>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</movie>
+<thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Nominated Oscar movies - testing</title>
+<link>ignorme</link>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D94319&amp;mode=show_playlist&amp;public=True</movie>
+<thumbnail>https://theedgesoftheworlddotcom.files.wordpress.com/2015/03/oscars_design_video.jpg?w=1200</thumbnail>
+</item>
+
+
 </root>
