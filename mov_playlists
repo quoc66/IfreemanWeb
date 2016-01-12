@@ -4,8 +4,9 @@
 
 <item>
 <title>Highest grossing movies</title>
-<link>ignorme</link>
+<link>ignorme</link>          
 <jsonrpc>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</jsonrpc>
+<movie>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</movie>
 <thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
 </item>
 
@@ -14,6 +15,7 @@
 <title>Nominated Oscar movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D94319&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D94319&amp;mode=show_playlist&amp;public=True</movie>
 <thumbnail>https://theedgesoftheworlddotcom.files.wordpress.com/2015/03/oscars_design_video.jpg?w=1200</thumbnail>
 </item>
 
@@ -22,6 +24,7 @@
 <title>Box sets</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
 </item>
 
@@ -30,6 +33,7 @@
 <title>Sky movie channels</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.genesis/?action=channels</jsonrpc>
+<movie>plugin://plugin.video.genesis/?action=channels</movie>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 </item>
 <item>
@@ -41,6 +45,7 @@
 <title>Classic Westerns</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Western%2520Movies.txt&amp;mode=1&amp;name=Classic+Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Western%2520Movies.txt&amp;mode=1&amp;name=Classic+Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
 <thumbnail>http://www.spaghetti-western.net/images/thumb/4/41/Anyguncanplaybook.png/300px-Anyguncanplaybook.png</thumbnail>
 </item>
 
@@ -48,6 +53,7 @@
 <title>Action movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D21127&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D21127&amp;mode=show_playlist&amp;public=True</movie>
 <thumbnail>https://2025be3zddzi1rbswe1rwhgo-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/tom-hardy-in-mad-max.jpg</thumbnail>
 </item>
 
@@ -55,6 +61,7 @@
 <title>Gangster/mafia</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Mafia%2520%26%2520Gang%2520Movies.txt&amp;mode=1&amp;name=Classic+Mafia+%26+Gang+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Mafia%2520%26%2520Gang%2520Movies.txt&amp;mode=1&amp;name=Classic+Mafia+%26+Gang+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
 <thumbnail>http://ecx.images-amazon.com/images/I/51NDKJyaAZL._SX466_.jpg</thumbnail>
 </item>
 
@@ -62,6 +69,7 @@
 <title>War movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520War%2520Movies.txt&amp;mode=1&amp;name=Classic+War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520War%2520Movies.txt&amp;mode=1&amp;name=Classic+War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
 <thumbnail>http://www.filmsite.org/images/greatest-war-films2.jpg</thumbnail>
 </item> 
 
@@ -69,6 +77,7 @@
 <title>Thriller/suspens</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D21859&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D21859&amp;mode=show_playlist&amp;public=True</movie>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
 
@@ -76,6 +85,7 @@
 <title>Sci-fi</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D52536&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D52536&amp;mode=show_playlist&amp;public=True</movie>
 <thumbnail>http://assets.rollingstone.com/assets/2015/list/50-best-sci-fi-movies-of-the-1970s-20150114/178440/medium_rect/1419006033/720x405-sci-fi_article-image-1401x836_3_NoText%5B6%5D.jpg</thumbnail>
 </item> 
 
@@ -83,6 +93,7 @@
 <title>Martial arts</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Martial%2520Arts%2520Movies.txt&amp;mode=1&amp;name=Classic+Martial+Arts+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Martial%2520Arts%2520Movies.txt&amp;mode=1&amp;name=Classic+Martial+Arts+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
 <thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
 </item>
 
@@ -103,6 +114,7 @@
 <title>Top 250 imdb - source 2</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D24063&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D24063&amp;mode=show_playlist&amp;public=True</movie>
 <thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
 </item>
 
@@ -110,25 +122,8 @@
 <title>Martial arts #2</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D43901&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D43901&amp;mode=show_playlist&amp;public=True</movie>
 <thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Highest grossing movies testing</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</jsonrpc>
-<movie>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</movie>
-<thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Nominated Oscar movies - testing</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D94319&amp;mode=show_playlist&amp;public=True</jsonrpc>
-<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D94319&amp;mode=show_playlist&amp;public=True</movie>
-<thumbnail>https://theedgesoftheworlddotcom.files.wordpress.com/2015/03/oscars_design_video.jpg?w=1200</thumbnail>
 </item>
 
 
