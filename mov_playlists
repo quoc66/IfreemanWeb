@@ -87,9 +87,9 @@
 </item>
 
 <item>
-<title>Comedies</title>
+<title>Comedies - (testing Movie keyword)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=Funniest+Comedies+Ever&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FMovies%2Ffunny.xml&amp;audio=0&amp;image=http%3A%2F%2Fs3.postimg.org%2Fbbzs9l983%2FComedies.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=Funniest+Comedies+Ever&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FMovies%2Ffunny.xml&amp;audio=0&amp;image=http%3A%2F%2Fs3.postimg.org%2Fbbzs9l983%2FComedies.jpg&amp;fanart=http%3A%2F%2Fwallcomphd.com%2Fwp-content%2Fuploads%2F2015%2F06%2F3D-The-Hunger-Games-Mockingjay-Logo-Wallpaper.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
 <thumbnail>http://watchmojo.com/uploads/blipthumbs/Fi-M-Top10-Comedy-Films-of-the-90s-480p30_480.jpg</thumbnail>
 </item>
 
