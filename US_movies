@@ -2,29 +2,12 @@
 
 <root>
 
-
 <item>
-<title>Movies - recent HD (recommended - manual subtitles)</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-
-
-<item>
-<title>Movies - recent HD (Recommended - automatic subtitles)</title>
+<title>Movies - recent HD (Recommended)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
-
-<item>
-<title>Movies - Featured list</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-
 
 <item>
 <title>Movies selected playlists</title>
@@ -32,7 +15,6 @@
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
-
 
  <item>
 <title>[B]TV Series[/B]</title>
@@ -68,14 +50,12 @@
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
-
 <item>
 <title>Search Movie (larger choice)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
-
 
 
 <item>
@@ -85,12 +65,42 @@
 <thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
 </item>
 
+
 <item>
-<title>Favourites (watch later)</title>
+<title>[COLOR gold][B]====other movie sources=============[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>XBMC.ActivateWindow(Favourites)</jsonrpc>
-<thumbnail>http://womensvoicesforchange.org/wp-content/uploads/2012/02/Logo_FIFA_-243x200.jpg</thumbnail>
 </item>
 
+<item>
+<title>Recent HD (recommended but manual subtitles)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+
+<item>
+<title>Featured Movies (hosts choice)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
+<title>Movies in Cinema - good link</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.xmovies8/?url=http%3A%2F%2Fxmovies8.tv%2Fcinema-movies%2Fpage%2F1&amp;mode=1</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
+<title>another source with hosts selection</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.dubstop/?url=http%3A%2F%2Fvizz.is%2Fmovies%2Ffavorites&amp;mode=10</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+
+
+
+</item>
 
 </root>
