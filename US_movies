@@ -3,7 +3,7 @@
 <root>
 
 <item>
-<title>Movies - recent HD (Recommended)</title>
+<title>Movies - exhaustive list</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
 <movie>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</movie>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>Movies selected playlists</title>
+<title>Movies - selected playlists</title>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
@@ -76,6 +76,7 @@
 <title>Recent HD (recommended but manual subtitles)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
