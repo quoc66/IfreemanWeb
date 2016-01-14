@@ -12,7 +12,6 @@
 <title>Films les plus populaires</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</jsonrpc>
-<film>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</film>
 <thumbnail>https://pbs.twimg.com/profile_images/1303534605/logo_top_movies_02.png</thumbnail>
 </item>
 
@@ -20,7 +19,6 @@
 <title>Suggestion de films </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</jsonrpc>
-<film>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</film>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png</thumbnail>
 </item>
 
