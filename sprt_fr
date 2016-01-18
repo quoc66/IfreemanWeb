@@ -11,8 +11,13 @@
 <item>
 <title>Golf Channel (english)</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104 </link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9a/Golf_Channel_New.png/revision/latest?cb=20140506212645</thumbnail>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
 </item>
 
-
+<item>
+<title>Canal Plus Sport</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?fanart=image%3a%2f%2f%252fstorage%252f.kodi%252faddons%252fplugin.video.SportsDevil%252ffanart.jpg%2f&amp;mode=53</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/320px-Canal%2B_Sport_%282013%29.svg.png</thumbnail>
+</item>
 </root>
