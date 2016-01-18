@@ -7,32 +7,6 @@
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
 </item>
 
-<item>
-<title>Canal plus Sport</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/320px-Canal%2B_Sport_%282013%29.svg.png</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=definedIn%3dilive.to-sports.cfg%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D5%2526q%253D%2526sort%253D1%26title%3dCanal%252B%2bSport%2bFrance%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72738%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26videoTitle%3dCanal%252B%2bSport%2bFrance%2b%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Famk3q9tx3hnv3in_snapshot.jpg&amp;mode=1</jsonrpc>
-</item>
-
-
-<item>
-<title>Bein sport 1</title>
-<link>http://skyiptv.ddns.net:8000/live/iptv1492/457872125/290.m3u8</link>
-<thumbnail>http://www.egytvs.com/wp-content/uploads/2015/02/beinsport1.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein sport 2</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=videoTitle%3dBein%2bSport%2bFrance%2b3%2b%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dBein%2bSport%2bFrance%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72733%2526autoplay%253Dtrue%26cfg%3dilive.to-sports.cfg%2540Streams%26definedIn%3dilive.to-sports.cfg%26director%3dilive.to-sports%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fsort%253D1%26genre%3dTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn5prtzw5a1lvu87_snapshot.jpg&amp;mode=1</jsonrpc>
-<thumbnail>http://bintangbaru.com/wp-content/uploads/2015/02/beinsport2.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein sport 3</title>
-<link>http://5.196.67.222:80/live/France/TEST/3807.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-jnLRTajKiRw/VRBZSfNyWGI/AAAAAAAAAVY/CsQg5uNKIfQ/s1600/bein-sport-3.png</thumbnail>
-</item>
 
 <item>
 <title>Golf Channel (english)</title>
