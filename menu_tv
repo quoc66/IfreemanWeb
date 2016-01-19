@@ -6,8 +6,8 @@
 <title>[COLOR gold][B]==============English Channels===============[/B][/COLOR]</title>
 <link>ignorme</link>
 </item>
-<item>
 
+<item>
 <title>UK Live Channels</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
@@ -15,7 +15,8 @@
 </item>
 
 
-<title>News channels</title>
+<item>
+<title>News Channels</title>
 <thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/UK_News</jsonrpc>
