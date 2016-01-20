@@ -105,6 +105,7 @@
 
 <item>
 <title>Popular Movies - One Click selection</title>
+<title>need selection twice</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.xmovies8/?url=http%3A%2F%2Fxmovies8.tv%2Fcinema-movies%2Fpage%2F1&amp;mode=1</jsonrpc>
 <movie>plugin://plugin.video.xmovies8/?url=http%3A%2F%2Fxmovies8.tv%2Fcinema-movies%2Fpage%2F1&amp;mode=1</movie>
