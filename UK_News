@@ -51,7 +51,7 @@
 <title>CNN HD</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.channelpear/?url=http%3A%2F%2Fedge1.everyon.tv%2Fetv1sb%2Fpld16%2Fplaylist.m3u8&mode=12</jsonrpc>
+<jsonrpc>plugin://plugin.video.channelpear/?url=http%3A%2F%2Fedge1.everyon.tv%2Fetv1sb%2Fpld16%2Fplaylist.m3u8&amp;mode=12</jsonrpc>
 </item>
 
 <item>
