@@ -7,8 +7,17 @@
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
 <movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/1162481776/moviesnow-logo.jpg</thumbnail>
 </item>
+
+<item>
+<title>Movies - 2015 HD</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2015+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2015+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>Movies - Assorted HD</title>
@@ -20,15 +29,7 @@
 
 
 <item>
-<title>Movies - Featured list</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-
-<item>
-<title>Movies - selected playlists</title>
+<title>Movies - other selected playlists</title>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
@@ -44,20 +45,6 @@
 <item>
 <title>[COLOR gold][B]=================[/B][/COLOR]</title>
 <link>ignorme</link>
-</item>
- 
-<item>
-<title>Movies Genre</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F&amp;mode=5</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV Series Genre</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 
 
@@ -82,11 +69,34 @@
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
 </item>
+ 
+<item>
+<title>Movies Genre</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F&amp;mode=5</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Series Genre</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
 
 
 <item>
 <title>[COLOR gold][B]====other recommended movie sources========[/B][/COLOR]</title>
 <link>ignorme</link>
+</item>
+
+
+<item>
+<title>Movies - Featured list</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
 <item>
@@ -105,35 +115,6 @@
 <movie>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR gold][B]====other movie sources========[/B][/COLOR]</title>
-<link>ignorme</link>
-</item>
-
-
-<item>
-<title>Popular Movies - One Click selection</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.mdniter/?url=http%3A%2F%2Fniter.co%2Fmovies%3Frelevance%3Dpopular&amp;mode=1</jsonrpc>
-<movie>plugin://plugin.video.mdniter/?url=http%3A%2F%2Fniter.co%2Fmovies%3Frelevance%3Dpopular&amp;mode=1</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-
-<item>
-<title>Popular Movies - need twice selection (sometimes)</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.xmovies8/?url=http%3A%2F%2Fxmovies8.tv%2Fcinema-movies%2Fpage%2F1&amp;mode=1</jsonrpc>
-<movie>plugin://plugin.video.xmovies8/?url=http%3A%2F%2Fxmovies8.tv%2Fcinema-movies%2Fpage%2F1&amp;mode=1</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-<item>
-<title>Popular Movies with hosts selection</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.dubstop/?url=http%3A%2F%2Fvizz.is%2Fmovies%2Ffavorites&amp;mode=10&amp;name=%5BCOLOR+yellow%5DPopular%5B%2FCOLOR%5D&amp;page=0</jsonrpc>
-<movie>plugin://plugin.video.dubstop/?url=http%3A%2F%2Fvizz.is%2Fmovies%2Ffavorites&amp;mode=10&amp;name=%5BCOLOR+yellow%5DPopular%5B%2FCOLOR%5D&amp;page=0</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-
 
 
 </item>
