@@ -3,7 +3,7 @@
 <root>
 
 <item>
-<title>Movies - in Cinema</title>
+<title>HD Movies in Cinema</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
 <movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>Movies - 2015 HD</title>
+<title>HD Movies - 2015</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2015+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
 <movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2015+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
@@ -32,7 +32,7 @@
 <title>Movies - other selected playlists</title>
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+<thumbnail>http://www.jazz901.org/wp-content/uploads/2015/07/playlist.png</thumbnail>
 </item>
 
  <item>
