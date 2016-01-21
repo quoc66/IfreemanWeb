@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-<item>
-<title>Liste exhaustive </title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</jsonrpc>
-</item>
 
 <item>
-<title>Films les plus populaires</title>
+<title>Les 100 films les plus populaires</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</jsonrpc>
 <film_fr>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</film_fr>
@@ -17,10 +11,17 @@
 </item>
 
 <item>
-<title>Suggestion de films </title>
+<title>Suggestion de 100 films </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Liste non-exhaustive de films </title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</jsonrpc>
 </item>
 
 <item>
