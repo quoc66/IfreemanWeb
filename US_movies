@@ -3,6 +3,23 @@
 <root>
 
 <item>
+<title>Movies - in Cinema</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
+<title>Movies - Assorted HD</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DAssorted+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fyass.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Ftkuyztow7%2FAssorted_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DAssorted+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fyass.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Ftkuyztow7%2FAssorted_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+
+<item>
 <title>Movies - Featured list</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
