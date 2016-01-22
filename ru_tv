@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, QQ-LDPR
+#EXTINF:0, LDPR
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:0 , Life News
@@ -9,62 +9,71 @@ http://tv.life.ru/lifetv/360p/index.m3u8
 #EXTINF:0 , RBC TV
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 
-#EXTINF:0 tvg-name="TCH" tvg-language="Russian" tvg-country="RU" tvg-id="TCH" tvg-logo="http://www.tch.com/images/TCH_logo_final_header_small.jpg" group-title="News"
+#EXTINF:0, LDPR
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+
+#EXTINF:0 , Life News
+http://tv.life.ru/lifetv/360p/index.m3u8
+
+#EXTINF:0 , RBC TV
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:0, tvg-name="TCH" tvg-language="Russian" tvg-country="RU" tvg-id="TCH" tvg-logo="http://www.tch.com/images/TCH_logo_final_header_small.jpg" group-title="News"
 http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
 
-#EXTINF:0 tvg-name="MBC" tvg-language="Russian" tvg-country="RU" tvg-id="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/32/MBC-logo-large.jpg" group-title="Entertainment"
+#EXTINF:0, tvg-name="MBC" tvg-language="Russian" tvg-country="RU" tvg-id="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/32/MBC-logo-large.jpg" group-title="Entertainment"
 http://87.248.160.8/edge/smil:mbc/playlist.m3u8
 
-#EXTINF:0 tvg-name="RTR Maldova" tvg-language="Russian" tvg-country="RU" tvg-id="RTR Maldova" tvg-logo="http://1.bp.blogspot.com/-jeVdgIV5awc/UdQYiaxsmjI/AAAAAAAAAJ8/7g4KWz4bJX0/s249/rtr-moldova.png" group-title="Entertainment"
+#EXTINF:0, tvg-name="RTR Maldova" tvg-language="Russian" tvg-country="RU" tvg-id="RTR Maldova" tvg-logo="http://1.bp.blogspot.com/-jeVdgIV5awc/UdQYiaxsmjI/AAAAAAAAAJ8/7g4KWz4bJX0/s249/rtr-moldova.png" group-title="Entertainment"
 http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
 
-#EXTINF:0 tvg-name="SETEVIZOR" tvg-language="Russian" tvg-country="RU" tvg-id="SETEVIZOR" tvg-logo="https://d13yacurqjgara.cloudfront.net/users/21937/screenshots/206487/setevizor_teaser.png" group-title="Entertainment"
+#EXTINF:0, tvg-name="SETEVIZOR" tvg-language="Russian" tvg-country="RU" tvg-id="SETEVIZOR" tvg-logo="https://d13yacurqjgara.cloudfront.net/users/21937/screenshots/206487/setevizor_teaser.png" group-title="Entertainment"
 http://213.85.95.70:1935/echomsk/echomsk.stream/index.m3u8
 
-#EXTINF:0 tvg-name="TNT Bravo" tvg-language="Russian" tvg-country="RU" tvg-id="TNT Bravo" tvg-logo="http://dixi.md/files/logo_tnt.jpg" group-title="Entertainment"
+#EXTINF:0, tvg-name="TNT Bravo" tvg-language="Russian" tvg-country="RU" tvg-id="TNT Bravo" tvg-logo="http://dixi.md/files/logo_tnt.jpg" group-title="Entertainment"
 http://87.248.160.8/edge/smil:tnt/playlist.m3u8
 
-#EXTINF:0 tvg-name="TV7" tvg-language="Russian" tvg-country="RU" tvg-id="TV7" tvg-logo="http://imarov.com/iptv/ilogo.png" group-title="Entertainment"
+#EXTINF:0, tvg-name="TV7" tvg-language="Russian" tvg-country="RU" tvg-id="TV7" tvg-logo="http://imarov.com/iptv/ilogo.png" group-title="Entertainment"
 http://imarov.com/iptv/bgtv.m3u8
 
-#EXTINF:0 tvg-name="Da Vinci learning" tvg-language="Russian" tvg-country="RU" tvg-id="Da Vinci learning" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2013/04/page-0-e1366983893229.jpg" group-title="Family"
+#EXTINF:0, tvg-name="Da Vinci learning" tvg-language="Russian" tvg-country="RU" tvg-id="Da Vinci learning" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2013/04/page-0-e1366983893229.jpg" group-title="Family"
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964964sd2000000/47a0b7447be58b9a9ebb29cb383d8db4577cbdeb/track_2_1200/playlist.m3u8
 
-#EXTINF:0 tvg-name="Aninal Channel HD" tvg-language="Russian" tvg-country="RU" tvg-id="Animal Channel HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo.png" group-title="Documentary"
+#EXTINF:0, tvg-name="Aninal Channel HD" tvg-language="Russian" tvg-country="RU" tvg-id="Animal Channel HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo.png" group-title="Documentary"
 http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183872sd2500000/ce6e05b37bf6b2f9166459f0972240fb2da9b7d6/playlist.m3u8
 
-#EXTINF:0 tvg-name="CTC" tvg-language="Russian" tvg-country="RU" tvg-id="CTC" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b6/Logo_CTC_1989.jpg/revision/latest%3Fcb%3D20131029010515" group-title="Documentary"
+#EXTINF:0, tvg-name="CTC" tvg-language="Russian" tvg-country="RU" tvg-id="CTC" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b6/Logo_CTC_1989.jpg/revision/latest%3Fcb%3D20131029010515" group-title="Documentary"
 http://87.248.160.8/edge/smil:sts/playlist.m3u8
 
-#EXTINF:0 tvg-name="Discovery Science" tvg-language="Russian/English" tvg-country="UK" tvg-id="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" group-title="Documentary"
+#EXTINF:0, tvg-name="Discovery Science" tvg-language="Russian/English" tvg-country="UK" tvg-id="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/200px-Discovery_Science_Canada_2011.PNG" group-title="Documentary"
 http://200.76.77.237/LIVE/H01/CANAL381/PROFILE02.m3u8?supertvlat=%2F.ts
 
-#EXTINF:0 tvg-name="Viasat Explorer" tvg-language="Russian/English" tvg-country="US" tvg-id="Viasat Explorer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png" group-title="Documentary"
+#EXTINF:0, tvg-name="Viasat Explorer" tvg-language="Russian/English" tvg-country="US" tvg-id="Viasat Explorer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png" group-title="Documentary"
 http://195.78.244.219:10000/udp/239.0.3.30:1234
 
-#EXTINF:0 tvg-name="Viasat History" tvg-language="Russian/English" tvg-country="US" tvg-id="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Viasat_history.png" group-title="Documentary"
+#EXTINF:0, tvg-name="Viasat History" tvg-language="Russian/English" tvg-country="US" tvg-id="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Viasat_history.png" group-title="Documentary"
 http://195.78.244.219:10000/udp/239.0.3.31:1234
 
-#EXTINF:0 tvg-name="Viasat Nature" tvg-language="Russian/English" tvg-country="US" tvg-id="Viasat Nature" tvg-logo="http://img2.wikia.nocookie.net/__cb20091129074857/logopedia/images/4/44/Viasat_Nature.svg" group-title="Documentary"
+#EXTINF:0, tvg-name="Viasat Nature" tvg-language="Russian/English" tvg-country="US" tvg-id="Viasat Nature" tvg-logo="http://img2.wikia.nocookie.net/__cb20091129074857/logopedia/images/4/44/Viasat_Nature.svg" group-title="Documentary"
 http://195.78.244.219:10000/udp/239.0.3.28:1234
 
-#EXTINF:0 tvg-name="Auto Plus" tvg-language="Russian" tvg-country="RU" tvg-id="Auto Plus" tvg-logo="http://www.valleyautoparts-alaska.com/custom/UNI-SELECT-LOGO.jpg" group-title="Sports"
+#EXTINF:0, tvg-name="Auto Plus" tvg-language="Russian" tvg-country="RU" tvg-id="Auto Plus" tvg-logo="http://www.valleyautoparts-alaska.com/custom/UNI-SELECT-LOGO.jpg" group-title="Sports"
 http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8
 
-#EXTINF:0 tvg-name="Russian Sports" tvg-language="Russian" tvg-country="RU" tvg-id="Russian Sports" tvg-logo="http://freerutube.com/wp-content/uploads/2013/05/Watch-Sport-TV-Live-TV-from-Russia.jpg" group-title="Sports"
+#EXTINF:0, tvg-name="Russian Sports" tvg-language="Russian" tvg-country="RU" tvg-id="Russian Sports" tvg-logo="http://freerutube.com/wp-content/uploads/2013/05/Watch-Sport-TV-Live-TV-from-Russia.jpg" group-title="Sports"
 http://euro.online.hls.cn.ru/streaming/sport/126/tvrec/playlist.m3u8
 
-#EXTINF:0 tvg-name="Sportal TV" tvg-language="Russian" tvg-country="RU" tvg-id="Sportal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtlG9MoODVstvCCrcCqd9SyE2yu5adl9GA3P11KGVsHJRVhsQiGUYAeU" group-title="Sports"
+#EXTINF:0, tvg-name="Sportal TV" tvg-language="Russian" tvg-country="RU" tvg-id="Sportal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtlG9MoODVstvCCrcCqd9SyE2yu5adl9GA3P11KGVsHJRVhsQiGUYAeU" group-title="Sports"
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 
-#EXTINF:0 tvg-name="Sports 1 RU" tvg-language="Russian" tvg-country="RU" tvg-id="Sports 1 RU" tvg-logo="http://relhostpic.eu/images/2014/11/30/djc6n.jpg" group-title="Sports"
+#EXTINF:0, tvg-name="Sports 1 RU" tvg-language="Russian" tvg-country="RU" tvg-id="Sports 1 RU" tvg-logo="http://relhostpic.eu/images/2014/11/30/djc6n.jpg" group-title="Sports"
 http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8
 
-#EXTINF:0 tvg-name="Telekanal" tvg-language="Russian" tvg-country="RU" tvg-id="Telekanal" tvg-logo="http://4.bp.blogspot.com/-V-kdx0rQEWU/VChCa1mFKiI/AAAAAAAABJg/JO2PIsYkUYA/s1600/football-tv.jpg?resize=750%2C1112" group-title="Sports"
+#EXTINF:0, tvg-name="Telekanal" tvg-language="Russian" tvg-country="RU" tvg-id="Telekanal" tvg-logo="http://4.bp.blogspot.com/-V-kdx0rQEWU/VChCa1mFKiI/AAAAAAAABJg/JO2PIsYkUYA/s1600/football-tv.jpg?resize=750%2C1112" group-title="Sports"
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 
-#EXTINF:0 tvg-name="A One Hip Hop" tvg-language="Russian" tvg-country="RU" tvg-id="A One Hip Hop" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Music"
+#EXTINF:0, tvg-name="A One Hip Hop" tvg-language="Russian" tvg-country="RU" tvg-id="A One Hip Hop" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Music"
 http://spb1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
-#EXTINF:0 tvg-name="Futurama 24/7" tvg-language="Russian" tvg-country="RU" tvg-id="Futurama 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/4e/Futurama-logo.svg/2000px-Futurama-logo.svg.png" group-title="RandomAirTime 24/7"
+#EXTINF:0, tvg-name="Futurama 24/7" tvg-language="Russian" tvg-country="RU" tvg-id="Futurama 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/4e/Futurama-logo.svg/2000px-Futurama-logo.svg.png" group-title="RandomAirTime 24/7"
 http://iphone-streaming.ustream.tv/ustreamVideo/19036542/streams/live/playlist.m3u8
