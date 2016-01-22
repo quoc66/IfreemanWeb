@@ -3,7 +3,7 @@
 
 
 <item>
-<title>Les 100 films les plus populaires</title>
+<title>100 films populaires</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</jsonrpc>
 <film_fr>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</film_fr>
@@ -18,10 +18,17 @@
 </item>
 
 <item>
-<title>Liste non-exhaustive de films </title>
+<title>Liste non-exhaustive de films (en reparation)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</jsonrpc>
+</item>
+
+<item>
+<title>Liste non-exhaustive de films (choix de la source)</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=streamzer_net&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+News%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DStreamzer.net%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.streamzer.net%2Findex.php%3Ffile%3DFilms%26op%3Dclasse%26secid%3D%26orderby%3Dnews%26p%3D1%23stream&amp;sFav=showMovies</jsonrpc>
 </item>
 
 <item>
