@@ -16,6 +16,13 @@
 
 
 <item>
+<title>US TV Now</title>
+<thumbnail>https://ftp.heanet.ie/mirrors/xbmc/addons/helix/plugin.video.ustvnow/fanart.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ustvnow/?mode=live</jsonrpc>
+</item>
+
+<item>
 <title>UK Entertainment (Sky) channeks</title>
 <thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
 <link>http://ignoreme</link>
