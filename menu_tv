@@ -39,7 +39,7 @@
 
 
 <item>
-<title>News Channels (under construction)</title>
+<title>News Channels</title>
 <thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/UK_News</jsonrpc>
@@ -79,57 +79,10 @@
 </item>
 
 <item>
-<title>Russian channels</title>
-<thumbnail>https://lh4.ggpht.com/KWNUiEMqoYSC7x3M740q5Ws7PtGPR3CJVIDwRgr-aC2jbK_O89MmyuYTfMLbEmc_koM=h900</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/ru_tv</jsonrpc>
-</item>
-
-<item>
 <title>Thai channels</title>
 <thumbnail>https://lh4.ggpht.com/KWNUiEMqoYSC7x3M740q5Ws7PtGPR3CJVIDwRgr-aC2jbK_O89MmyuYTfMLbEmc_koM=h900</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.mxthai</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR gold][B]========Not working=============[/B][/COLOR]</title>
-<link>ignorme</link>
-</item>
-
-<item>
-<title>UK/US TV</title>
-<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/0zcsmqc0c9k7bx7/linked_channels.csv?dl=1</jsonrpc>
-</item>
-
-<item>
-<title>Sports Channels</title>
-<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/dax25d4dcfbzzi2/linked_channels-Sports.csv?dl=1</jsonrpc>
-</item>
-
-<item>
-<title>Movies-Entertainment</title>
-<thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/mqohj2vwc557v42/linked_channels-movies.csv?dl=1</jsonrpc>
-</item>
-
-<item>
-<title>News</title>
-<thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/xp78jvse6u6lnt8/linked_channels-News.csv?dl=1</jsonrpc>
-</item>
-
-<item>
-<title>Kids channels</title>
-<thumbnail>http://store.virginmedia.com/content/dam/eSales/responsivediscover/tv/what-to-watch/watch-4kids-logos.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/udlvq1skpwashd0/linked_channels_kids.csv?dl=1</jsonrpc>
 </item>
 
 </items>
