@@ -21,6 +21,9 @@ http://ipsatpro.com:8000/live/younes/younes/527.ts
 #EXTINF:0 tvg-name="EuroSport 1" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 1" tvg-logo="http://www.numwan.com/wp-content/uploads/2014/03/euro-sport.jpg" group-title="Sports", EuroSport 1 (Sports) (UK) (English)
 rtmp://31.220.2.148:1935/live/_definst_/euro1
 
+#EXTINF:0 tvg-name="EuroSport 1" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 1" tvg-logo="http://www.numwan.com/wp-content/uploads/2014/03/euro-sport.jpg" group-title="Sports", EuroSport 1 (link #2)
+http://bit.do/iptvsportt-EU
+
 #EXTINF:0 tvg-name="EuroSport 2" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurosport_2_HD_Logo.svg/220px-Eurosport_2_HD_Logo.svg.png" group-title="Sports", EuroSport 2 (Sports) (UK) (English)
 http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
 
@@ -39,29 +42,23 @@ http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 #EXTINF:0 tvg-name="Sky Sports 5" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 5" tvg-logo="http://s14.postimg.org/hqlz93bpd/1554_1405339447.png" group-title="Sports", Sky Sports 5 (Sports) (UK) (English)
 http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
 
-#EXTINF:0, Sky Sport5
-http://bit.do/iptvsportt-Sky1
-#EXTINF:0, Sky Sport4
-http://bit.do/iptvsportt-Sky2
-#EXTINF:0, Sky Sport3
-http://bit.do/iptvsportt-Sky3
-#EXTINF:0, Sky Sport2
-http://bit.do/iptvsportt-Sky4
-#EXTINF:0, Sky Sport1
-http://bit.do/iptvsportt-Sky5
-#EXTINF:0, Bt Sport1 
-http://bit.do/iptvsportt-BT1
-#EXTINF:0, Bt Sport2
-http://bit.do/iptvsportt-BT2
-#EXTINF:0, Stenta Sport
-http://bit.do/iptvsportt-ST
-#EXTINF:0, Eurosport 
-http://bit.do/iptvsportt-EU
+#EXTINF:0 tvg-name="Premier Sports" tvg-language="English" tvg-country="UK" tvg-id="Premier Sports" tvg-logo="http://4.bp.blogspot.com/-iQGTRv7Z11I/VQRb4RrdvAI/AAAAAAAABKM/yoWF5py9H8A/s1600/rsz_premier_sports_logo.png" group-title="Sports", Premier Sports (Sports) (UK) (English)
+rtmp://46.28.204.73:1935/zmelive/_definst_/unkEh7aP9AFs0jO
 
+#EXTINF:0 tvg-name="Redbull TV" tvg-language="English" tvg-country="UK" tvg-id="Redbull TV" tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png" group-title="Sports", Redbull TV (Sports) (UK) (English)
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:0 tvg-name="Setanta Sports" tvg-language="English" tvg-country="UK" tvg-id="Setanta Sports" tvg-logo="http://www.koolpassion.com/tvchannel/logo/logo-SetantaSports.jpg" group-title="Sports", Setanta Sports (Sports) (UK) (English)
+http://167.114.41.215:8080/espnuk_raf/espnuk_raf/index.m3u8
+
+#EXTINF:0 tvg-name="Sports Tonight" tvg-language="English" tvg-country="UK" tvg-id="Sports Tonight" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_9EjWLCzXFMFIoO43KX1C0sq2fVtN1Na9DTu-T6Av7W9j8n618n4ymg" group-title="Sports", Sports Tonight (Sports) (UK) (English)
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+
+#EXTINF:0 tvg-name="Ten Cricket" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.zoptv.com/assets/logo/ten-cricket.png" group-title="Sports", Ten Cricket (Sports) (IN) (English)
+http://stream.zeefamily.tv/tencrick/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
-
 
 #EXTINF:0 tvg-name="CBN Sports" tvg-language="English" tvg-country="CA" tvg-id="CBN Sports" tvg-logo="http://sim04.in.com/dc4a3899b2a2929e5078d2d0e5826462_t.jpg" group-title="Sports", CBN Sports (Sports) (CA) (English)
 http://167.114.41.215:8080/cbnCricket/cbnCricket/index.m3u8
@@ -84,12 +81,6 @@ http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?tok
 
 #EXTINF:-1 group-title="Sport",NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/4047_2.jpg",ESPN
-http://channelpear.com/watch/stream/?id=4047
-
-#EXTINF:-1 tv-logo="https://irldefender.files.wordpress.com/2012/02/partner-1.jpg",NBC SN
-http://185.63.255.45/live/0Hd9OCkXLULI/playlist.m3u8 
  
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
@@ -104,6 +95,17 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
 
+#EXTINF:0 tvg-name="UFC Network" tvg-language="English" tvg-country="US" tvg-id="UFC Network" tvg-logo="http://media.ufc.tv/ufc_system_assets/ufc_201403141343/images/ufc_network.png" group-title="Sports", UFC Network (Sports) (US) (English)
+http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
+
+#EXTINF:0 tvg-name="UFC" tvg-language="English" tvg-country="US" tvg-id="UFC" tvg-logo="http://myfonts-wtf.s3.amazonaws.com/9e/9eb8d4d8eeb8429c21826e64e8f4b529.28776.jpeg" group-title="Sports", UFC (Sports) (US) (English)
+http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
+
+#EXTINF:0 tvg-name="Versus HD" tvg-language="English" tvg-country="US" tvg-id="Versus HD" tvg-logo="http://www.5thround.com/wp-content/uploads/2009/12/versuslogo.jpg" group-title="Sports", Versus HD (Sports) (US) (English)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:0 tvg-name="Versus" tvg-language="English" tvg-country="US" tvg-id="Versus" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQy6CAqj8XYz-xhdV5Ujzyt8BFxz2eOksJjbhhaccg-YP2AcvXmQeCpWe4Epg" group-title="Sports", Versus (Sports) (US) (English)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:0 tvg-name="PAC 12 Arizona" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Arizona" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Arizona (Sports) (US) (English)
 http://xrxs.net/video/live-p12ariz-4728.m3u8?
@@ -125,20 +127,8 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 
 #EXTINF:0 tvg-name="PAC 12 Washington" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Washingtons" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Washington (Sports) (US) (English)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
-
-#EXTINF:0 tvg-name="Premier Sports" tvg-language="English" tvg-country="UK" tvg-id="Premier Sports" tvg-logo="http://4.bp.blogspot.com/-iQGTRv7Z11I/VQRb4RrdvAI/AAAAAAAABKM/yoWF5py9H8A/s1600/rsz_premier_sports_logo.png" group-title="Sports", Premier Sports (Sports) (UK) (English)
-rtmp://46.28.204.73:1935/zmelive/_definst_/unkEh7aP9AFs0jO
-
-#EXTINF:0 tvg-name="Redbull TV" tvg-language="English" tvg-country="UK" tvg-id="Redbull TV" tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png" group-title="Sports", Redbull TV (Sports) (UK) (English)
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
-#EXTINF:0 tvg-name="Setanta Sports" tvg-language="English" tvg-country="UK" tvg-id="Setanta Sports" tvg-logo="http://www.koolpassion.com/tvchannel/logo/logo-SetantaSports.jpg" group-title="Sports", Setanta Sports (Sports) (UK) (English)
-http://167.114.41.215:8080/espnuk_raf/espnuk_raf/index.m3u8
 #EXTINF:0 tvg-name="Sports Max" tvg-language="English" tvg-country="AU" tvg-id="Sports Max" tvg-logo="http://islandmix.com/blog/wp-content/uploads/2013/04/sportsmax.jpg" group-title="Sports", Sports Max (Sports) (AU) (English)
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-
-#EXTINF:0 tvg-name="Sports Tonight" tvg-language="English" tvg-country="UK" tvg-id="Sports Tonight" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_9EjWLCzXFMFIoO43KX1C0sq2fVtN1Na9DTu-T6Av7W9j8n618n4ymg" group-title="Sports", Sports Tonight (Sports) (UK) (English)
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 
 #EXTINF:0 tvg-name="SportsNet 360" tvg-language="English" tvg-country="CA" tvg-id="SportsNet 360" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/10/Sportsnet-360-Logo.jpg" group-title="Sports", SportsNet 360 (Sports) (CA) (English)
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
@@ -179,20 +169,4 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 #EXTINF:0 tvg-name="TVN" tvg-language="English" tvg-country="US" tvg-id="TVN" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRXAyxs-NGw4pMIQoTr91_-JLGoKZPuvYNhnh_7dWKH06FX1HsVBpoig3t4" group-title="Sports", TVN (Sports) (US) (English)
 http://iphone-streaming.ustream.tv/uhls/14473061/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0 tvg-name="Ten Cricket" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.zoptv.com/assets/logo/ten-cricket.png" group-title="Sports", Ten Cricket (Sports) (IN) (English)
-http://stream.zeefamily.tv/tencrick/index.m3u8
 
-#EXTINF:0 tvg-name="UFC Network" tvg-language="English" tvg-country="US" tvg-id="UFC Network" tvg-logo="http://media.ufc.tv/ufc_system_assets/ufc_201403141343/images/ufc_network.png" group-title="Sports", UFC Network (Sports) (US) (English)
-http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
-
-#EXTINF:0 tvg-name="UFC" tvg-language="English" tvg-country="US" tvg-id="UFC" tvg-logo="http://myfonts-wtf.s3.amazonaws.com/9e/9eb8d4d8eeb8429c21826e64e8f4b529.28776.jpeg" group-title="Sports", UFC (Sports) (US) (English)
-http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
-
-#EXTINF:0 tvg-name="Versus HD" tvg-language="English" tvg-country="US" tvg-id="Versus HD" tvg-logo="http://www.5thround.com/wp-content/uploads/2009/12/versuslogo.jpg" group-title="Sports", Versus HD (Sports) (US) (English)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:0 tvg-name="Versus" tvg-language="English" tvg-country="US" tvg-id="Versus" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQy6CAqj8XYz-xhdV5Ujzyt8BFxz2eOksJjbhhaccg-YP2AcvXmQeCpWe4Epg" group-title="Sports", Versus (Sports) (US) (English)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN (Sports) (US) (English)
-http://167.114.102.27/live/mILnqrhBcNl_MXUpQ6YRZA/1453667681/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
