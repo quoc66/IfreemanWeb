@@ -2,7 +2,12 @@
 
 <items>
 
-
+<item>
+<title>Russian TV channels</title>
+<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/ru_tv</jsonrpc>
+</item>
 
 
 <item>
