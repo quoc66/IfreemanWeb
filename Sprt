@@ -78,6 +78,8 @@ rtmp://31.220.2.148:1935/live/_definst_/espnusa
 #EXTINF:0 tvg-name="Fox Sports" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports (Sports) (US) (English)
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
 
+#EXTINF:0 tvg-name="Star Sports 3" tvg-language="English" tvg-country="IN" tvg-id="Star Sports 3" tvg-logo="http://lh6.googleusercontent.com/-HwF0dZmGfbg/VGfA1wK71sI/AAAAAAAAAfM/ZmrCgwigYqA/s252/7KOjYXv.png" group-title="Sports", Star Sports 3 (Sports) (IN) (English)
+http://109.236.92.207/mylive/test2/index.m3u8
 
 #EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="US" tvg-id="NBA TV" tvg-logo="http://www.allanhouston.com/wp-content/uploads/sites/7/2013/02/nba-tv-logo.png" group-title="Sports", NBA TV (Sports) (US) (English)
 http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
@@ -136,9 +138,6 @@ http://xrxs.net/video/live-p12wash-4728.m3u8?
 #EXTINF:0 tvg-name="Sports Max" tvg-language="English" tvg-country="AU" tvg-id="Sports Max" tvg-logo="http://islandmix.com/blog/wp-content/uploads/2013/04/sportsmax.jpg" group-title="Sports", Sports Max (Sports) (AU) (English)
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 
-#EXTINF:0 tvg-name="SportsNet 360" tvg-language="English" tvg-country="CA" tvg-id="SportsNet 360" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/10/Sportsnet-360-Logo.jpg" group-title="Sports", SportsNet 360 (Sports) (CA) (English)
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
 
@@ -164,9 +163,6 @@ http://109.236.92.207/mylive/test2/index.m3u8
 
 #EXTINF:0 tvg-name="Star Sports 2" tvg-language="English" tvg-country="IN" tvg-id="Star Sports 2" tvg-logo="http://www.zoptv.com/assets/logo/star-sports-2.png" group-title="Sports", Star Sports 2 (Sports) (IN) (English)
 http://109.236.92.207/mylive/test3/index.m3u8
-
-#EXTINF:0 tvg-name="Star Sports 3" tvg-language="English" tvg-country="IN" tvg-id="Star Sports 3" tvg-logo="http://lh6.googleusercontent.com/-HwF0dZmGfbg/VGfA1wK71sI/AAAAAAAAAfM/ZmrCgwigYqA/s252/7KOjYXv.png" group-title="Sports", Star Sports 3 (Sports) (IN) (English)
-http://109.236.92.207/mylive/test2/index.m3u8
 
 #EXTINF:0 tvg-name="TSN 1" tvg-language="English" tvg-country="US" tvg-id="TSN 1" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN1_CMYK.jpg" group-title="Sports", TSN 1 (Sports) (US) (English)
 rtmp://31.220.2.148:1935/live/_definst_/ts1
