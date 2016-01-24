@@ -41,3 +41,21 @@ http://80.243.189.26:8081/sportshd/bt2/index.m3u8
 #EXTINF:0,BT Sports ESPN
 http://80.243.189.26:8081/sportshd/espnuk/index.m3u8
 
+#EXTINF:0, Sky Sport5
+http://bit.do/iptvsportt-Sky1
+#EXTINF:0, Sky Sport4
+http://bit.do/iptvsportt-Sky2
+#EXTINF:0, Sky Sport3
+http://bit.do/iptvsportt-Sky3
+#EXTINF:0, Sky Sport2
+http://bit.do/iptvsportt-Sky4
+#EXTINF:0, Sky Sport1
+http://bit.do/iptvsportt-Sky5
+#EXTINF:0, Bt Sport1 
+http://bit.do/iptvsportt-BT1
+#EXTINF:0, Bt Sport2
+http://bit.do/iptvsportt-BT2
+#EXTINF:0, Stenta Sport
+http://bit.do/iptvsportt-ST
+#EXTINF:0, Eurosport 
+http://bit.do/iptvsportt-EU
