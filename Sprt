@@ -11,8 +11,8 @@ http://185.63.255.45/live/0Hd9OCkXLULI/playlist.m3u8
  #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg",NFL Network HD 2000k ...
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg",NFL Network HD 2000k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now 5000k
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8|
@@ -85,10 +85,10 @@ http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?tok
 http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
 
 #EXTINF:0 tvg-name="NBC Golf" tvg-language="English" tvg-country="UK" tvg-id="NBC Golf" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/golf_channel_on_nbc_logo.png" group-title="Sports", NBC Golf (Sports) (UK) (English)
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:0 tvg-name="NBC Sports Golf 1080p" tvg-language="English" tvg-country="US" tvg-id="NBC Sports Golf 1080p" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg" group-title="Sports", NBC Sports Golf 1080p (Sports) (US) (English)
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:0 tvg-name="NBC Sports Golf 720p" tvg-language="English" tvg-country="US" tvg-id="NBC Sports Golf 720p" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg" group-title="Sports", NBC Sports Golf 720p (Sports) (US) (English)
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
