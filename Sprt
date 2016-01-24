@@ -1,7 +1,8 @@
 #EXTM3U
  
-#EXTINF:-1 group-title="Sport",NBCSN Golf
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg",NBCSN Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
 #EXTINF:-1 group-title="Sport",NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tv-logo="https://irldefender.files.wordpress.com/2012/02/partner-1.jpg",NBC SN
@@ -9,12 +10,14 @@ http://185.63.255.45/live/0Hd9OCkXLULI/playlist.m3u8
  
  #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg",NFL Network HD 2000k
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now 5000k
-                                            http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8|
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8|
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/4047_2.jpg",ESPN
-                                            http://channelpear.com/watch/stream/?id=4047
+http://channelpear.com/watch/stream/?id=4047
  
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
@@ -88,7 +91,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
 #EXTINF:0 tvg-name="NBC Sports Golf 720p" tvg-language="English" tvg-country="US" tvg-id="NBC Sports Golf 720p" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg" group-title="Sports", NBC Sports Golf 720p (Sports) (US) (English)
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:0 tvg-name="NFL Network HD" tvg-language="English" tvg-country="US" tvg-id="NFL Network HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cf/Nfl_network_hd.jpg/revision/latest%3Fcb%3D20140814183707" group-title="Sports", NFL Network HD (Sports) (US) (English)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
