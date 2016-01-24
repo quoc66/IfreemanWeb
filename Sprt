@@ -11,9 +11,6 @@ http://185.63.255.45/live/0Hd9OCkXLULI/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1, NFL Network HD - link 2
-http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-
 #EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/1222.jpg",NFL Network HD 2000k
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 
