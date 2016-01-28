@@ -78,20 +78,6 @@
 <thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
 </item>
  
-<item>
-<title>Movies Genre</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F&amp;mode=5</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV Series Genre</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR gold][B]====other recommended movie sources========[/B][/COLOR]</title>
@@ -124,7 +110,24 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR gold][B]=================[/B][/COLOR]</title>
+<link>ignorme</link>
 </item>
+<item>
+<title>Movies Genre</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F&amp;mode=5</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Series Genre</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
+
+
 
 </root>
