@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>HD Movies - 2016</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2016+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2016+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>HD Movies - 2015</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5D2015+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fy2015.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fulv7oy5vr%2F2015_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
