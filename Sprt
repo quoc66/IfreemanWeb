@@ -75,9 +75,6 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN (Sports) (US) (English)
 rtmp://31.220.2.148:1935/live/_definst_/espnusa
 
-#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN (Sports) (US) (English)
-rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=on2dnxrqe9aci00 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=800&height=470&channel=29636&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-
 #EXTINF:0 tvg-name="Fox Sports 1" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports (Sports) (US) (English)
 http://torula.us.to/fs1/index.m3u8
 
