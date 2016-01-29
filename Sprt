@@ -75,9 +75,11 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN (Sports) (US) (English)
 rtmp://31.220.2.148:1935/live/_definst_/espnusa
 
-#EXTINF:0 tvg-name="Fox Sports 1" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports (Sports) (US) (English)
+#EXTINF:0 tvg-name="Fox Sports 1" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports 1
 http://torula.us.to/fs1/index.m3u8
 
+#EXTINF:0 tvg-name="Fox Sports 2" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
+http://88.150.198.114:1857/FOXSPORTS2/Sports2/index.m3u8?token=NTVjYjZlNzJkMTkxOTQ1Nzk0ZGZjYmYwMTNiNjZjZjE6MTQ1NDA0MDExNQ==
 
 #EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="US" tvg-id="NBA TV" tvg-logo="http://www.allanhouston.com/wp-content/uploads/sites/7/2013/02/nba-tv-logo.png" group-title="Sports", NBA TV (Sports) (US) (English)
 http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
