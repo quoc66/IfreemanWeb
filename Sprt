@@ -55,7 +55,10 @@ http://167.114.41.215:8080/espnuk_raf/espnuk_raf/index.m3u8
 #EXTINF:0 tvg-name="Sports Tonight" tvg-language="English" tvg-country="UK" tvg-id="Sports Tonight" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_9EjWLCzXFMFIoO43KX1C0sq2fVtN1Na9DTu-T6Av7W9j8n618n4ymg" group-title="Sports", Sports Tonight (Sports) (UK) (English)
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 
-#EXTINF:0 tvg-name="Ten Cricket" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.zoptv.com/assets/logo/ten-cricket.png" group-title="Sports", Ten Cricket (Sports) (IN) (English)
+#EXTINF:0 tvg-name="Ten sports" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/07/44872/Ten-Sports-Network.jpg" group-title="Sports", Ten Sports
+rtmp://93.174.93.66/live/ playPath=stenpakier?id=12360&pk=14fd25d2da68c335a22be426cf8f029a51eb193bf1d70060d3c7cd30ae6b6dd2 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.p3g.tv/resources/scripts/eplayer.swf flashver=WIN/2018,0,0,232 pageUrl=http://www.p3g.tv/embedplayer/stenpakier/2/600/420
+
+#EXTINF:0 tvg-name="Ten Cricket" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/ten-cricket-logo-1.png" group-title="Sports", Ten Cricket (Sports) (IN) (English)
 http://stream.zeefamily.tv/tencrick/index.m3u8
 
 ############################################################
