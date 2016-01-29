@@ -72,11 +72,9 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN (Sports) (US) (English)
 rtmp://31.220.2.148:1935/live/_definst_/espnusa
 
-#EXTINF:0 tvg-name="Fox Sports" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports (Sports) (US) (English)
-http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:0 tvg-name="Fox Sports 1" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports (Sports) (US) (English)
+http://torula.us.to/fs1/index.m3u8
 
-#EXTINF:0 tvg-name="Star Sports 3" tvg-language="English" tvg-country="IN" tvg-id="Star Sports 3" tvg-logo="http://lh6.googleusercontent.com/-HwF0dZmGfbg/VGfA1wK71sI/AAAAAAAAAfM/ZmrCgwigYqA/s252/7KOjYXv.png" group-title="Sports", Star Sports 3 (Sports) (IN) (English)
-http://109.236.92.207/mylive/test2/index.m3u8
 
 #EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="US" tvg-id="NBA TV" tvg-logo="http://www.allanhouston.com/wp-content/uploads/sites/7/2013/02/nba-tv-logo.png" group-title="Sports", NBA TV (Sports) (US) (English)
 http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
@@ -101,9 +99,9 @@ http://torula.us.to/nfl-nfltv/index.m3u8
 #EXTINF:0 tvg-name="NFL Now HD" tvg-language="English" tvg-country="US" tvg-id="NFL Now HD" tvg-logo="https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png" group-title="Sports", NFL Now HD (Sports) (US) (English)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
+#EXTINF:0 tvg-name="UFC Next" tvg-language="English" tvg-country="US" tvg-id="UFC Network" tvg-logo="http://media.zenfs.com/en_US/Sports/MMAWeekly/UFC-Glass-Logo-460x270.jpg" group-title="Sports", UFC Next)
+http://198.179.31.196/live/713.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3a6b6801a2b5828383c6203bf8b3ca3a7dfcdaa4ef29eae5ae8bc3d80038566c34c3e3958adba8c4236b9fbd37ac6950e8cd3919c5b928b3e91865257faccf8d2945a67eaed4ecc37e369c0e8b78a1bc16f728f33b9affae18b39b20d0fbaf7d20fad2e90743802d15910e2211ef86bbc18195eafecae07259734aedc3cb5a7ce8aa463cbdb134787835903efc38d462
 
-#EXTINF:0 tvg-name="UFC Network" tvg-language="English" tvg-country="US" tvg-id="UFC Network" tvg-logo="http://media.ufc.tv/ufc_system_assets/ufc_201403141343/images/ufc_network.png" group-title="Sports", UFC Network (Sports) (US) (English)
-http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
 
 #EXTINF:0 tvg-name="UFC" tvg-language="English" tvg-country="US" tvg-id="UFC" tvg-logo="http://myfonts-wtf.s3.amazonaws.com/9e/9eb8d4d8eeb8429c21826e64e8f4b529.28776.jpeg" group-title="Sports", UFC (Sports) (US) (English)
 http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
@@ -162,6 +160,9 @@ http://109.236.92.207/mylive/test2/index.m3u8
 
 #EXTINF:0 tvg-name="Star Sports 2" tvg-language="English" tvg-country="IN" tvg-id="Star Sports 2" tvg-logo="http://www.zoptv.com/assets/logo/star-sports-2.png" group-title="Sports", Star Sports 2 (Sports) (IN) (English)
 http://109.236.92.207/mylive/test3/index.m3u8
+
+#EXTINF:0 tvg-name="Star Sports 3" tvg-language="English" tvg-country="IN" tvg-id="Star Sports 3" tvg-logo="http://lh6.googleusercontent.com/-HwF0dZmGfbg/VGfA1wK71sI/AAAAAAAAAfM/ZmrCgwigYqA/s252/7KOjYXv.png" group-title="Sports", Star Sports 3 (Sports) (IN) (English)
+http://109.236.92.207/mylive/test2/index.m3u8
 
 #EXTINF:0 tvg-name="TSN 1" tvg-language="English" tvg-country="US" tvg-id="TSN 1" tvg-logo="http://contact.sourcecable.ca/wp-content/uploads/2015/05/TSN1_CMYK.jpg" group-title="Sports", TSN 1 (Sports) (US) (English)
 rtmp://31.220.2.148:1935/live/_definst_/ts1
