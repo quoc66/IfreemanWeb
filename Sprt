@@ -95,6 +95,8 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 
 #EXTINF:0 tvg-name="NFL Network" tvg-language="English" tvg-country="US" tvg-id="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/100px-NFL_Network_logo.svg.png" group-title="Sports", NFL Network (Sports) (US) (English)
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
+#EXTINF:0 tvg-name="NFL Network" tvg-language="English" tvg-country="US" tvg-id="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/100px-NFL_Network_logo.svg.png" group-title="Sports", NFL Network (Sports) (US) (English)
+http://torula.us.to/nfl-nfltv/index.m3u8
 
 #EXTINF:0 tvg-name="NFL Now HD" tvg-language="English" tvg-country="US" tvg-id="NFL Now HD" tvg-logo="https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png" group-title="Sports", NFL Now HD (Sports) (US) (English)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
