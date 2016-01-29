@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
+http://edge1.everyon.tv/etv1sb/phd16/chunklist_w929517280.m3u8
+
 #EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC News" tvg-logo="http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg" group-title="News", ABC News (News) (US) (English)
 http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
 
