@@ -64,15 +64,16 @@ http://stream.zeefamily.tv/tencrick/index.m3u8
 ############################################################
 #EXTINF:-1,[COLOR gold]===========US Channels=========[/COLOR]
 ############################################################
-EXTINF‬:-1, ESPN HD
+
+#EXTINF:01, ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
-#EXTINF:-1, FOX SPORTS
+#EXTINF:0, FOX SPORTS
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1,
+#EXTINF:0,
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1, ESPN
+#EXTINF:0, ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
-#EXTINF:-1, ESPN2
+#EXTINF:0, ESPN2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
 
 #EXTINF:0 tvg-name="CBN Sports" tvg-language="English" tvg-country="CA" tvg-id="CBN Sports" tvg-logo="http://sim04.in.com/dc4a3899b2a2929e5078d2d0e5826462_t.jpg" group-title="Sports", CBN Sports (Sports) (CA) (English)
