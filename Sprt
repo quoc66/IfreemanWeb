@@ -23,13 +23,10 @@ http://02e4.vp9.tv/chn/btsu2/v.m3u8
 http://ipsatpro.com:8000/live/younes/younes/527.ts
 
 #EXTINF:0 tvg-name="EuroSport 1" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 1" tvg-logo="http://www.numwan.com/wp-content/uploads/2014/03/euro-sport.jpg" group-title="Sports", EuroSport 1 (Sports) (UK) (English)
-rtmp://31.220.2.148:1935/live/_definst_/euro1
-
-#EXTINF:0 tvg-name="EuroSport 1" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 1" tvg-logo="http://www.numwan.com/wp-content/uploads/2014/03/euro-sport.jpg" group-title="Sports", EuroSport 1 (link #2)
-http://bit.do/iptvsportt-EU
+http://cdn.sportlive.ws/hls/izkIo2XFXWJNlZ4VRuVIDQ/1454037192/eurosport.m3u8|User-Agent=Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko&Referer=http%3A%2F%2Fstreamking.co
 
 #EXTINF:0 tvg-name="EuroSport 2" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurosport_2_HD_Logo.svg/220px-Eurosport_2_HD_Logo.svg.png" group-title="Sports", EuroSport 2 (Sports) (UK) (English)
-http://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
+rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE2IDE6MTk6MzYgQU0maGFzaF92YWx1ZT1QMWtGbW1zZ0s5K2NpdFBMWjNIVjVBPT0mdmFsaWRtaW51dGVzPTEw/ibrodtv29_2cmdoz6c swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv29&autoplay=true&strech=exactfithttp://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:0 tvg-name="Sky Sports 1" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 1" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png" group-title="Sports", Sky Sports 1 (Sports) (UK) (English)
 http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
