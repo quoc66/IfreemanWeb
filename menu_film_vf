@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>Suggestion de films </title>
+<title>Suggestion de Films </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</jsonrpc>
 <film_fr>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</film_fr>
