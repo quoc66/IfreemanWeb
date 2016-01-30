@@ -14,6 +14,7 @@
 <title>Suggestion de films </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</jsonrpc>
+<film_fr>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</film_fr>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png</thumbnail>
 </item>
 
