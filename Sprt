@@ -79,7 +79,7 @@ rtmp://31.220.2.148:1935/live/_definst_/espnusa
 http://torula.us.to/fs1/index.m3u8
 
 #EXTINF:0 tvg-name="Fox Sports 2" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
-http://88.150.198.114:1857/FOXSPORTS2/Sports2/index.m3u8?token=NTVjYjZlNzJkMTkxOTQ1Nzk0ZGZjYmYwMTNiNjZjZjE6MTQ1NDA0MDExNQ==
+http://88.150.198.114:1857/FOXSPORTS2/Sports2/index.m3u8?token=NTVjYjZlNzJkMTkxOTQ1Nzk0ZGZjYmYwMTNiNjZjZjE6MTQ1NDExODU4Nw==
 
 #EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="US" tvg-id="NBA TV" tvg-logo="http://www.allanhouston.com/wp-content/uploads/sites/7/2013/02/nba-tv-logo.png" group-title="Sports", NBA TV (Sports) (US) (English)
 http://31.220.41.103:80/LiveEdge/NBATVUS/chunklist_w1420794353_b1000000.m3u8?token=
