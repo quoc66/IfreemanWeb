@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
-http://edge1.everyon.tv/etv1sb/phd16/chunklist_w929517280.m3u8
+http://77.76.140.251/prgo.m3u8
+#EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
+http://62.65.140.154:80/session/b0324f88-c6ce-11e5-9bd8-005056bc06d1/nvnv5a/2/4002/index.m3u8?token=5d1163eb6a9919729f2b0ed15646b693_1454189072_1454189072&p=127|X-Forwarded-For=85.6.114.144
 
 #EXTINF:0 tvg-name="BBC World News" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC World News
 http://62.65.140.217:80/session/ac547454-c6ce-11e5-b778-005056bc06d1/nvnv5a/2/4003/index.m3u8?token=8f9fbd3ce184f2ff701b604c0531e187_1454189065_1454189065&p=127|X-Forwarded-For=85.7.218.148
@@ -164,3 +166,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/4424524/streams/live/playlist.m3
 
 #EXTINF:0 tvg-name="BBC Parliament" tvg-language="English" tvg-country="UK" tvg-id="BBC Parliament" tvg-logo="http://www.bbc.co.uk/staticarchive/873f1bab6fdf86683b5a457ddeb71f411da3c1e3.jpg" group-title="News", BBC Parliament (News) (UK) (English)
 http://198.179.30.109/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe99a645133d76db85a25ae64af0de1575640cc95852d62be0e2b37a3eda081328234b0c6edcfd69f3961be9051ba0dfc2d50d49e90c43a96f04636ac97d74957daa497bec59f07d590195a23457fd3e0019520777e1cf0b8692419bd26a7ea4be1d4770de70e983b5861c5395eb9a61842d48d726472c8a9b32c7b91282b6be52dd4898849f10dd719d0facd764b569a1
+
+#EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
+http://edge1.everyon.tv/etv1sb/phd16/chunklist_w929517280.m3u8
