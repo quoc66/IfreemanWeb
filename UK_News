@@ -50,6 +50,11 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:0 tvg-name="The Weather Channel" tvg-language="English" tvg-country="US" tvg-id="The Weather Channel" tvg-logo="http://s.w-x.co/240x180_twc_default.png" group-title="News", The Weather Channel (News) (US) (English)
 http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 
+<item>
+<title>[COLOR gold][B]=================================================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
 #EXTINF:0 tvg-name="Al Jazeera" tvg-language="English" tvg-country="QA" tvg-id="Al Jazeera" tvg-logo="http://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo-150x150.jpg" group-title="News", Al Jazeera (News) (QA) (English)
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
