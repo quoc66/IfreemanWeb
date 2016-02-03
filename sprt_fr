@@ -22,9 +22,9 @@
 </item>
 
 <item>
-<title>Bein Sport France 1 </title>
+<title>Bein Sport 1 </title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbeIN%2bSports%2b1HD%2bFrance%2blive%2bstream%26catcher%3dstreams%26url.tmp%3d%252Fwatch%252Fbein-sport-1-france-live-stream%26title%3dbeIN%2bSports%2b1HD%2bFrance%26url%3dhttp%253A%252F%252Fshowsport-tv.com%252Fwatch%252Fbein-sport-1-france-live-stream%26videoTitle%3dbeIN%2bSports%2b1HD%2bFrance%26director%3dshowsport-tv.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fshowsport-tv.com%26definedIn%3dtv%252Fshowsport-tv.com.cfg%26icon.tmp%3d%252Fimages%252Fb1fr.png%26type%3drss%26icon%3dhttp%253A%252F%252Fshowsport-tv.com%252Fimages%252Fb1fr.png&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbeIN%2bSports%2b1HD%2bFrance%2blive%2bstream%26catcher%3dstreams%26url.tmp%3d%252Fwatch%252Fbein-sport-1-france-live-stream%26title%3dbeIN%2bSports%2b1HD%2bFrance%26url%3dhttp%253A%252F%252Fshowsport-tv.com%252Fwatch%252Fbein-sport-1-france-live-stream%26videoTitle%3dbeIN%2bSports%2b1HD%2bFrance%26director%3dshowsport-tv.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fshowsport-tv.com%26definedIn%3dtv%252Fshowsport-tv.com.cfg%26icon.tmp%3d%252Fimages%252Fb1fr.png%26type%3drss%26icon%3dhttp%253A%252F%252Fshowsport-tv.com%252Fimages%252Fb1fr.png</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/d/d5/BeIN_SPORTS_1HD_Couleur.jpg</thumbnail>
 </item>
 
