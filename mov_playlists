@@ -39,13 +39,13 @@
 <item>
 <title>[COLOR gold][B]===================[/B][/COLOR]</title>
 <link>ignorme</link>
-</it
+</item>
 
  <item>
 <title>Classic Westerns</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Western%2520Movies.txt&amp;mode=1&amp;name=Classic+Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Western%2520Movies.txt&amp;mode=1&amp;name=Classic+Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FWestern%2520Movies.txt&amp;mode=1&amp;name=Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520western%2520movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FWestern%2520Movies.txt&amp;mode=1&amp;name=Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520western%2520movies.jpg&amp;description=</movie>
 <thumbnail>http://www.spaghetti-western.net/images/thumb/4/41/Anyguncanplaybook.png/300px-Anyguncanplaybook.png</thumbnail>
 </item>
 
@@ -60,16 +60,16 @@
  <item>
 <title>Gangster/mafia</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Mafia%2520%26%2520Gang%2520Movies.txt&amp;mode=1&amp;name=Classic+Mafia+%26+Gang+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Mafia%2520%26%2520Gang%2520Movies.txt&amp;mode=1&amp;name=Classic+Mafia+%26+Gang+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FMafia%2520%26%2520Gang%2520Movies.txt&amp;mode=1&amp;name=Mafia+%26+Gang+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520mafia%2520and%2520gang%2520movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FMafia%2520%26%2520Gang%2520Movies.txt&amp;mode=1&amp;name=Mafia+%26+Gang+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520mafia%2520and%2520gang%2520movies.jpg&amp;description=</movie>
 <thumbnail>http://ecx.images-amazon.com/images/I/51NDKJyaAZL._SX466_.jpg</thumbnail>
 </item>
 
  <item>
 <title>War movies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520War%2520Movies.txt&amp;mode=1&amp;name=Classic+War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520War%2520Movies.txt&amp;mode=1&amp;name=Classic+War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FWar%2520Movies.txt&amp;mode=1&amp;name=War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520war%2520movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FWar%2520Movies.txt&amp;mode=1&amp;name=War+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520war%2520movies.jpg&amp;description=</movie>
 <thumbnail>http://www.filmsite.org/images/greatest-war-films2.jpg</thumbnail>
 </item> 
 
