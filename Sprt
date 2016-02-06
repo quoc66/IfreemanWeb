@@ -61,6 +61,20 @@ rtmp://93.174.93.66/live/ playPath=stenpakier?id=12360&pk=14fd25d2da68c335a22be4
 #EXTINF:0 tvg-name="Ten Cricket" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/ten-cricket-logo-1.png" group-title="Sports", Ten Cricket (Sports) (IN) (English)
 http://stream.zeefamily.tv/tencrick/index.m3u8
 
+#EXTINF:0,UK: Sky Sports F1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/965.m3u8
+#EXTINF:0,UK: sky sports 5
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/966.m3u8
+#EXTINF:0,UK: sky sports 4
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/967.m3u8
+#EXTINF:0,UK: sky sports 3
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/968.m3u8
+#EXTINF:0,UK: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/969.m3u8
+#EXTINF:0,UK: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/970.m3u8
+#EXTINF:0,UK: sky premiere sports
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/976.m3u8
 ############################################################
 #EXTINF:-1,[COLOR gold]===========US Channels=========[/COLOR]
 ############################################################
