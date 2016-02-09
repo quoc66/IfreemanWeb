@@ -12,7 +12,7 @@ rtmp://198.179.31.195/live/?id=0ad5aac39bb13fbed4d088716079d5ade91c197de27425c76
 #EXTINF:0 tvg-name="BBC News" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC News
 http://204.107.27.196/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5976575975879adf55aaec7a18c2583dc660a41a25d31af3c8a498fc33329e3fe6c8180d506d60b542788f87402e473c5b767e70b34fc227c30c78b102bc67afa68195d839afcc4d1792823f184a96b02c1a8b845b6f86008b6fd5ba3d722df18b0e4c480a9f7eae31550022c7ed2890c87bbb2be050ed58932b69bc925413fccfc911d548e85cd459540fb4c4c52e0c
 #EXTINF:0 tvg-name="BBC World News" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC World News
-http://62.65.140.218:80/session/6d5e362e-cb18-11e5-ba59-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=88211717e03eeaae9ddbde168fbaf9c3_1454660547_1454660547&p=127|X-Forwarded-For=85.0.95.240
+http://62.65.140.217:80/session/e0d572a6-ced4-11e5-8b88-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=2a8af6d21c4ebf936442d5eb64ca7545_1455071339_1455071339&p=127|X-Forwarded-For=85.2.105.7
 #EXTINF:0 tvg-name="BBC World News" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC World News
 http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2000000/4dc056d69c5791101b1c85419bce537a665e6eb2/track_2_1200/playlist.m3u8?time=1454774966885
 
@@ -183,6 +183,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/4424524/streams/live/playlist.m3
 http://198.179.30.109/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe99a645133d76db85a25ae64af0de1575640cc95852d62be0e2b37a3eda081328234b0c6edcfd69f3961be9051ba0dfc2d50d49e90c43a96f04636ac97d74957daa497bec59f07d590195a23457fd3e0019520777e1cf0b8692419bd26a7ea4be1d4770de70e983b5861c5395eb9a61842d48d726472c8a9b32c7b91282b6be52dd4898849f10dd719d0facd764b569a1
 
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
-http://62.65.140.155:80/session/6fafcb2c-cb18-11e5-8c63-005056bc49ac/nvnv5a/2/4002/index.m3u8?token=1223863487d0a398d7e9ae7919635cd5_1454660551_1454660551&p=127|X-Forwarded-For=85.1.57.168
+http://62.65.140.155:80/session/e4068db6-ced4-11e5-9d5a-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=10ca6878c5abdbb83979a643a1aec180_1455071345_1455071345&p=127|X-Forwarded-For=85.2.105.7
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
