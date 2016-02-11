@@ -3,14 +3,6 @@
 <root>
 
 <item>
-<title>HD Movies in Cinema</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCurrent+Movies%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FPlaylists%2FCurrent%2520Movies.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2F7myi619vr%2FCurrent_Movies.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
-<thumbnail>https://pbs.twimg.com/profile_images/1162481776/moviesnow-logo.jpg</thumbnail>
-</item>
-
-<item>
 <title>HD Movies- 2016</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=2016+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2016%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2Fuecncwi.jpg&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
@@ -24,15 +16,6 @@
 <jsonrpc>plugin://plugin.video.phstreams/?name=2015+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2015%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FtgiZgd3.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
 <movie>plugin://plugin.video.phstreams/?name=2015+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2015%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FtgiZgd3.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Movies - Assorted HD</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=HD+Movie+collection&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2FHDcollection.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FEcn7UdO.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=HD+Movie+collection&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2FHDcollection.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FEcn7UdO.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
 
@@ -59,7 +42,7 @@
 <item>
 <title>Search Movie (Recommended)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.123movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
+<jsonrpc>plugin://plugin.video.md123movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
