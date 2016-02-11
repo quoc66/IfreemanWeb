@@ -3,11 +3,11 @@
 <items>
 
 <item>
-<title>Animation movies</title>
+<title>Animation Movies</title>
 <thumbnail>http://truthoncinema.com/wp-content/uploads/2013/06/pixar-logo.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DKids+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2FKids.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fwy37mjih3%2FKids_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DKids+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2FKids.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Fwy37mjih3%2FKids_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<jsonrpc>plugin://plugin.video.phstreams/?name=kids+%26+animation&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2Fkids_animation.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FYXaY4BI.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=kids+%26+animation&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2Fkids_animation.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FYXaY4BI.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
 </item>
 
 <item>
