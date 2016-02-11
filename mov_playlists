@@ -23,8 +23,8 @@
 <item>
 <title>Box sets</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FClassic%2520Box%2520Set%2520Movies.txt&amp;mode=1&amp;name=Classic+Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fthumbs%2FUK+TURK+old+movies.jpg&amp;description=</movie>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FBox%2520Set%2520Movies.txt&amp;mode=1&amp;name=Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520box%2520set%2520movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FBox%2520Set%2520Movies.txt&amp;mode=1&amp;name=Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520box%2520set%2520movies.jpg&amp;description=</movie>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/boxsets-logo-colour.png</thumbnail>
 </item>
 
