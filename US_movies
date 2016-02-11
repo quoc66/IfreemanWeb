@@ -30,8 +30,8 @@
 <item>
 <title>Movies - Assorted HD</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DAssorted+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fyass.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Ftkuyztow7%2FAssorted_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DAssorted+HD%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fyork.watchkodi.com%2FAfdah%2Fyass.xml&amp;audio=0&amp;image=http%3A%2F%2Fs5.postimg.org%2Ftkuyztow7%2FAssorted_HD.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fn5fv921c7%2FFan_art.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<jsonrpc>plugin://plugin.video.phstreams/?name=HD+Movie+collection&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2FHDcollection.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FEcn7UdO.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=HD+Movie+collection&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2FHDcollection.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FEcn7UdO.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
