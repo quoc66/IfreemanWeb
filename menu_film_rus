@@ -8,19 +8,27 @@
 <jsonrpc>plugin://plugin.video.kino-live.org/?href=http://kino-live2.org/hd/&amp;mode=readCategory</jsonrpc>
 </item>
 
+-----------------------------------------------------------------
+<item>
+<title>2016</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.kino-live.org/?href=http%3A%2F%2Fkino-live2.org%2Ftags%2F2016%2F&amp;mode=readCategory</jsonrpc>
+<thumbnail>http://www.yespunjab.com/images/national-2/2016-logo-151215.jpg</thumbnail>
+</item>
+
+<item>
+<title>2015</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.kino-live.org/?href=http%3A%2F%2Fkino-live2.org%2Ftags%2F2015%2F&amp;mode=readCategory</jsonrpc>
+<thumbnail>http://www.nlgja.org/2015/wp-content/uploads/sites/5/2015/02/2015-logo.jpg</thumbnail>
+</item>
 
 <item>
 <title>Film Categories/Kатегории</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.kino-live.org/?href=http%3A%2F%2Fkino-live2.org&amp;mode=getCategories</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+<thumbnail>http://www.nlgja.org/2015/wp-content/uploads/sites/5/2015/02/2015-logo.jpg</thumbnail>
 </item>
------------------------------------------------------------------
-<item>
-<title>main menu/Search film</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.kino-live.org</jsonrpc>
-<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
-</item>
+
 
 </root>
