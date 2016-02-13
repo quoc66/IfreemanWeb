@@ -20,10 +20,9 @@
  
 
 <item>
-<title>Marvel Comics</title>
+<title>Marvel Comics movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=Marvel+Comics+Movies&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Flampoon.xml&amp;audio=0&amp;image=http%3A%2F%2Fs17.postimg.org%2F6kr9bvwzj%2FMarvel_Comics_HD.jpg&amp;fanart=http%3A%2F%2Fimg1.goodfon.su%2Foriginal%2F1920x1080%2F7%2F52%2Fking-queen-crown-poker.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=Marvel+Comics+Movies&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Flampoon.xml&amp;audio=0&amp;image=http%3A%2F%2Fs17.postimg.org%2F6kr9bvwzj%2FMarvel_Comics_HD.jpg&amp;fanart=http%3A%2F%2Fimg1.goodfon.su%2Foriginal%2F1920x1080%2F7%2F52%2Fking-queen-crown-poker.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
 <thumbnail>http://www.cinemablend.com/images/news_img/71871/marvel_71871.jpg</thumbnail>
 </item>
 
