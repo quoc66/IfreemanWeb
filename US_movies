@@ -92,6 +92,15 @@
 <year>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml&amp;mode=21&amp;name=Featured+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Cfeatured.png&amp;description=</year>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
+
+ <item>
+<title>Random list</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<year>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</year>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
+</item> 
+
 <item>
 <title>Featured Movies (with hosts selection)</title>
 <link>ignorme</link>
