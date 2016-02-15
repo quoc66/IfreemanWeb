@@ -13,8 +13,8 @@ rtmp://198.179.31.195/live/?id=0ad5aac39bb13fbed4d088716079d5ade91c197de27425c76
 http://204.107.27.196/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5976575975879adf55aaec7a18c2583dc660a41a25d31af3c8a498fc33329e3fe6c8180d506d60b542788f87402e473c5b767e70b34fc227c30c78b102bc67afa68195d839afcc4d1792823f184a96b02c1a8b845b6f86008b6fd5ba3d722df18b0e4c480a9f7eae31550022c7ed2890c87bbb2be050ed58932b69bc925413fccfc911d548e85cd459540fb4c4c52e0c
 #EXTINF:0 tvg-name="BBC World News" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC World News
 http://62.65.140.217:80/session/e0d572a6-ced4-11e5-8b88-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=2a8af6d21c4ebf936442d5eb64ca7545_1455071339_1455071339&p=127|X-Forwarded-For=85.2.105.7
-#EXTINF:0 tvg-name="BBC World News" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC World News
-http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2000000/4dc056d69c5791101b1c85419bce537a665e6eb2/track_2_1200/playlist.m3u8?time=1454774966885
+#EXTINF:0 tvg-name="BBC World News - UKTurk" tvg-language="English" tvg-country="UK" tvg-id="BBC News" tvg-logo="http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png" group-title="News", BBC World News
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2000000/4dc056d69c5791101b1c85419bce537a665e6eb2/track_2_1200/playlist.m3u8
 
 #EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC News" tvg-logo="http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg" group-title="News", ABC News (News) (US) (English)
 http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
