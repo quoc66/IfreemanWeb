@@ -31,9 +31,18 @@
 <title>30 Random all-time movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
-<year>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</year>
+<random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
+
+ <item>
+<title>30 Random all-time movies #2</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</jsonrpc>
+<random>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</random>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
+</item> 
+
 
 <item>
 <title>Movies - other selected playlists</title>
