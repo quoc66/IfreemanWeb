@@ -2,8 +2,8 @@
 
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://77.76.140.251/prgo.m3u8
-#EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
-http://edge1.everyon.tv/etv1sb/phd16/chunklist_w929517280.m3u8
+#EXTINF:0 tvg-name="CNN International - UKTurk" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
+http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://top-iptv.zapto.org:8000/live/Aria/Aria/637.m3u8
 
