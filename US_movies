@@ -11,35 +11,20 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-<item>
-<title>HD Movies- 2016</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=2016+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2016%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2Fuecncwi.jpg&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=2016+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2016%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2Fuecncwi.jpg&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
-<thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
-</item>
 
 <item>
-<title>HD Movies- 2015</title>
+<title>2015 HD Movies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=2015+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2015%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FtgiZgd3.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=2015+HD+movies&amp;url=http%3A%2F%2Ftuzla.watchkodi.com%2F2015%2520HD.xml&amp;audio=0&amp;image=http%3A%2F%2Fi.imgur.com%2FtgiZgd3.png&amp;fanart=http%3A%2F%2Fforumarchiwum.muve.pl%2Fuploads%2Fforum-post%2F20130828190540-ad3d6_521e2e37deffb.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</movie>
+<jsonrpc>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</jsonrpc>
+<year>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</year>
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
-</item>
-
- <item>
-<title>30 Random all-time movies</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
-<random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
-<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
 
 <item>
-<title>30 Random all-time movies #2</title>
+<title>Random all-time movies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</jsonrpc>
-<random>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</random>
+<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
 
@@ -101,20 +86,6 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-<item>
-<title>Titan</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml&amp;mode=21&amp;name=Featured+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Cfeatured.png&amp;description=</jsonrpc>
-<year>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml&amp;mode=21&amp;name=Featured+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Cfeatured.png&amp;description=</year>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-<item>
-<title>2015 movies #2</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</jsonrpc>
-<year>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</year>
-<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
-</item> 
 
 
 <item>
