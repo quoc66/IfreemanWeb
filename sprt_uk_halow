@@ -138,10 +138,16 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 <title>Sky Sports News HD</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-news-live-stream-1.html</sportsdevil>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
-<referer>http://mamahd.com/watch-sky-sports-news-live-stream-1.html</referer>
+<referer>http://mamahd.com</referer>
 </item>
 <item>
- 
+
+<item>
+<title>Sky Sports News HD</title>
+<sportsdevil>http://showsport-tv.com/watch/sky-sport-news-live-stream</sportsdevil>            
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
+<referer>http://showsport-tv.com</referer>
+</item> 
  
  
 <title>BT SPORT 1 HD</title>
