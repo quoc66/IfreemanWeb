@@ -29,6 +29,12 @@
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Sprt</jsonrpc>
 </item>
 
+<item>
+<title>UK Sport Channels 2</title>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/sprt_uk_halow</jsonrpc>
+</item>
 
 <item>
 <title>News Channels</title>
