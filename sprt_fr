@@ -21,12 +21,6 @@
 </item>
 
 
-<item>
-<title>Canal Plus sport</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?fanart=image%3a%2f%2f%252fstorage%252f.kodi%252faddons%252fplugin.video.SportsDevil%252ffanart.jpg%2f&amp;mode=53&amp;name=Canal%2b%20Sport%20France%20&amp;url=plugin%3a%2f%2fplugin.video.SportsDevil%2f%3fmode%3d1%26item%3dvideoTitle%253DCanal%25252B%252BSport%252BFrance%252B%2526catcher%253Dstreams%2526title%253DCanal%25252B%252BSport%252BFrance%252B%2526url%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fembed%25252F72738%252526width%25253D640%252526height%25253D480%252526autoplay%25253Dtrue%2526definedIn%253Dtv%25252Filive.to-sports.cfg%2526referer%253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252Fembed%25252F72738%252526width%25253D640%252526height%25253D480%252526autoplay%25253Dtrue%2526icon.tmp%253Dhttp%25253A%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252Famk3q9tx3hnv3in_snapshot.jpg%2526icon%253Dhttp%25253A%25252F%25252Fsnapshots.streamlive.to%25252Fsnapshots%25252Famk3q9tx3hnv3in_snapshot.jpg%25257CReferer%25253Dhttp%25253A%25252F%25252Fwww.streamlive.to%25252F%252526User-Agent%25253DMozilla%25252F5.0%252B%252528Windows%252BNT%252B6.3%252529%252BAppleWebKit%25252F537.36%252B%252528KHTML%25252C%252Blike%252BGecko%252529%252BChrome%25252F47.0.2526.106%252BSafari%25252F537.36</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/320px-Canal%2B_Sport_%282013%29.svg.png</thumbnail>
-</item>
 
 <item>
 <title>Bein Sport 1 </title>
@@ -41,4 +35,12 @@
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbeIN%2bSports%2b2HD%2bFrance%2blive%2bstream%26catcher%3dstreams%26url.tmp%3d%252Fwatch%252Fbein-sport-2-france-live-stream%26title%3dbeIN%2bSports%2b2HD%2bFrance%26url%3dhttp%253A%252F%252Fshowsport-tv.com%252Fwatch%252Fbein-sport-2-france-live-stream%26videoTitle%3dbeIN%2bSports%2b2HD%2bFrance%26director%3dshowsport-tv.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fshowsport-tv.com%26definedIn%3dtv%252Fshowsport-tv.com.cfg%26icon.tmp%3d%252Fimages%252Fb2fr.png%26type%3drss%26icon%3dhttp%253A%252F%252Fshowsport-tv.com%252Fimages%252Fb2fr.png&amp;mode=1</jsonrpc>
 <thumbnail>http://film-terbaru.com/wp-content/uploads/2015/02/beinsport2.png</thumbnail>
 </item>
+
+
+<item>
+<title>Bein Sport 3</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-3-france-live-stream.html</sportsdevil>            
+<referer>http://http://showsport-tv.com</referer>
+</item>
+
 </root>
