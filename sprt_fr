@@ -2,53 +2,17 @@
 <root>
 
 <item>
+<title>Golf Channel (english)</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104 </link>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+</item>
+
+<item>
 <title>Equipe 21</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/29/L'Equipe_21.svg</thumbnail>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
 </item>
 
-
-<item>
-<title>Golf Channel (english)</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104 </link>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
-</item>
-<item>
-<title>Tennis Channel (english)</title>
-<link>http://204.107.27.250/live/1948.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe064d199cab472c6185cefe115b8b8ff243d265fec1dc432419d01226b719475db7766fe9a5538b26bcca58bc829f9d460bbfe0556981b7c10013bff802dc3cff004d70e19084f6fb85ec029dc5472d59e981a94245c914183970451fe16eed0539ac70e5d93aa1e4bdc8e0893e107d1e981701149cdc13a055eb8370c3a57844d0898b4bd51578178e2bb62ca4a33b62
-</link>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>Bein Sport 1 </title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbeIN%2bSports%2b1HD%2bFrance%2blive%2bstream%26catcher%3dstreams%26url.tmp%3d%252Fwatch%252Fbein-sport-1-france-live-stream%26title%3dbeIN%2bSports%2b1HD%2bFrance%26url%3dhttp%253A%252F%252Fshowsport-tv.com%252Fwatch%252Fbein-sport-1-france-live-stream%26videoTitle%3dbeIN%2bSports%2b1HD%2bFrance%26director%3dshowsport-tv.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fshowsport-tv.com%26definedIn%3dtv%252Fshowsport-tv.com.cfg%26icon.tmp%3d%252Fimages%252Fb1fr.png%26type%3drss%26icon%3dhttp%253A%252F%252Fshowsport-tv.com%252Fimages%252Fb1fr.png&amp;mode=1</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/d/d5/BeIN_SPORTS_1HD_Couleur.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 2 </title>
-<link>http://cdn540.xyz/live/dfc833f9a54d43c/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NDE2NDc5MyZoYXNoX3ZhbHVlPTFmODFkYmI5Y2EzYjAxYWUxMmY5MDJjMTNmZmQzOWE0JnZhbGlkbWludXRlcz0zMCZpcD0xODMuODkuMTk0LjIzMCY=|Referer=http%3A%2F%2Fwww.caston.tv%2Fplayer.php%3Fwidth%3D646%26height%3D450%26id%3D191&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbeIN%2bSports%2b2HD%2bFrance%2blive%2bstream%26catcher%3dstreams%26url.tmp%3d%252Fwatch%252Fbein-sport-2-france-live-stream%26title%3dbeIN%2bSports%2b2HD%2bFrance%26url%3dhttp%253A%252F%252Fshowsport-tv.com%252Fwatch%252Fbein-sport-2-france-live-stream%26videoTitle%3dbeIN%2bSports%2b2HD%2bFrance%26director%3dshowsport-tv.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fshowsport-tv.com%26definedIn%3dtv%252Fshowsport-tv.com.cfg%26icon.tmp%3d%252Fimages%252Fb2fr.png%26type%3drss%26icon%3dhttp%253A%252F%252Fshowsport-tv.com%252Fimages%252Fb2fr.png&amp;mode=1</jsonrpc>
-<thumbnail>http://film-terbaru.com/wp-content/uploads/2015/02/beinsport2.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3 </title>
-<link>http://cdn540.xyz/live/dfc833f9a54d43c/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NDE2NDc5MyZoYXNoX3ZhbHVlPTFmODFkYmI5Y2EzYjAxYWUxMmY5MDJjMTNmZmQzOWE0JnZhbGlkbWludXRlcz0zMCZpcD0xODMuODkuMTk0LjIzMCY=|Referer=http%3A%2F%2Fwww.caston.tv%2Fplayer.php%3Fwidth%3D646%26height%3D450%26id%3D191&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title.tmp%3dbeIN%2bSports%2b3HD%2bFrance%2blive%2bstream%26catcher%3dstreams%26url.tmp%3d%252Fwatch%252Fbein-sport-3-france-live-stream%26title%3dbeIN%2bSports%2b3HD%2bFrance%26url%3dhttp%253A%252F%252Fshowsport-tv.com%252Fwatch%252Fbein-sport-3-france-live-stream%26videoTitle%3dbeIN%2bSports%2b3HD%2bFrance%26director%3dshowsport-tv.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fshowsport-tv.com%26definedIn%3dtv%252Fshowsport-tv.com.cfg%26icon.tmp%3d%252Fimages%252Fb3fr.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fshowsport-tv.com%252Fimages%252Fb3fr.jpg&amp;mode=1</jsonrpc>
-<thumbnail>http://film-terbaru.com/wp-content/uploads/2015/02/beinsport2.png</thumbnail>
-</item>
-
-
-<item>
-<title>Bein3</title>
-<sportsdevil>http://showsport-tv.com/watch/bein-sport-3-live-stream</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
 
 <item>
 <title>Bein Sport 1</title>
