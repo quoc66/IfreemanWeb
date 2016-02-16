@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>Entertainment Channels</title>
+<thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Eng%20Ent</jsonrpc>
+</item>
+
+
+<item>
 <title>Sky movie channels</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.genesis/?action=channels</jsonrpc>
