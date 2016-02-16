@@ -6,60 +6,6 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 #EXTINF:0 tvg-name="NBC Sports Golf 1080p" tvg-language="English" tvg-country="US" tvg-id="NBC Sports Golf 1080p" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg" group-title="Sports", GOLF Full HD NBC Sports
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-############################################################
-#EXTINF:-1,[COLOR gold]===========UK Channels=========[/COLOR]
-############################################################
-
-#EXTINF:0 tvg-name="BT Sport ESPN UK" tvg-language="English" tvg-country="UK" tvg-id="BT Sport ESPN UK" tvg-logo="http://seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="Sports", BT Sport ESPN UK (Sports) (UK) (English)
-rtmp://31.220.2.148:1935/live/_definst_/espnxukk
-
-#EXTINF:0 tvg-name="BT Sports 1" tvg-language="English" tvg-country="UK" tvg-id="BT Sports 1" tvg-logo="http://www.time4tv.com/images/channel-logo/bt1.jpg" group-title="Sports", BT Sports 1 (Sports) (UK) (English)
-http://02e4.vp9.tv/chn/btsu1/v.m3u8
-
-#EXTINF:0 tvg-name="BT Sports 2" tvg-language="English" tvg-country="UK" tvg-id="BT Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/BT_Sport.svg/200px-BT_Sport.svg.png" group-title="Sports", BT Sports 2 (Sports) (UK) (English)
-http://02e4.vp9.tv/chn/btsu2/v.m3u8
-
-#EXTINF:0 tvg-name="BT Sports 2HD" tvg-language="English" tvg-country="UK" tvg-id="BT Sports 2HD" tvg-logo="http://arabic-football-online.com/wp-content/uploads/Chan/images/bt-sport-2.png" group-title="Sports", BT Sports 2HD (Sports) (UK) (English)
-http://ipsatpro.com:8000/live/younes/younes/527.ts
-
-#EXTINF:0 tvg-name="EuroSport 1" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 1" tvg-logo="http://www.numwan.com/wp-content/uploads/2014/03/euro-sport.jpg" group-title="Sports", EuroSport 1 (Sports) (UK) (English)
-http://cdn.sportlive.ws/hls/izkIo2XFXWJNlZ4VRuVIDQ/1454037192/eurosport.m3u8|User-Agent=Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko&Referer=http%3A%2F%2Fstreamking.co
-
-#EXTINF:0 tvg-name="EuroSport 2" tvg-language="English" tvg-country="UK" tvg-id="EuroSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurosport_2_HD_Logo.svg/220px-Eurosport_2_HD_Logo.svg.png" group-title="Sports", EuroSport 2 (Sports) (UK) (English)
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE2IDE6MTk6MzYgQU0maGFzaF92YWx1ZT1QMWtGbW1zZ0s5K2NpdFBMWjNIVjVBPT0mdmFsaWRtaW51dGVzPTEw/ibrodtv29_2cmdoz6c swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv29&autoplay=true&strech=exactfithttp://82.76.249.81/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:0 tvg-name="Sky Sports 1" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 1" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png" group-title="Sports", Sky Sports 1 (Sports) (UK) (English)
-http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
-
-#EXTINF:0 tvg-name="Sky Sports 2" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 2" tvg-logo="http://1.bp.blogspot.com/_m0VMopGnxUw/S6_SDfF-uBI/AAAAAAAACtE/tsVP4D-c_lc/s320/bay6.gif" group-title="Sports", Sky Sports 2 (Sports) (UK) (English)
-http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
-
-#EXTINF:0 tvg-name="Sky Sports 3" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 3" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png" group-title="Sports", Sky Sports 3 (Sports) (UK) (English)
-http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
-
-#EXTINF:0 tvg-name="Sky Sports 4" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 4" tvg-logo="http://digitalspyuk.cdnds.net/09/53/160x120_broadcasting_ss4logo.jpg" group-title="Sports", Sky Sports 4 (Sports) (UK) (English)
-http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
-
-#EXTINF:0 tvg-name="Sky Sports 5" tvg-language="English" tvg-country="UK" tvg-id="Sky Sports 5" tvg-logo="http://s14.postimg.org/hqlz93bpd/1554_1405339447.png" group-title="Sports", Sky Sports 5 (Sports) (UK) (English)
-http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
-
-#EXTINF:0 tvg-name="Premier Sports" tvg-language="English" tvg-country="UK" tvg-id="Premier Sports" tvg-logo="http://4.bp.blogspot.com/-iQGTRv7Z11I/VQRb4RrdvAI/AAAAAAAABKM/yoWF5py9H8A/s1600/rsz_premier_sports_logo.png" group-title="Sports", Premier Sports
-rtmp://89.248.174.38/live playpath=ttpremier swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf flashver=WIN/2020,0,0,267 live=1 timeout=14 swfVfy=1 pageUrl=http://www.yocast.tv/embed.php?live=ttpremier&vw=600&vh=450
-
-#EXTINF:0 tvg-name="Redbull TV" tvg-language="English" tvg-country="UK" tvg-id="Redbull TV" tvg-logo="http://www.redbull.com/cs/RedBull2/images/branding/redbull-tv-logo-2x.png" group-title="Sports", Redbull TV (Sports) (UK) (English)
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
-#EXTINF:0 tvg-name="Setanta Sports" tvg-language="English" tvg-country="UK" tvg-id="Setanta Sports" tvg-logo="http://www.koolpassion.com/tvchannel/logo/logo-SetantaSports.jpg" group-title="Sports", Setanta Sports (Sports) (UK) (English)
-http://167.114.41.215:8080/espnuk_raf/espnuk_raf/index.m3u8
-
-#EXTINF:0 tvg-name="Sports Tonight" tvg-language="English" tvg-country="UK" tvg-id="Sports Tonight" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_9EjWLCzXFMFIoO43KX1C0sq2fVtN1Na9DTu-T6Av7W9j8n618n4ymg" group-title="Sports", Sports Tonight (Sports) (UK) (English)
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
-
-#EXTINF:0 tvg-name="Ten sports" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/07/44872/Ten-Sports-Network.jpg" group-title="Sports", Ten Sports
-rtmp://93.174.93.66/live/ playPath=stenpakier?id=12360&pk=14fd25d2da68c335a22be426cf8f029a51eb193bf1d70060d3c7cd30ae6b6dd2 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.p3g.tv/resources/scripts/eplayer.swf flashver=WIN/2018,0,0,232 pageUrl=http://www.p3g.tv/embedplayer/stenpakier/2/600/420
-
-#EXTINF:0 tvg-name="Ten Cricket" tvg-language="English" tvg-country="IN" tvg-id="Ten Cricket" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/ten-cricket-logo-1.png" group-title="Sports", Ten Cricket (Sports) (IN) (English)
-http://stream.zeefamily.tv/tencrick/index.m3u8
 
 ############################################################
 #EXTINF:-1,[COLOR gold]===========US Channels=========[/COLOR]
