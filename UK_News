@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
-http://77.76.140.251/prgo.m3u8
+#EXTINF:0 tvg-name="CNN International Kodilive" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
+http://62.65.140.155:80/session/47b78bea-d433-11e5-beb1-005056bc06d1/nvnv5a/2/4002/index.m3u8?token=3e81359c1739a9822bec88561d76f8ba_1455661641_1455661641&p=127|X-Forwarded-For=85.4.127.183
 #EXTINF:0 tvg-name="CNN International - UKTurklink2" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
@@ -182,7 +182,5 @@ http://iphone-streaming.ustream.tv/ustreamVideo/4424524/streams/live/playlist.m3
 #EXTINF:0 tvg-name="BBC Parliament" tvg-language="English" tvg-country="UK" tvg-id="BBC Parliament" tvg-logo="http://www.bbc.co.uk/staticarchive/873f1bab6fdf86683b5a457ddeb71f411da3c1e3.jpg" group-title="News", BBC Parliament (News) (UK) (English)
 http://198.179.30.109/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe99a645133d76db85a25ae64af0de1575640cc95852d62be0e2b37a3eda081328234b0c6edcfd69f3961be9051ba0dfc2d50d49e90c43a96f04636ac97d74957daa497bec59f07d590195a23457fd3e0019520777e1cf0b8692419bd26a7ea4be1d4770de70e983b5861c5395eb9a61842d48d726472c8a9b32c7b91282b6be52dd4898849f10dd719d0facd764b569a1
 
-#EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
-http://62.65.140.218:80/session/647411d4-d331-11e5-a43c-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=69d7abd251ac2f71f16a36a9981e611b_1455550879_1455550879&p=127|X-Forwarded-For=85.3.84.33
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
