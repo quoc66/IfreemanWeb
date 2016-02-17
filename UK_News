@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-name="CNN International Kodilive" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
-http://62.65.140.155:80/session/47b78bea-d433-11e5-beb1-005056bc06d1/nvnv5a/2/4002/index.m3u8?token=3e81359c1739a9822bec88561d76f8ba_1455661641_1455661641&p=127|X-Forwarded-For=85.4.127.183
+http://62.65.140.155:80/session/44471402-d493-11e5-879d-005056bc49ac/nvnv5a/2/4002/index.m3u8?token=466d7058736ebadad29487e2932da5a2_1455702866_1455702866&p=127|X-Forwarded-For=85.4.149.253
 #EXTINF:0 tvg-name="CNN International - UKTurklink2" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
