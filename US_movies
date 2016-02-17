@@ -50,9 +50,9 @@
 
 
 <item>
-<title>Search Movie (recommended)</title>
+<title>Search Movie (Recommended)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?url=url&amp;mode=6&amp;description=</jsonrpc>
+<jsonrpc>plugin://plugin.video.md123movies/?url=url&amp;mode=3&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
