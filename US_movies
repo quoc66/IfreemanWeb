@@ -52,7 +52,7 @@
 <item>
 <title>Search Movie (Recommended)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?url=url&amp;mode=3&amp;description=</jsonrpc>
+<jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
