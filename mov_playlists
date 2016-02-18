@@ -42,7 +42,7 @@
 <link>ignorme</link>
 </item>
 
-
+<item>
 <title>Love</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DLove%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FLove.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Fnn4hv0on5%2FHD_fantasy_girls_pictures_2.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=movies&amp;action=ndmode</jsonrpc>
@@ -50,7 +50,7 @@
 <thumbnail>http://s6.postimg.org/nn4hv0on5/HD_fantasy_girls_pictures_2.jpg</thumbnail>
 </item>
 
-
+<item>
 <title>Cry</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DCry%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FCry.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2F47tq1wvcx%2Fcry_2.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=movies&amp;action=ndmode</jsonrpc>
