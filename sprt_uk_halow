@@ -14,7 +14,39 @@
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/campaigns/sport/epl/Barclays-Premier-League-Logo.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR yellow][B] Fiorentina vs [COLOR blue][B] Tottenham Hotspur [/B][COLOR red]  [HD][/COLOR]</title>
+<link>$doregex[url]</link>
+<regex>
+    <name>url</name>
+    <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72137',False,False,'http://vipracing.info/')</expres>
+    <page></page>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
+</item>
 
+-<item>
+<title>[COLOR yellow][B] Fiorentina vs [COLOR blue][B] Tottenham Hotspur [/B][COLOR red]  [HD][/COLOR]</title>
+<link>http://gstreams.tv/streams.php/3</link>
+<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</fanart>
+</item>
+
+
+-<item>
+<title>[COLOR yellow][B]Midtjylland vs [COLOR blue][B] Manchester United[/B][COLOR red]  [HD][/COLOR]</title>
+<link>http://gstreams.tv/streams.php/4</link>
+<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</fanart>
+</item>
+
+
+-<item>
+<title>[COLOR yellow][B]Augsburg vs  [COLOR blue][B] Liverpool[/B][COLOR red]  [HD][/COLOR]</title>
+<link>http://gstreams.tv/streams.php/5</link>
+<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</fanart>
+</item>
 
 -----------------------------
 
@@ -140,7 +172,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 <referer>http://mamahd.com</referer>
 </item>
-<item>
+
 
 <item>
 <title>Sky Sports News HD</title>
@@ -149,7 +181,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 <referer>http://showsport-tv.com</referer>
 </item> 
  
- 
+<item> 
 <title>BT SPORT 1 HD</title>
 <sportsdevil>http://www.ibrod.tv/btsports1.html</sportsdevil>
 <referer>http://streamhd.eu</referer>
