@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>[COLOR Pink][B]================HER==============[/B][/COLOR]</title>
+<title>[COLOR pink][B]================HER==============[/B][/COLOR]</title>
 <link>ignorme</link>
 </item>
 
@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[COLOR Blue][B]================HIS==============[/B][/COLOR]</title>
+<title>[COLOR blue][B]================HIS==============[/B][/COLOR]</title>
 <link>ignorme</link>
 </item>
 
@@ -67,8 +67,8 @@
  <item>
 <title>Classic Westerns</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fmovies%2FWestern%2520Movies.txt&amp;mode=1&amp;name=Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520western%2520movies.jpg&amp;description=
-<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FWestern%2520Movies.txt&amp;mode=1&amp;name=Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520western%2520movies.jpg&amp;description=</movie>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fmovies%2FWestern%2520Movies.txt&amp;mode=1&amp;name=Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520western%2520movies.jpg&amp;description=</jsonrpc>
+<movie>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fmovies%2FWestern%2520Movies.txt&amp;mode=1&amp;name=Western+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520western%2520movies.jpg&amp;description=</movie>
 <thumbnail>http://www.spaghetti-western.net/images/thumb/4/41/Anyguncanplaybook.png/300px-Anyguncanplaybook.png</thumbnail>
 </item>
 
