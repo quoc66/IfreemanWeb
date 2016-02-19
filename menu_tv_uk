@@ -15,10 +15,10 @@
 </item>
 
 <item>
-<title>TV Guide - beta version</title>
+<title>TV Guide - beta</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://script.ivue.ifreeman/</jsonrpc>
+<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/0zcsmqc0c9k7bx7/linked_channels.csv?dl=1</jsonrpc>
 </item>
 
 
