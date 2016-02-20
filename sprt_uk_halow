@@ -75,9 +75,17 @@
 <item>
 <title>Sky Sport 4 BACKUP</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMzcuMjIwLjI5LjE4Njo4MDAwL3Nwb3J0cy9mb3VyL2luZGV4Lm0zdTg%2FdG9rZW49T1RCallXSTBZemhtTXpkaVpXUTNNMkptWldWbE1qZGpaR1l6TURJMk4yRTZNVFExTlRrMk9UTTBNQT09&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSp+4+v8%5B%2FCOLOR%5D</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMzcuMjIwLjI5LjE4Njo4MDAwL3Nwb3J0cy9mb3VyL2luZGV4Lm0zdTg%2FdG9rZW49T1RCallXSTBZemhtTXpkaVpXUTNNMkptWldWbE1qZGpaR1l6TURJMk4yRTZNVFExTlRrNU16QTNPUT09&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSp+4+v8%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
 </item>
+
+<item>
+<title>Sky Sport 4 BACKUP</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vODguMTUwLjE5OC4xMTQ6MTg1Ny9TUE9SVFM0L1Nwb3J0czQvaW5kZXgubTN1OD90b2tlbj1abVkyWkRCa1pURTROREJsWVRZM01UZG1ZbVEyWVdKaE1USmhPVEJoWWpBNk1UUTFOVGs1TXpBM09RPT0%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSp+4+v8%5B%2FCOLOR%5D
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+</item>
+
 -----
 <item>
 <title>SKY SPORT 5 HD</title>
