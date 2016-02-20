@@ -5,75 +5,6 @@
 <root>
 
 
-
-
-<item>
-<title>[COLOR palegreen][B]Premier league live Streaming[/B] LIST HD[/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/M45vNs15</externallink>
-<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/campaigns/sport/epl/Barclays-Premier-League-Logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B] Fiorentina vs [COLOR blue][B] Tottenham Hotspur [/B][COLOR red]  [HD][/COLOR]</title>
-<link>$doregex[url]</link>
-<regex>
-    <name>url</name>
-    <expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72137',False,False,'http://vipracing.info/')</expres>
-    <page></page>
-</regex>
-<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
-</item>
-
--<item>
-<title>[COLOR yellow][B] Fiorentina vs [COLOR blue][B] Tottenham Hotspur [/B][COLOR red]  [HD][/COLOR]</title>
-<link>http://gstreams.tv/streams.php/3</link>
-<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</fanart>
-</item>
-
-
--<item>
-<title>[COLOR yellow][B]Midtjylland vs [COLOR blue][B] Manchester United[/B][COLOR red]  [HD][/COLOR]</title>
-<link>http://gstreams.tv/streams.php/4</link>
-<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</fanart>
-</item>
-
-
--<item>
-<title>[COLOR yellow][B]Augsburg vs  [COLOR blue][B] Liverpool[/B][COLOR red]  [HD][/COLOR]</title>
-<link>http://gstreams.tv/streams.php/5</link>
-<thumbnail>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/684880112970559488/di4n-KO-.png</fanart>
-</item>
-
------------------------------
-
-
-<item>
-<title>Show all games[HD]</title>
-<sportsdevil>http://streamup.global.ssl.fastly.net/app/zonax1azs-channel/chunklist.m3u8</sportsdevil>
-<referer>http://zonasports.to</referer>
-<thumbnail>http://www.nyinterconnect.com/wp-content/uploads/nbc_sports.jpg</thumbnail>
-<fanart>http://www.nyinterconnect.com/wp-content/uploads/nbc_sports.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR palegreen]Bloodzeed show Premier League 1080 ACE[/COLOR]</title>
-<p2p>acestream://42fe51591598d905ab011a9c8339150f8391dfa7<p2p>
-<thumbnail>https://pbs.twimg.com/profile_images/673256703194886144/04qZuKo5.jpg</thumbnail>
-</item>
-
------------------------
-
-
---------
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg",GOLF HD NBC Sports
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
 <item>
 <title>NBC Sports Golf HD</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
@@ -135,6 +66,12 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 <referer>http://streamhd.eu</referer>
 </item>
  -----
+<item>
+<title>Sky Sport 4 BACKUP</title>
+<sportsdevil>http://cricfree.sx/update/skys4.php</sportsdevil>            
+<referer>http://cricfree.sxp</referer>
+</item>
+
 <item>
 <title>Sky Sport 4 BACKUP</title>
 <sportsdevil>http://cricfree.sx/update/skys4.php</sportsdevil>            
