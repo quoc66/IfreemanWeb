@@ -186,5 +186,5 @@ http://198.179.30.109/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe99a
 #EXTINF:0 tvg-name="CNN International" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", CNN Int'l (News) (UK) (English)
 http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8
 
-#EXTINF:0 tvg-name="Fox Sport1" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", Fox Sport 1
+#EXTINF:0 tvg-name="Fox Sport#1" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News", Fox Sport 1
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
