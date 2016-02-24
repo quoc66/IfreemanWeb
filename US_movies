@@ -47,6 +47,7 @@
 
 <item>
 <title>[COLOR gold][B]=================[/B][/COLOR]</title>
+<premium>True</premium>
 <link>ignorme</link>
 </item>
 
@@ -86,6 +87,7 @@
 <item>
 <title>Movies - Featured list #2</title>
 <link>ignorme</link>
+<premium>True</premium>
 <jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
 <movie>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
@@ -103,10 +105,12 @@
 
 <item>
 <title>[COLOR gold][B]=================[/B][/COLOR]</title>
+<premium>True</premium>
 <link>ignorme</link>
 </item>
 <item>
 <title>Movies Genre</title>
+<premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F&amp;mode=5</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
@@ -114,6 +118,7 @@
 
 <item>
 <title>TV Series Genre</title>
+<premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=BrowseByGenreMenu</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
