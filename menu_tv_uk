@@ -24,19 +24,12 @@
 
 
 <item>
-<title>US TV Now - Currently not working</title>
+<title>US TV Now</title>
 <thumbnail>https://ftp.heanet.ie/mirrors/xbmc/addons/helix/plugin.video.ustvnow/fanart.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live</jsonrpc>
 </item>
 
-
-<item>
-<title>UK Sport Channels</title>
-<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/sprt_uk_halow</jsonrpc>
-</item>
 
 <item>
 <title>News Channels</title>
