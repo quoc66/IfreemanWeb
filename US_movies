@@ -21,9 +21,8 @@
 </item> 
 
 <item>
-<title>Random all-time movies</title>
+<title>Random all-time Movies</title>
 <link>ignorme</link>
-<premium>True</premium>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
 <random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
