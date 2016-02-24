@@ -58,6 +58,13 @@
 <sportsdevil>http://cricfree.sx/update/skys3.php</sportsdevil>            
 <referer>http://cricfree.sx</referer>
 </item>
+
+<item>
+<title>Sky Sport 3 BACKUP ZEM UKTVNow</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDY%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+3+uktv%5B%2FCOLOR%5D</jsonrpc>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+</item>
 ------
 <item>
 <title>SKY SPORT 4 HD</title>
@@ -75,10 +82,16 @@
 <item>
 <title>Sky Sport 4 BACKUP</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMzcuMjIwLjI5LjE4Njo4MDAwL3Nwb3J0cy9mb3VyL2luZGV4Lm0zdTg%2FdG9rZW49T0RObU1qZGpNV1kwTkRrME1XVXlOemt3TWpCaU9HUmtZamRpT1RRM1ptVTZNVFExTmpJM09UQTNNQT09&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSp+4+v8%5B%2FCOLOR%5D
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMzcuMjIwLjI5LjE4Njo4MDAwL3Nwb3J0cy9mb3VyL2luZGV4Lm0zdTg%2FdG9rZW49T0RObU1qZGpNV1kwTkRrME1XVXlOemt3TWpCaU9HUmtZamRpT1RRM1ptVTZNVFExTmpJM09UQTNNQT09&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSp+4+v8%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
 </item>
 
+<item>
+<title>Sky Sport 4 BACKUP ZEM UKTVNow</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDc%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+4+uktv%5B%2FCOLOR%5D</jsonrpc>
+<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
+</item>
 
 <item>
 <title>Sky Sport 4 NJMS</title>
