@@ -23,6 +23,7 @@
 <item>
 <title>Random all-time movies</title>
 <link>ignorme</link>
+<premium>True</premium>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
 <random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
@@ -32,6 +33,7 @@
 <item>
 <title>Movies - other selected playlists</title>
 <link>ignorme</link>
+<premium>True</premium>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
 <thumbnail>http://www.jazz901.org/wp-content/uploads/2015/07/playlist.png</thumbnail>
 </item>
@@ -52,12 +54,14 @@
 <item>
 <title>Search Movie (Recommended)</title>
 <link>ignorme</link>
+<premium>True</premium>
 <jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
 <item>
 <title>Search Movie (larger choice)</title>
+<premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
@@ -66,6 +70,7 @@
 
 <item>
 <title>Search TV Serie</title>
+<premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
