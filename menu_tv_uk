@@ -27,7 +27,7 @@
 <title>US TV Now - Currently not working</title>
 <thumbnail>https://ftp.heanet.ie/mirrors/xbmc/addons/helix/plugin.video.ustvnow/fanart.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.ustvnow/?mode=live</jsonrpc>
+<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=live</jsonrpc>
 </item>
 
 
@@ -45,13 +45,6 @@
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/UK_News</jsonrpc>
 </item>
 
-
-<item>
-<title>News Channels - Kodilive</title>
-<thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.kodilivetv/?url=favorites&amp;mode=30&amp;name=%5BCOLOR+cyan%5D%5BB%5D%5B+Favorites+%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.kodilivetv%5Cresources%5Cimages%5Cbright_yellow_star.png&amp;description=</jsonrpc>
-</item>
 
 <item>
 <title>Sky movie channels</title>
