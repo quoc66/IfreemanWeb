@@ -16,7 +16,7 @@
 <title>2015 HD Movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</movie>
+<year>plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fhifimoviesdocs%2FHdMovies.xml%0D&amp;mode=5&amp;name=HD+Movies&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.titan%5Cart%5Chifi.png&amp;description=</year>
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
 </item> 
 
