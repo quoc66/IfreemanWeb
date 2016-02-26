@@ -13,14 +13,14 @@
 <item>
 <title>Kids movies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DKids+Live+Action%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FKids%2520Live%2520Action.xml&amp;audio=0&amp;image=https%3A%2F%2Fwalter.trakt.us%2Fimages%2Fmovies%2F000%2F007%2F229%2Ffanarts%2Foriginal%2F75b32c169e.jpg&amp;fanart=http%3A%2F%2Fs6.postimg.org%2F6tj6zom81%2Fkids4.png&amp;playable=true&amp;tvshow=0&amp;content=movies</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DKids+Live+Action%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FKids%2520Live%2520Action.xml&amp;audio=0&amp;image=https%3A%2F%2Fwalter.trakt.us%2Fimages%2Fmovies%2F000%2F007%2F229%2Ffanarts%2Foriginal%2F75b32c169e.jpg&amp;fanart=http%3A%2F%2Fs6.postimg.org%2F6tj6zom81%2Fkids4.png&amp;playable=true&amp;tvshow=0&amp;content=movies</movie>
+<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DKids+Live+Action%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FKids%2520Live%2520Action.xml&amp;audio=0&amp;image=https%3A%2F%2Fwalter.trakt.us%2Fimages%2Fmovies%2F000%2F007%2F229%2Ffanarts%2Foriginal%2F75b32c169e.jpg&amp;fanart=http%3A%2F%2Fs6.postimg.org%2F6tj6zom81%2Fkids4.png&amp;playable=true&amp;tvshow=0&amp;content=movies&amp;action=ndmode</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DKids+Live+Action%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FKids%2520Live%2520Action.xml&amp;audio=0&amp;image=https%3A%2F%2Fwalter.trakt.us%2Fimages%2Fmovies%2F000%2F007%2F229%2Ffanarts%2Foriginal%2F75b32c169e.jpg&amp;fanart=http%3A%2F%2Fs6.postimg.org%2F6tj6zom81%2Fkids4.png&amp;playable=true&amp;tvshow=0&amp;content=movies&amp;action=ndmode</movie>
 <thumbnail>http://1.bp.blogspot.com/-iRfKGaFSAuM/U3XmBsaoKCI/AAAAAAAAMUQ/GzBRUUZ6Fmk/s1600/drew+struzan+stephen+king.jpg</thumbnail>
 </item>
  
 
 <item>
-<title>Marvel Comics movies</title>
+<title>Marvel Comics movies - Imdb</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000024621%2F%3Fview%3Ddetail%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
 <movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000024621%2F%3Fview%3Ddetail%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
