@@ -6,8 +6,8 @@
 <item>
 <title>HD Movies - Featured list</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
-<movie>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2F%2Fmovie%2Ffilter%2Fall%2Fview%2Fall%2Fall%2Fall&amp;mode=1</movie>
+<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
