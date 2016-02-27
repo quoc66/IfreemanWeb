@@ -3,7 +3,7 @@
 
 
 <item>
-<title>100 films populaires</title>
+<title>Slection de 100 films</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</jsonrpc>
 <film_fr>plugin://plugin.video.cine.fr/?url=&amp;mode=popular&amp;start=0</film_fr>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>Suggestion de Films </title>
+<title>Suggestion dynamique de Films </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</jsonrpc>
 <film_fr>plugin://plugin.video.cine.fr/?url=&amp;mode=random&amp;start=0</film_fr>
@@ -25,14 +25,6 @@
 <jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DFilms+Sources%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DFilm-streaming.co%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.film-streaming.co%2Ffilms.php&amp;sFav=showMovies</jsonrpc>
 <film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DFilms+Sources%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DFilm-streaming.co%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.film-streaming.co%2Ffilms.php&amp;sFav=showMovies</film_fr>
 <film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</film_fr>
-</item>
-
-<item>
-<title>Liste non-exhaustive de films (choix de la source)</title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=streamzer_net&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+News%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DStreamzer.net%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.streamzer.net%2Findex.php%3Ffile%3DFilms%26op%3Dclasse%26secid%3D%26orderby%3Dnews%26p%3D1%23stream&amp;sFav=showMovies</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?site=streamzer_net&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+News%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DStreamzer.net%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.streamzer.net%2Findex.php%3Ffile%3DFilms%26op%3Dclasse%26secid%3D%26orderby%3Dnews%26p%3D1%23stream&amp;sFav=showMovies</film_fr>
 </item>
 
 <item>
@@ -70,13 +62,6 @@
 <title>Recherche Film/Series</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
-<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
-</item>
-
-<item>
-<title>Favoris/Bookmark Film/Series</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=cFav&amp;function=getFavourites&amp;title=%5BCOLOR+teal%5DDisplay+Bookmark%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
