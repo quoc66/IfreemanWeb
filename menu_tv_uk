@@ -9,20 +9,6 @@
 
 
 <item>
-<title>Live Oscars 2016</title>
-<thumbnail>http://womensvoicesforchange.org/wp-content/uploads/2016/02/88-Academy-Awards-2016-Oscars-List.jpg</thumbnail>
-<link>rtmp://185.82.215.46:3579/vod/ playpath=deco1?e=1456710422&st=tJ290lnnYOfiz9Sm31lDRg385327 swfUrl=http://achivol.com/flowplayer-3.2.16.swf live=1 pageUrl=http://achivol.com/w2.php?hash=deco1&crn=282465557.16232926 timeout=10</link>
-</item>
-
-<item>
-<title>Live Oscars 2016 - Other links</title>
-<thumbnail>http://womensvoicesforchange.org/wp-content/uploads/2016/02/88-Academy-Awards-2016-Oscars-List.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+red%5DLIVE%3A%5B%2FCOLOR%5D+%5BCOLOR+blue%5DOSCAR%27S%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FLIVESTREAM%2FLive.xml&amp;audio=0&amp;image=http%3A%2F%2Fstatic.euronews.com%2Fnewmedia%2Ftwitter%2Fvignette_twitter_card_live_streaming.jpg&amp;fanart=http%3A%2F%2Fimg1.goodfon.su%2Foriginal%2F1920x1080%2F7%2F52%2Fking-queen-crown-poker.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode</jsonrpc>
-</item>
-
-
-<item>
 <title>UK Channels with TV Guide</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
