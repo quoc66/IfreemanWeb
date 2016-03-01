@@ -13,24 +13,10 @@
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
 </item>
 
-
 <item>
 <title>Bein Sport 1</title>
-<sportsdevil>http://showsport-tv.com/watch/bein-sport-1-france-live-stream</sportsdevil>            
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/d/d5/BeIN_SPORTS_1HD_Couleur.jpg</thumbnail>
-<referer>http://showsport-tv.com</referer>
-</item>
-<item>
-<title>Bein Sport 2</title>
-<sportsdevil>http://showsport-tv.com/watch/bein-sport-2-france-live-stream</sportsdevil>            
-<thumbnail>http://film-terbaru.com/wp-content/uploads/2015/02/beinsport2.png</thumbnail>
-<referer>http://showsport-tv.com</referer>
-</item>
-<item>
-<title>Bein Sport 3</title>
-<sportsdevil>http://showsport-tv.com/watch/bein-sport-3-france-live-stream</sportsdevil>            
-<thumbnail>http://www.sports-today.net/uploads/5/0/0/7/50073705/6252286_orig.png</thumbnail>
-<referer>http://showsport-tv.com</referer>
+<link>http://79.143.83.90:8600/french/bein1/index.m3u8?token=YmQzYmM0Mjg5YmE3OGQ4YThiOTA4NDhmOTBhZThjZGU6MTQ1NjgwMjgyOQ==</link>
 </item>
 
 </root>
