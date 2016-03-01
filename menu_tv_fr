@@ -23,7 +23,12 @@
 <jsonrpc>plugin://plugin.video.kodilivetv/?url=http%3A%2F%2Fkodilive.eu%2Fiptv%2Fraw2.php%3Fl%3Dfr&amp;mode=2&amp;name=%5BCOLOR+gold%5D%5BB%5DTV+stations+in+Franch%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.kodilivetv%5Cresources%5Cimages%5Ctv.png&amp;description=</jsonrpc>
 </item>
 
-
+<item>
+<title>Chaines generales #2</title>
+<thumbnail>http://www.quel-horaire.com/img/programme-chaine-logo.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.kodilivetv/?url=http%3A%2F%2Fkodilive.eu%2Fiptv%2Fraw2.php%3Fl%3Dchfr&amp;mode=2&amp;name=%5BCOLOR+gold%5D%5BB%5DTV+-+VPN%2FIP+Swiss%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.kodilivetv%5Cresources%5Cimages%5Ctb.png&amp;description=</jsonrpc>
+</item>
 
 
 <item>
