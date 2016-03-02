@@ -71,76 +71,11 @@
 <referer>http://streamhd.eu</referer>
 <thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
 </item>
- 
-<item>
-<title>BT SPORTS 1 BACKUP</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://wiziwig.xyz/framebt1.html</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://wiziwig.xyz/framebt1.html</page>
-<referer>http://wiziwig.xyz/</referer>
-</regex>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title>BT SPORT 2 HD</title>
 <sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
-<referer>http://www.ibrod.tv</referer>
-<thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
-</item>
-
-<item>
-<title>BT SPORTS 2 BACKUP</title>
-<link>$doregex[get-decode]$doregex[get-token]|Referer=http://p2pcast.tv&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1&amp;X-Requested-With=ShockwaveFlash/20.0.0.267</link>
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-enctext</name>
-<expres>murl = "(.*?)"</expres>
-<page>http://p2pcast.tv/stream.php?id=$doregex[id]</page>
-<referer>http://p2pcast.tv/</referer>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>http://wiziwig.xyz/maxtags2.html</page>
-<referer>http://p2pcast.tv/</referer>
-<x-req>XMLHttpRequest</x-req>
-</regex>
-<regex>
-<name>id</name>
-<expres>id='(.*?)'</expres>
-<page>http://wiziwig.xyz/framebt2.html</page>
-<referer>http://wiziwig.xyz/</referer>
-</regex>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>PREMIER SPORT HD</title>
-<sportsdevil>http://www.ibrod.tv/premier.html</sportsdevil>
 <referer>http://www.ibrod.tv</referer>
 <thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
 </item>
@@ -151,14 +86,6 @@
 <referer>http://hdfree.tv</referer>
 <thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/1133065/0173516001444658888_filepicker.jpg</thumbnail>
 </item>
-
-<item>
-<title>BT Sport Europe</title>
-<sportsdevil>http://cricfree.tv/bt-sport-europe-live-stream-free</sportsdevil>
-<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
-<referer>http://hdfree.tv</referer>
-</item>
-
 
 -----------
 <item>
