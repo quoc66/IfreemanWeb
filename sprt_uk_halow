@@ -81,11 +81,17 @@
 </item>
 
 <item>
-<title>WWE Network</title>
-<sportsdevil>http://hdfree.tv/watch/55/watch-wwe-network-live-streaming-online.html</sportsdevil>
-<referer>http://hdfree.tv</referer>
-<thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/1133065/0173516001444658888_filepicker.jpg</thumbnail>
+<title>Eurosport 1</title>
+<link>rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDozNzozMCBQTSZoYXNoX3ZhbHVlPVJHUERCNjVNZGNFUXFCbW1YUVJ2ZkE9PSZ2YWxpZG1pbnV0ZXM9MTA=/ibrodtv28_lru54uv3 swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2020,0,0,286 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv28&autoplay=true&strech=exactfit</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png</thumbnail>
 </item>
+
+<item>
+<title>Eurosport 2</title>
+<link>rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDo0MDo1MyBQTSZoYXNoX3ZhbHVlPVZadXQxalRmRmxoNFNULzhZUkRpdVE9PSZ2YWxpZG1pbnV0ZXM9MTA=/ibrodtv29_2cmdoz6c swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2020,0,0,286 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv29&autoplay=true&strech=exactfit-</link>
+<thumbnail>http://tvwow.co/IPTv/-Eurosport-2-Russian-Russe-TELEVISION.jpg</thumbnail>
+</item>
+
 
 -----------
 <item>
