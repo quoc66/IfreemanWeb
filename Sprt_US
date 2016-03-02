@@ -54,9 +54,6 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:0 tvg-name="PAC 12 Washington" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Washingtons" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Washington (Sports) (US) (English)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
 
-#EXTINF:0 tvg-name="Sports Max" tvg-language="English" tvg-country="AU" tvg-id="Sports Max" tvg-logo="http://islandmix.com/blog/wp-content/uploads/2013/04/sportsmax.jpg" group-title="Sports", Sports Max (Sports) (AU) (English)
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
 
