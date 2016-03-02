@@ -231,20 +231,3 @@
 <referer>http://khaozap.com</referer>
 <thumbnail>http://www.khaozap.com/wp-content/uploads/2015/05/74.jpg</thumbnail>
 </item>
-
-<item>
-<title>BBC News  FilmOn</title>
-<link>plugin://plugin.video.F.T.V/?url=27&amp;mode=125&amp;name=BBC+News+%2827%29&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
-<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBCSN</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71137',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png</thumbnail>
-</item>
