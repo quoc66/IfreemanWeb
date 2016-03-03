@@ -48,12 +48,6 @@
 </item>
 
 
-<item>
-<title>Bloomberg</title>
-<thumbnail>http://artvest.com/wp-content/uploads/2013/10/Bloomberg-Logo.png</thumbnail>
-<link>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</link>
-</item>
-
 
 <item>
 <title>Bloomberg</title>
@@ -211,6 +205,12 @@
 <link>http://62.65.140.218:80/session/039bbcf4-e0c4-11e5-a5c9-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=0255a4767abfcab086c1113ae934764f_1457043217</link>
 </item>
 
+
+<item>
+<title>Bloomberg</title>
+<thumbnail>http://artvest.com/wp-content/uploads/2013/10/Bloomberg-Logo.png</thumbnail>
+<link>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</link>
+</item>
 
 
 <item>
