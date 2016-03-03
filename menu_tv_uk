@@ -12,7 +12,6 @@
 <title>UK Channels with TV Guide</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
-<premium>True</premium>
 <jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/0zcsmqc0c9k7bx7/linked_channels.csv?dl=1</jsonrpc>
 </item>
 
