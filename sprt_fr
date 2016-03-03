@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>NBCSN</title>
+<title>Bein Sport 1 - Streamlive</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
@@ -43,11 +43,11 @@
 </item>
 
 <item>
-<title>Bein2 streaml;ive</title>
+<title>NBA</title>
 <link>$doregex[url]</link>
 <regex>
 	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=70466',False,False,'http://vipracing.info/')</expres>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71562',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
 <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png</thumbnail>
