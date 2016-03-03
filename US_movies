@@ -55,14 +55,12 @@
 <item>
 <title>Search Movie (Recommended)</title>
 <link>ignorme</link>
-<premium>True</premium>
 <jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
 <item>
 <title>Search Movie (larger choice)</title>
-<premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
@@ -71,7 +69,6 @@
 
 <item>
 <title>Search TV Serie</title>
-<premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
