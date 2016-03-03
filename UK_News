@@ -4,20 +4,23 @@
 <items>
 
 <item>
-<title>CNN International - UKTurklink2</title>
+<title>CNN International</title>
+<comment>UKTurklink2</comment>
 <thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
 <link>http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8</link>
 </item>
 
 <item>
-<title>BBC News - FilmOn</title>
+<title>BBC News</title>
+<comment>filmon</comment>
 <thumbnail>http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png</thumbnail>
-<link>rtmp://live-1192.gv2.edge.filmon.com/live/?id=0ad5aac39bb13fbe12a94f6f211078e9aad1ad985b441655af9ceb3b6324706d2466bac1f48726a42b130f948d989f0520d76ff296a76b0f38b00b65f6e752bc7e662aea41c9ca10bcd4fa537aea6afddce04a5b52bb904dde051564b611873ca7d0032bad63abb598a60d891778278fcf84fe9757f378ae59cf24a4a3fbd4f7f43f3df92b8fa8208d1695ec6196fc51949007acd91a8620 playpath=27.high.stream app=live/?id=0ad5aac39bb13fbe12a94f6f211078e9aad1ad985b441655af9ceb3b6324706d2466bac1f48726a42b130f948d989f0520d76ff296a76b0f38b00b65f6e752bc7e662aea41c9ca10bcd4fa537aea6afddce04a5b52bb904dde051564b611873ca7d0032bad63abb598a60d891778278fcf84fe9757f378ae59cf24a4a3fbd4f7f43f3df92b8fa8208d1695ec6196fc51949007acd91a8620 swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf tcUrl=rtmp://live-1192.gv2.edge.filmon.com/live/?id=0ad5aac39bb13fbe12a94f6f211078e9aad1ad985b441655af9ceb3b6324706d2466bac1f48726a42b130f948d989f0520d76ff296a76b0f38b00b65f6e752bc7e662aea41c9ca10bcd4fa537aea6afddce04a5b52bb904dde051564b611873ca7d0032bad63abb598a60d891778278fcf84fe9757f378ae59cf24a4a3fbd4f7f43f3df92b8fa8208d1695ec6196fc51949007acd91a8620 pageUrl=http://www.filmon.com/ live=1 timeout=45 swfVfy=1</link>
+<link>plugin://plugin.video.F.T.V/?url=27&amp;mode=125&amp;name=BBC+News+%2827%29&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F27%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 </item>
 
 
 <item>
-<title>BBC World News - kodilive</title>
+<title>BBC World News</title>
+<comment>kodilive</comment>
 <thumbnail>http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png</thumbnail>
 <link>http://62.65.140.218:80/session/ff01db74-e0c3-11e5-a5c9-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=2d363263c366c52b6f6be1c948489aec_1457043209_1457043209&p=127|X-Forwarded-For=85.195.192.0</link>
 </item>
