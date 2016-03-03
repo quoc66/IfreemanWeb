@@ -22,7 +22,7 @@
 <item>
 <title>Bein Sport 2</title>
 <thumbnail>http://data.nimages.fr/beport2a65.png</thumbnail>
-<link>http://79.143.83.90:8600/french/bein2/index.m3u8?token=MmUxYTIxNTJjMzZmYjAwNjZmMGQ2ODJjYzc0NjIzZTI6MTQ1NjgzMDM0NA==</link>
+<link>http://217.23.15.222/bein_sports2_fr.m3u8?bandwidth=956&shift;=0&playlistlength;=25</link>
 </item>
 
 <item>
@@ -37,17 +37,6 @@
 <regex>
 	<name>url</name>
 	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71395',False,False,'http://vipracing.info/')</expres>
-	<page></page>
-</regex>
-<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png</thumbnail>
-</item>
-
-<item>
-<title>NBA</title>
-<link>$doregex[url]</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71562',False,False,'http://vipracing.info/')</expres>
 	<page></page>
 </regex>
 <thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/NBCSN-logo__1308131338011.png</thumbnail>
