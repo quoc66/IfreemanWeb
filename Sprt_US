@@ -12,7 +12,7 @@
 <item>
 <title>ESPN</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png</thumbnail>
-<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMDE%3D&mode=11&name=%5BCOLOR+FF11b500%5DEspn+uktv%5B%2FCOLOR%5D</link>
+<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMDE%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DEspn+uktv%5B%2FCOLOR%5D</link>
 </item>
 
 <item>
@@ -24,8 +24,7 @@
 <item>
 <title>Fox Sports 2</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
-<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMjE%3D&mode=11&name=%5BCOLOR+FF11b500%5DFox+sports+2+uktv%5B%2FCOLOR%5D
-</link>
+<link>;plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoxMjE%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DFox+sports+2+uktv%5B%2FCOLOR%5D</link>
 </item>
 
 <item>
