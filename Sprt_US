@@ -1,60 +1,109 @@
-#EXTM3U
+<?xml version="1.0" encoding="utf-8" standalone = "yes"?>
 
-#EXTINF:0 tvg-name="NBC Sports Golf 1080p" tvg-language="English" tvg-country="US" tvg-id="NBC Sports Golf 1080p" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg" group-title="Sports", GOLF Full HD NBC Sports
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+<items>
 
-
-############################################################
-#EXTINF:-1,[COLOR gold]===========US Channels=========[/COLOR]
-############################################################
-
-
-#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN Sports
-http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDoyNjo0MiBQTSZoYXNoX3ZhbHVlPTlaYVIvOHg4SlFUQlByTXBEaWo0RWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=UKTVNOW_PLAYER_1.2|User-Agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-
-#EXTINF:0 tvg-name="Fox Sports 1" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-
-#EXTINF:0 tvg-name="Fox Sports 2" tvg-language="English" tvg-country="US" tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
-http://play.uktvnow.net:1935/live/foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDoyNjo0MiBQTSZoYXNoX3ZhbHVlPTlaYVIvOHg4SlFUQlByTXBEaWo0RWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=UKTVNOW_PLAYER_1.2|User-Agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-
-#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png",NFL Now Live
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
-#EXTINF:0 tvg-name="NFL Network" tvg-language="English" tvg-country="US" tvg-id="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/100px-NFL_Network_logo.svg.png" group-title="Sports", NFL Network (Sports) (US) (English)
-http://torula.us.to/nfl-nfltv/index.m3u8
-
-#EXTINF:0 tvg-name="NFL Now HD" tvg-language="English" tvg-country="US" tvg-id="NFL Now HD" tvg-logo="https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png" group-title="Sports", NFL Now HD (Sports) (US) (English)
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-#EXTINF:0 tvg-name="Versus HD" tvg-language="English" tvg-country="US" tvg-id="Versus HD" tvg-logo="http://www.5thround.com/wp-content/uploads/2009/12/versuslogo.jpg" group-title="Sports", Versus HD (Sports) (US) (English)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:0 tvg-name="Versus" tvg-language="English" tvg-country="US" tvg-id="Versus" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQy6CAqj8XYz-xhdV5Ujzyt8BFxz2eOksJjbhhaccg-YP2AcvXmQeCpWe4Epg" group-title="Sports", Versus (Sports) (US) (English)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:0 tvg-name="PAC 12 Arizona" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Arizona" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Arizona (Sports) (US) (English)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-
-#EXTINF:0 tvg-name="PAC 12 Bay Area" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Bay Area" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Bay Area (Sports) (US) (English)
-http://xrxs.net/video/live-p12baya-1164.m3u8
-
-#EXTINF:0 tvg-name="PAC 12 Los Angeles" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Los Angeles" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Los Angeles (Sports) (US) (English)
-http://xrxs.net/video/live-p12losa-1164.m3u8?
-
-#EXTINF:0 tvg-name="PAC 12 Mountain" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Mountain" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Mountain (Sports) (US) (English)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-
-#EXTINF:0 tvg-name="PAC 12 Network" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Network" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Network (Sports) (US) (English)
-http://xrxs.net/video/live-p12netw-1164.m3u8
-
-#EXTINF:0 tvg-name="PAC 12 Oregon" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Oregon" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Oregon (Sports) (US) (English)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-
-#EXTINF:0 tvg-name="PAC 12 Washington" tvg-language="English" tvg-country="US" tvg-id="PAC 12 Washingtons" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png" group-title="Sports", PAC 12 Washington (Sports) (US) (English)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg",Poker Central
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
+<item>
+<title>NBC Sports Golf HD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg</thumbnail>
+</item>
 
 
+<item>
+<title>ESPN</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png</thumbnail>
+<link>http://play.uktvnow.net:1935/live/espn91.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDoyNjo0MiBQTSZoYXNoX3ZhbHVlPTlaYVIvOHg4SlFUQlByTXBEaWo0RWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=UKTVNOW_PLAYER_1.2|User-Agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39</link>
+</item>
+
+<item>
+<title>Fox Sports 1</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png</thumbnail>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
+</item>
+
+<item>
+<title>Fox Sports 2</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
+<link>http://play.uktvnow.net:1935/live/foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDoyNjo0MiBQTSZoYXNoX3ZhbHVlPTlaYVIvOHg4SlFUQlByTXBEaWo0RWc9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=UKTVNOW_PLAYER_1.2|User-Agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39</link>
+</item>
+
+<item>
+<title>NFL Now Live</title>
+<thumbnail>http://channelpear.com/images/media/9095.png</thumbnail>
+<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8</link>
+</item>
+
+<item>
+<title>NFL Network</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/100px-NFL_Network_logo.svg.png</thumbnail>
+<link>http://torula.us.to/nfl-nfltv/index.m3u8</link>
+</item>
+
+<item>
+<title>NFL Now HD</title>
+<thumbnail>https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png</thumbnail>
+<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8</link>
+</item>
+
+<item>
+<title>Versus HD</title>
+<thumbnail>http://www.5thround.com/wp-content/uploads/2009/12/versuslogo.jpg</thumbnail>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+</item>
+
+<item>
+<title>Versus</title></title>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQy6CAqj8XYz-xhdV5Ujzyt8BFxz2eOksJjbhhaccg-YP2AcvXmQeCpWe4Epg</thumbnail>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+</item>
+
+<item>
+<title>PAC 12 Arizona</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8?</link>
+</item>
+
+<item>
+<title>PAC 12 Bay Area</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12baya-1164.m3u8
+</item>
+
+<item>
+<title>PAC 12 Los Angeles</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12losa-1164.m3u8?</link>
+</item>
+
+<item>
+<title>PAC 12 Mountain</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12moun-1164.m3u8</link>
+</item>
+
+<item>
+<title>PAC 12 Network</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12netw-1164.m3u8</link>
+</item>
+
+<item>
+<title>PAC 12 Oregon</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12oreg-1164.m3u8</link>
+</item>
+
+<item>
+<title>PAC 12 Washington</title>
+<thumbnail>http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8?</link>
+</item>
+
+<item>
+<title>Poker Central</title>
+<thumbnail>http://channelpear.com/images/media/9997.jpg</thumbnail>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?</link>
+</item>
+
+
+</items>
