@@ -25,6 +25,7 @@
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</jsonrpc>
+<random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
 
@@ -50,7 +51,7 @@
 </item>
 
 
-<item>
+
 <title>Search Movie (Recommended)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
@@ -58,7 +59,7 @@
 </item>
 
 <item>
-<title>Search Movie (larger choice)</title>
+<title>Search Movie</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=movie&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
