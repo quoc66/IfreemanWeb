@@ -53,8 +53,8 @@
 <item>
 <title>Cry</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DCry%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FCry.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2F47tq1wvcx%2Fcry_2.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=movies&amp;action=ndmode</jsonrpc>
-<movie>plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DCry%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FCry.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2F47tq1wvcx%2Fcry_2.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=movies&amp;action=ndmode</movie>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000172311%2F%3Fview%3Ddetail%26sort%3Dtitle%3Aasc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000172311%2F%3Fview%3Ddetail%26sort%3Dtitle%3Aasc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
 <thumbnail>http://s6.postimg.org/47tq1wvcx/cry_2.jpg</thumbnail>
 </item>
 
