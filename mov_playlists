@@ -135,19 +135,4 @@
 <thumbnail>http://watchmojo.com/uploads/blipthumbs/Fi-M-Top10-Comedy-Films-of-the-90s-480p30_480.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR gold][B]====Beta test==========[/B][/COLOR]</title>
-<link>ignorme</link>
-</item>
-
-
-<item>
-<title>Martial arts #2</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D43901&amp;mode=show_playlist&amp;public=True</jsonrpc>
-<movie>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D43901&amp;mode=show_playlist&amp;public=True</movie>
-<thumbnail>http://coolmaterial.com/wp-content/uploads/2013/02/14-martial-arts-movies-every-guy-should-see.jpg</thumbnail>
-</item>
-
-
 </root>
