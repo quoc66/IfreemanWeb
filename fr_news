@@ -18,3 +18,6 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
 #EXTINF:-1,La tele
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+
+#EXTINF:-1,UK:SKY_SPORTS_4HD
+http://iptv-supplier.com:8000/live/moumen/moumen/777.ts|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1
