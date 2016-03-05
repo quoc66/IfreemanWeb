@@ -19,8 +19,15 @@
 <thumbnail>https://theedgesoftheworlddotcom.files.wordpress.com/2015/03/oscars_design_video.jpg?w=1200</thumbnail>
 </item>
 
-
 <item>
+<title>Top 100 IMDB</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls055592025%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls055592025%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
+<thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
+</item>
+
+
 <title>Box sets</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2FBox%2520Set%2520Movies.txt&amp;mode=1&amp;name=Box+Set+Movies&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk2%2Fmovies%2Fthumbs%2FUk%2520turk%2520thumbnails%2520box%2520set%2520movies.jpg&amp;description=</jsonrpc>
@@ -133,12 +140,6 @@
 <link>ignorme</link>
 </item>
 
-<item>
-<title>Top 250 imdb</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fchart%2Ftop%3Fsort%3Dir%2Cdesc</jsonrpc>
-<thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
-</item>
 
 <item>
 <title>Martial arts #2</title>
