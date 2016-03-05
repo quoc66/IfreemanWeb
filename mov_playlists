@@ -3,20 +3,13 @@
 <root>
 
 <item>
-<title>Top Box office - New beta</title>
+<title>Top Box office</title>
 <link>ignorme</link>          
 <jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=boxoffice</jsonrpc>
 <movie>plugin://plugin.video.exodus/?action=movies&amp;url=boxoffice</movie>
 <thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
 </item>
 
-<item>
-<title>Top Box office </title>
-<link>ignorme</link>          
-<jsonrpc>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</jsonrpc>
-<movie>plugin://plugin.video.genesis/?action=movies&amp;url=boxoffice</movie>
-<thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
-</item>
 
 <item>
 <title>Nominated Oscar movies</title>
