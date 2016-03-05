@@ -134,9 +134,9 @@
 </item>
 
 <item>
-<title>Top 250 imdb</title>
+<title>Top 250 IMDB</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fchart%2Ftop%3Fsort%3Dir</jsonrpc>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fchart%2Ftop%3Fsort%3Dir%2Cdesc%26mode%3Dsimple%26page%3D1</jsonrpc>
 <thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
 </item>
 
