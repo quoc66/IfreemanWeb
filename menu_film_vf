@@ -19,13 +19,11 @@
 </item>
 
 <item>
-<title>Liste non-exhaustive films les plus vus</title>
+<title>Liste non-exhaustive films</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<json>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DFilms+Sources%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DFilm-streaming.co%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.film-streaming.co%2Ffilms.php&amp;sFav=showMovies</jsonrpc>
-<film>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DFilms+Sources%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DFilm-streaming.co%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.film-streaming.co%2Ffilms.php&amp;sFav=showMovies</film_fr>
-<film>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.streaming-club.com%2Ffilms.php&amp;mode=1</film_fr>
-<film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Ffilms.php&amp;sFav=showMovies</film_fr>
+<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Films+Nouveaut%C3%A9s&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Findex.php&amp;sFav=showMovies</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Films+Nouveaut%C3%A9s&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Findex.php&amp;sFav=showMovies</film_fr>
 </item>
 
 <item>
