@@ -22,8 +22,8 @@
 <title>Liste non-exhaustive films</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Films+Nouveaut%C3%A9s&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Findex.php&amp;sFav=showMovies</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Films+Nouveaut%C3%A9s&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Findex.php&amp;sFav=showMovies</film_fr>
+<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Ffilms.php&amp;sFav=showMovies</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Ffilms.php&amp;sFav=showMovies</film_fr>
 </item>
 
 <item>
