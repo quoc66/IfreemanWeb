@@ -80,14 +80,14 @@
 <item>
 <title>France 24</title>
 <thumbnail>http://www.ecfr.eu/page/-/France_24.png?v=1440585546204</thumbnail>
-<link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8</link>
+<link>plugin://plugin.video.F.T.V/?url=298&amp;mode=125&amp;name=France24+%28298%29&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F298%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na&</link>
 </item>
 
 
 <item>
 <title>Euronews</title>
 <thumbnail>http://bell-vs-rogers.com/channellogos/cid382euronews.jpg</thumbnail>
-<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
+<link>plugin://plugin.video.F.T.V/?url=1672&amp;mode=125&amp;name=Euronews+English+%281672%29&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1672%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
 </item>
 
 
@@ -230,6 +230,19 @@
 <title>RT News</title>
 <thumbnail>http://www.vulgo.tv/wp-content/uploads/2014/11/RT-News-Live-Tv-Watch-RT-News-Live-free-Streaming-Online-Play-Now.png</thumbnail>
 <link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
+</item>
+
+<item>
+<title>France 24</title>
+<thumbnail>http://www.ecfr.eu/page/-/France_24.png?v=1440585546204</thumbnail>
+<link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8</link>
+</item>
+
+
+<item>
+<title>Euronews</title>
+<thumbnail>http://bell-vs-rogers.com/channellogos/cid382euronews.jpg</thumbnail>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
 </item>
 
 
