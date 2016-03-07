@@ -33,9 +33,9 @@
 </item>
 
 <item>
-<title>TV Series Kids</title>
+<title>TV Show Kids</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000017281%2F%3Fview%3Ddetail%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvshows&amp;url=http%3a%2f%2fwww.imdb.com%2flist%2fls033942856%2f%3fview%3ddetail%26sort%3dtitle%3aasc%26title_type%3dtv_series%2cmini_series%26start%3d1</jsonrpc>
 <thumbnail>http://1.bp.blogspot.com/-iRfKGaFSAuM/U3XmBsaoKCI/AAAAAAAAMUQ/GzBRUUZ6Fmk/s1600/drew+struzan+stephen+king.jpg</thumbnail>
 </item>
  
