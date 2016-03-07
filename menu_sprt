@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+<item>
+<premium>True</premium>
+<title>[COLOR gold][B]=========Live Events==================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+ 
+<item>
+<title>Live Football - Rugby</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
+<thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
+</item>
+ 
+plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live
+<item>
+<title>Live NBA - NHL - NFL</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.prosport</jsonrpc>
+<thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
+</item>
+ 
+<item>
+<title>Live events per Sports</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
+</item>
+-----------------------------------------------------------------
+ 
+<item>
+<premium>True</premium>
+<title>[COLOR gold][B]========================================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+ 
+<item>
+<title>Live Events multi-sports - mixed list</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR gold][B]============TV Channels=================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+ 
+<item>
+<title>US/UK Sports TV guide</title>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://script.ivue.ifreeman/?https://www.dropbox.com/s/dax25d4dcfbzzi2/linked_channels-Sports.csv?dl=1</jsonrpc>
+</item>
+>
+ 
+<item>
+<title>US/UK Sport Channels</title>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/Sprt_US</jsonrpc>
+</item>
+ 
+<item>
+<title>Chaines de sport - French Channels</title>
+<thumbnail>http://3.bp.blogspot.com/-jnLRTajKiRw/VRBZSfNyWGI/AAAAAAAAAVY/CsQg5uNKIfQ/s1600/bein-sport-3.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/sprt_fr</jsonrpc>
+</item>
+<item>
+<title>[COLOR gold][B]===============================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+<item>
+<title>Various sports channels</title>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=53&amp;name=UniTV+sports</jsonrpc>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</root>
