@@ -137,6 +137,11 @@
 </item>
 
 <item>
+<title>UFC Next</title>
+<thumbnail>http://static.filmon.com/couch/channels/713/extra_big_logo.png</thumbnail>
+<link>plugin://plugin.video.F.T.V/?url=713&amp;mode=125&amp;name=UFC+Next+%28713%29&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F713%2Fextra_big_logo.png&amp;start=na&amp;ch_fanart=na</link>
+</item>
+<item>
 <title>Versus HD</title>
 <thumbnail>http://www.5thround.com/wp-content/uploads/2009/12/versuslogo.jpg</thumbnail>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
