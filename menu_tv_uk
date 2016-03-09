@@ -46,6 +46,12 @@
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 </item>
 
+<item>
+<title>UKTVNow</title>
+<thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?http://pastebin.com/raw/fiMEf4Ab</jsonrpc>
+</item>
 
 <item>
 <title>[COLOR gold][B]=====================================[/B][/COLOR]</title>
