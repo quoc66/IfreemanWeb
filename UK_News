@@ -25,6 +25,13 @@
 <link>http://62.65.140.217:80/session/1a07661a-e50f-11e5-9eb8-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=cf7de2b1a3868d6972e44b2a7fb859fe_1457515272_1457515272&p=127|X-Forwarded-For=85.195.192.0</link>
 </item>
 
+<item>
+<title>Sky News</title>
+<comment>LiveMix</comment>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542</thumbnail>
+<link>http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMTYgMzoxNzozOCBQTSZoYXNoX3ZhbHVlPUpId1pLcUppdlNIWTNGNjlJMjFHd1E9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=UKTVNOW_PLAYER_1.2</link>
+</item>
+
 
 
 <item>
