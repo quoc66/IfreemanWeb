@@ -9,6 +9,11 @@
 <thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
 <link>http://edge1.everyon.tv/etv1sb/phd16/chunklist_w41036801.m3u8</link>
 </item>
+<item>
+<title>CNN International</title>
+<thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
+<link>http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8</link>
+</item>
 
 <item>
 <title>BBC News</title>
@@ -24,14 +29,6 @@
 <thumbnail>http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png</thumbnail>
 <link>http://62.65.140.218:80/session/7569d858-e6cc-11e5-a43c-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=7ee3c638f02f28902198e1e25d7cdcc2_1457706551_1457706551&p=127|X-Forwarded-For=85.195.192.0</link>
 </item>
-
-<item>
-<title>Sky News</title>
-<comment>LiveMix</comment>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c4/Sky_News_2007.png/revision/latest?cb=20100419120542</thumbnail>
-<link>http://play.uktvnow.net:1935/live/skynews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMTYgMzoxNzozOCBQTSZoYXNoX3ZhbHVlPUpId1pLcUppdlNIWTNGNjlJMjFHd1E9PSZ2YWxpZG1pbnV0ZXM9MjA=|User-Agent=UKTVNOW_PLAYER_1.2</link>
-</item>
-
 
 
 <item>
@@ -171,19 +168,19 @@
 
 
 
-<item>
+
 <title>[COLOR gold][B]===========Backup================[/B][/COLOR]</title>
 <link>ignorme</link>
 </item>
 
-<item>
+
 <title>Al Jazeera</title>
 <thumbnail>http://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo-150x150.jpg</thumbnail>
 <link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
 </item>
 
 
-<item>
+
 <title>BBC World News - UKTurk</title>
 <thumbnail>http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png</thumbnail>
 <link>http://62.65.140.218:80/session/3bc2b63a-def0-11e5-a1bf-005056bc1a52/nvnv5a/2/4003/index.m3u8?token=fc3de7731531d4623a59e306c554cf2a_1456842307_1456842307&p=127|X-Forwarded-For=85.195.192.0</link>
@@ -191,62 +188,57 @@
 
 
 
-<item>
+
 <title>CNN Int'l</title>
 <thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
 <link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8</link>
 </item>
 
 
-<item>
-<title>CNN International</title>
-<thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
-<link>http://edge1.everyon.tv/etv1sb/pld16/playlist.m3u8</link>
-</item>
 
 
-<item>
+
 <title>CNN International</title>
 <thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
 <link>http://top-iptv.zapto.org:8000/live/Aria/Aria/637.m3u8</link>
 </item>
 
 
-<item>
+
 <title>CNN International Kodilive</title>
 <thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
 <link>http://62.65.140.218:80/session/039bbcf4-e0c4-11e5-a5c9-005056bc1a52/nvnv5a/2/4002/index.m3u8?token=0255a4767abfcab086c1113ae934764f_1457043217</link>
 </item>
 
 
-<item>
+
 <title>Bloomberg</title>
 <thumbnail>http://artvest.com/wp-content/uploads/2013/10/Bloomberg-Logo.png</thumbnail>
 <link>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</link>
 </item>
 
 
-<item>
+
 <title>RT News HD</title>
 <thumbnail>https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png</thumbnail>
 <link>http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8</link>
 </item>
 
 
-<item>
+
 <title>RT News</title>
 <thumbnail>http://www.vulgo.tv/wp-content/uploads/2014/11/RT-News-Live-Tv-Watch-RT-News-Live-free-Streaming-Online-Play-Now.png</thumbnail>
 <link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
 </item>
 
-<item>
+
 <title>France 24</title>
 <thumbnail>http://www.ecfr.eu/page/-/France_24.png?v=1440585546204</thumbnail>
 <link>http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_250.m3u8</link>
 </item>
 
 
-<item>
+
 <title>Euronews</title>
 <thumbnail>http://bell-vs-rogers.com/channellogos/cid382euronews.jpg</thumbnail>
 <link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
