@@ -37,12 +37,12 @@
 
 
 <item>
-<title>Sky movie channels</title>
+<title>Sky Movie channels</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.genesis/?action=channels</jsonrpc>
-<movie>plugin://plugin.video.genesis/?action=channels</movie>
+<jsonrpc>plugin://plugin.video.exodus/?action=channels</jsonrpc>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 </item>
+
 
 <item>
 <title>[COLOR pink][B]================HER==============[/B][/COLOR]</title>
