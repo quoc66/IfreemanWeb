@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+
+<item>
+<title>Football - full replay</title>
+<thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.castaway/?category=football&amp;mode=open_demand_sport&amp;site=livefootballvideo_fm</jsonrpc>
+</item>
+ 
+ 
+ 
+<item>
+<title>Football - highlights</title>
+<thumbnail>http://footballhighlights24.com/Uploads/logo.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.castaway/?category=football&amp;mode=open_demand_sport&amp;site=livefootballvideo</jsonrpc>
+</item>
+ 
+
+</root>
