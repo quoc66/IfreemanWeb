@@ -2,98 +2,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-<root>
 
-
-<item>
-<title>NBC Sports Golf HD</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-<thumbnail>http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/09/15/newlogo304_176_0.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>SKY SPORT 1 HD</title>
-<sportsdevil>http://www.ibrod.tv/skysports1.html</sportsdevil>
-<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
-<referer>http://www.ibrod.tv/</referer>
-</item>
-
---------------
-<item>
-<title>SKY SPORT 2 HD</title>
-<sportsdevil>http://www.ibrod.tv/skysports2.html</sportsdevil>
-<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
-<referer>http://streamhd.eu</referer>
-</item>
----------------- 
-
-<item>
-<title>SKY SPORT 3 HD</title>
-<sportsdevil>http://www.ibrod.tv/skysports3.html</sportsdevil>
-<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
-<referer>http://www.ibrod.tv</referer>
-</item>
-
-------
-<item>
-<title>SKY SPORT 4 HD</title>
-<sportsdevil>http://www.ibrod.tv/skysports4.html</sportsdevil>
-<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
-<referer>http://streamhd.eu</referer>
-</item>
- -----
-
-
-
-<item>
-<title>SKY SPORT 5 HD</title>
-<sportsdevil>http://www.ibrod.tv/skysports5.html</sportsdevil>
-<thumbnail>https://ciarancasey.files.wordpress.com/2014/04/sky.jpg</thumbnail>
-<referer>http://streamhd.eu</referer>
-</item>
-<item>
-------
-
-
-<item>
-<title>SKY SPORTs F1 </title>
-<sportsdevil>http://www.crichd.tv/sky-sports-f1-live-stream.php</sportsdevil>
-<thumbnail>http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918</thumbnail>
-<referer>http://sports4u.tv/</referer>
-</item>
-<item>
- 
- 
-<item> 
-<title>BT SPORT 1 HD</title>
-<sportsdevil>http://www.ibrod.tv/btsports1.html</sportsdevil>
-<referer>http://streamhd.eu</referer>
-<thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>BT SPORT 2 HD</title>
-<sportsdevil>http://www.ibrod.tv/btsports2.html</sportsdevil>
-<referer>http://www.ibrod.tv</referer>
-<thumbnail>http://img01.thedrum.com/s3fs-public/drum_basic_article/101702/main_images/bt_0.jpg</thumbnail>
-</item>
-
-<item>
-<title>Eurosport 1</title>
-<link>rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDozNzozMCBQTSZoYXNoX3ZhbHVlPVJHUERCNjVNZGNFUXFCbW1YUVJ2ZkE9PSZ2YWxpZG1pbnV0ZXM9MTA=/ibrodtv28_lru54uv3 swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2020,0,0,286 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv28&autoplay=true&strech=exactfit</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>Eurosport 2</title>
-<link>rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTYgNDo0MDo1MyBQTSZoYXNoX3ZhbHVlPVZadXQxalRmRmxoNFNULzhZUkRpdVE9PSZ2YWxpZG1pbnV0ZXM9MTA=/ibrodtv29_2cmdoz6c swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2020,0,0,286 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv29&autoplay=true&strech=exactfit-</link>
-<thumbnail>http://tvwow.co/IPTv/-Eurosport-2-Russian-Russe-TELEVISION.jpg</thumbnail>
-</item>
-
-
------------
 <item>
 <title>Bein Sport 1</title>
 <link>$doregex[getM3U8] pageUrl=http://mangaplustv.com/foot/tntv/chaine/player.php?live=bein1</link>
@@ -204,6 +113,7 @@
 --------
 
 
+<item>
 <title>CTH Stadium 1 HD</title>
 <sportsdevil>http://khaozap.com/wp/sport/cth1.php</sportsdevil>
 <referer>http://khaozap.com</referer>
@@ -211,6 +121,7 @@
 </item>
 
 
+<item>
 <title>CTH Stadium 2 HD</title>
 <sportsdevil>http://khaozap.com/wp/sport/cth2.php</sportsdevil>
 <referer>http://khaozap.com</referer>
@@ -218,6 +129,7 @@
 </item>
 
 
+<item>
 <title>CTH Stadium 3 HD</title>
 <sportsdevil>http://khaozap.com/wp/sport/cth3.php</sportsdevil>
 <referer>http://khaozap.com</referer>
@@ -225,6 +137,7 @@
 </item>
 
 
+<item>
 <title>CTH Stadium 4 HD</title>
 <sportsdevil>http://khaozap.com/wp/sport/cth4.php</sportsdevil>
 <referer>http://khaozap.com</referer>
@@ -232,8 +145,11 @@
 </item>
 
 
+<item>
 <title>CTH Stadium 5 HD</title>
 <sportsdevil>http://khaozap.com/wp/sport/cth5.php</sportsdevil>
 <referer>http://khaozap.com</referer>
 <thumbnail>http://www.khaozap.com/wp-content/uploads/2015/05/74.jpg</thumbnail>
 </item>
+
+</root>
