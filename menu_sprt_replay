@@ -18,5 +18,20 @@
 <jsonrpc>plugin://plugin.video.castaway/?category=football&amp;mode=open_demand_sport&amp;site=livefootballvideo</jsonrpc>
 </item>
  
-
+<item>
+<title>NBA - full replay</title>
+<thumbnail>>http://vignette1.wikia.nocookie.net/logopedia/images/d/df/121210092244-nba-logo-wordmark-275-wide.story-top.jpg/revision/latest?cb=20131015203103</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.castaway/?category=basketball&amp;mode=open_demand_sport&amp;site=livetv_nba</jsonrpc>
+</item>
+ 
+ 
+ 
+<item>
+<title>NBA - highlights</title>
+<thumbnail>http://ineedhiphop.com/wp-content/uploads/2014/01/nba_highlights_logo_by_dtruth-d4kl6kb.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.castaway/?category=basketball&amp;mode=open_demand_cat&amp;site=nbacom&amp;url=http%3a%2f%2fsearchapp2.nba.com%2fnba-search%2fquery.jsp%3fsection%3dgames%252F%2a%257Cchannels%252Fplayoffs%26sort%3drecent%26hide%3dtrue%26type%3dadvvideo%26npp%3d15%26start%3d1</jsonrpc>
+</item>
+ 
 </root>
