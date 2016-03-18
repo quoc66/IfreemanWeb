@@ -54,7 +54,7 @@
 <item>
 <title>TV Series : Featured list</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=tv&amp;mode=GetFilteredResults</jsonrpc>
+<jsonrpc>plugin://plugin.video.1channel/?mode=GetFilteredResults&amp;section=tv&amp;sort=views</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
