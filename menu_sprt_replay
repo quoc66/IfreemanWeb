@@ -3,10 +3,10 @@
  
 
 <item>
-<title>Football - Full replay</title>
+<title>Football - Full replays</title>
 <thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.cstaway/?category=football&amp;mode=open_demand_sport&amp;site=livefootballvideo_fm</jsonrpc>
+<jsonrpc>plugin://plugin.video.castaway/?category=football&amp;mode=open_demand_sport&amp;site=livefootballvideo_fm</jsonrpc>
 </item>
  
  
