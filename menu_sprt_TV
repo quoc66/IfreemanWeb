@@ -18,6 +18,12 @@
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/sprt_uk_halow</jsonrpc>
 </item>
  
+<item>
+<title>Bein Sport</title>
+<thumbnail>https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.NJMSoccer/?fanart&amp;mode=1&amp;name=%5bB%5d---%3d%3d%3d%5bCOLOR%20red%5dBEIN%5b%2fCOLOR%5d%5bCOLOR%20blue%5d%20SPORTS%5b%2fCOLOR%5d%3d%3d%3d---%5b%2fB%5d&amp;url=http%3a%2f%2fnjmsoccer.kodistream.info%2frh_BeIn.xml</jsonrpc>
+</item>
  
  
 <item>
