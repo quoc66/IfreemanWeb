@@ -27,6 +27,15 @@
 </item>
 
 <item>
+<title>Live events per discipline/Sports - new source on test</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.castaway/?mode=open_live_sport&amp;site=ifirstrow</jsonrpc>
+<thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
+</item>
+
+
+<item>
 <premium>True</premium>
 <title>[COLOR gold][B]===========All sports list==========[/B][/COLOR]</title>
 <link>ignorme</link>
