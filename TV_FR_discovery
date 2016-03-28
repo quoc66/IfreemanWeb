@@ -3,7 +3,8 @@
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/BFM_TV.svg",BFM TV
+
+#EXTINF:-1 tvg-logo="http://img.clubic.com/03611918-photo-bfm-tv-iphone-logo-mikeklo.jpg",BFM TV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png",France 24
@@ -12,5 +13,11 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 
 ############################################################
-#EXTINF:-1,[COLOR gold]=========================[/COLOR]
+#EXTINF:-1,[COLOR gold]==========SPORT============[/COLOR]
 ############################################################
+
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png",Golf Channel (anglais)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="http://www.ledirect.fr/images/lequipe21.png",Equipe 21
+http://streaming-hub.com/stream/lequipe21.m3u8
