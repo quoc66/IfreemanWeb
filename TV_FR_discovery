@@ -1,18 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1,Euronews
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
-#EXTINF:-1,BFM TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/BFM_TV.svg",BFM TV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png", I24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:-1,France 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
-#EXTINF:-1,TV5 MONDE Europe 
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1,La tele
+#EXTINF:-1 tvg-logo="http://www.e-location.ch/files/image/logo_latele.png"La tele
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 
 ############################################################
