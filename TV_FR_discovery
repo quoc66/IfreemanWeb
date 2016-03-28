@@ -8,7 +8,7 @@ http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png",France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
-#EXTINF:-1 tvg-logo="http://www.e-location.ch/files/image/logo_latele.png"La tele
+#EXTINF:-1 tvg-logo="http://www.e-location.ch/files/image/logo_latele.png",La tele
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
 
 ############################################################
