@@ -1,9 +1,20 @@
 #EXTM3U
 
 
-############################################################
-#EXTINF:-1,[COLOR gold]===========Generales========[/COLOR]
-############################################################
+#EXTINF:-1,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
+#EXTINF:-1,BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 
-#EXTINF:0,TF1
-http://62.65.140.213:80/session/e216e484-cb18-11e5-b946-005056bc06d1/nvnv5a/2/2027/2290000/index.m3u8??token=c8f714272c9d76a9c0908b41f869ff6f_1454660743_1454660743&p=127|X-Forwarded-For=85.3.148.129
+#EXTINF:-1 tvg-logo="http://cdn.i24news.tv/bundles/i24newsfront/img/logo.png", I24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
+#EXTINF:-1,TV5 MONDE Europe 
+http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
+#EXTINF:-1,La tele
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+
+############################################################
+#EXTINF:-1,[COLOR gold]=========================[/COLOR]
+############################################################
