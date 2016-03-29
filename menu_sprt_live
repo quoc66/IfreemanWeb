@@ -10,7 +10,7 @@
 <thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
 </item>
  
-<item>
+<not working now - check later>
 <title>Live NBA - NHL - NFL</title>
 <premium>True</premium>
 <link>ignorme</link>
@@ -18,22 +18,23 @@
 <thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
 </item>
  
-<item>
-<title>Live events per discipline/Sports</title>
-<premium>True</premium>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
-</item>
+
 
 <item>
-<title>Live events per discipline/Sports - new source on test</title>
+<title>Live events per discipline/Sports</title>
 <premium>True</premium>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.castaway/?mode=open_live_sport&amp;site=ifirstrow</jsonrpc>
 <thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
 </item>
 
+<not working now. check later>
+<title>Live events per discipline/Sports</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.top10base.com/wp-content/uploads/2014/08/play-sports.png</thumbnail>
+</item>
 
 <item>
 <premium>True</premium>
