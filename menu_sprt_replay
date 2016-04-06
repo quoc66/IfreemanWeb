@@ -17,6 +17,14 @@
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.castaway/?category=football&amp;mode=open_demand_sport&amp;site=livefootballvideo</jsonrpc>
 </item>
+
+<item>
+<title>Football - replays and highlights </title>
+<thumbnail>http://footballhighlights24.com/Uploads/logo.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.castaway/?category=football&amp;mode=open_demand_sport&amp;site=zizo</jsonrpc>
+</item> 
+ 
  
 <item>
 <title>NBA - full replay</title>
