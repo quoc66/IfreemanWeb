@@ -4,13 +4,20 @@
 
 
 <item>
-<title>HD Movies : Featured list</title>
+<title>HD Movies : Most watched</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
 <movie>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
+<item>
+<title>HD Movies : Most ratings</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Ratings%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2frating%2fall%2fall%2fall%2fall%2fall&amp;mode=1</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Ratings%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2frating%2fall%2fall%2fall%2fall%2fall&amp;mode=1</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
 
 <item>
 <title>HD Movies : 2016</title>
