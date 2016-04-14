@@ -3,7 +3,7 @@
 <root>
 
 
-<item>
+<>
 <title>HD Movies : Most watched</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
@@ -46,7 +46,7 @@
 </item> 
 
 <item>
-<title>[COLOR gold][B]=========================[/B][/COLOR]</title>
+<title>[COLOR gold][B]============TV series==============[/B][/COLOR]</title>
 <link>ignorme</link>
 </item>
 
