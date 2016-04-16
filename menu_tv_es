@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone = "yes"?>
+
+<items>
+
+<item>
+<title>Spanish TV</title>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.kodilivetv%5cresources%5cimages%5ces.png&amp;mode=2&amp;name=%5bCOLOR%20gold%5d%5bB%5dSpanish%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fkodilive.eu%2fiptv%2fraw2.php%3fl%3des</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR gold][B]==============English Channels===============[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
+<item>
+<title>UK Live Channels</title>
+<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.F.T.V/?url=5&amp;mode=123&amp;name=UK+LIVE+TV&amp;ch_fanart=uk-live-tv&amp;description=14,3698,2798,3683,1309,27,3227,3166,361,25,1666,113,103,11,1817,67,1820,26,1823,101,1826,3211,2,65,97,22,851,845,370,2707,372,1039,371,1808,1811,1805,1952,3707,1711,2696</jsonrpc>
+</item>
+
+<item>
+<title>News Channels</title>
+<thumbnail>http://occupyilluminati.com/wp-content/plugins/rss-poster/cache/ae9bf_us-news-channels-logo.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/UK_News</jsonrpc>
+</item>
+
+
+<item>
+<title>[COLOR gold][B]======================================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
+<item>
+<title>Thai channels</title>
+<thumbnail>https://lh4.ggpht.com/KWNUiEMqoYSC7x3M740q5Ws7PtGPR3CJVIDwRgr-aC2jbK_O89MmyuYTfMLbEmc_koM=h900</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.mxthai</jsonrpc>
+</item>
+
+
+</items>
