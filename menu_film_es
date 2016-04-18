@@ -2,7 +2,7 @@
 <root>
 
 
-<item>
+<>
 <title>Peliculas</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -11,7 +11,7 @@
 </item>
 
 
-<item>
+<>
 <title>2016</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -19,14 +19,35 @@
 <film_fr>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTYiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE2IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNi0yMDE2fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</film_fr>
 </item>
 
-
-
-<item>
+<>
 <title>2015</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTUiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE1IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNS0yMDE1fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</jsonrpc>
 <film_fr>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTUiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE1IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNS0yMDE1fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</film_fr>
+</item>
+
+
+<item>
+<title>Estrenos Audio latino/title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dEstrenos%5b%2fB%5d%5b%2fCOLOR%5d%20%20%5bCOLOR%20deepskyblue%5dAudio%20Latino%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2faudio_latino.xml</jsonrpc>
+</item>
+
+<item>
+<title>Estrenos Audio original/title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dEstrenos%20%5b%2fB%5d%5b%2fCOLOR%5d%20%5bCOLOR%20deepskyblue%5dAudio%20Original%20%5b%2fCOLOR%5d%5bCOLOR%20gray%5d%5bhay%20que%20agregar%20subtitulos%5d%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2festrenos.xml</jsonrpc>
+</item>
+
+
+<item>
+<title>Peliculas Infantiles/title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dPeliculas%20Infantiles%5b%2fB%5d%5b%2fCOLOR%5d%20%5bCOLOR%20deepskyblue%5dAudio%20Latino%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2fjessmax.xml</jsonrpc>
 </item>
 
 
