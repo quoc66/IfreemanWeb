@@ -19,12 +19,12 @@
 <film_fr>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTYiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE2IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNi0yMDE2fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</film_fr>
 <@/item>
 
-<item>
+<@item>
 <title>2015</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTUiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE1IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNS0yMDE1fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</jsonrpc>
-</item>
+<@/item>
 
 
 <item>
@@ -69,17 +69,17 @@
 <thumbnail>https://longitude166.files.wordpress.com/2014/09/reportages-logo-10383816imtfn.jpg</thumbnail>
 <@/item>
  
-<item>
+<@item>
 <title>[COLOR gold][B]==============================[/B][/COLOR]</title>
 <link>ignorme</link>
-</item>
+<@/item>
 
-<item>
+<@item>
 <title>Generos</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAiZXh0cmEiOiAiIiwgImR1cmF0aW9uIjogMCwgImNvbnRlbnRTZXJpZU5hbWUiOiAiIiwgImZ1bGx0aXRsZSI6ICJHXHUwMGU5bmVyb3MiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICJHXHUwMGU5bmVyb3MiLCAiZmFuYXJ0IjogImh0dHA6Ly9pLmltZ3VyLmNvbS95bWF6Q1dxLmpwZyIsICJzaG93IjogIiIsICJjb250ZW50Q2hhbm5lbCI6ICJsaXN0IiwgImZvbGRlciI6IHRydWUsICJ0aHVtYm5haWwiOiAiaHR0cDovL2kuaW1ndXIuY29tL2FXQ0RXdG4ucG5nIiwgImNoYW5uZWwiOiAiYWxscGVsaWN1bGFzIiwgImNvbnRlbnRUeXBlIjogIiIsICJjb250ZW50RXBpc29kZVRpdGxlIjogIiIsICJwbG90IjogIiIsICJjb250ZW50VGl0bGUiOiAiIiwgInZpZXdtb2RlIjogImxpc3QiLCAicGFzc3dvcmQiOiAiIiwgImNvbnRlbnRQbG90IjogIiIsICJsYW5ndWFnZSI6ICIiLCAidXJsIjogIiIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJzdWJpbmRpY2UifQ%3d%3d</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-</item>
+<@/item>
 -----------------------------------------------------------------
 <@item>
 <title>Buscar</title>
