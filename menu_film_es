@@ -2,7 +2,7 @@
 <root>
 
 
-<>
+<item>
 <title>Peliculas</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
@@ -11,29 +11,29 @@
 </item>
 
 
-<>
+<@item>
 <title>2016</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTYiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE2IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNi0yMDE2fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</jsonrpc>
 <film_fr>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTYiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE2IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNi0yMDE2fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</film_fr>
-</item>
+<@/item>
 
-<>
+<@item>
 <title>2015</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTUiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE1IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNS0yMDE1fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</jsonrpc>
 <film_fr>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAic2hvdyI6ICIiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIjIwMTUiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICIyMDE1IiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAiZXh0cmEiOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS8wL2RhdGU6MjAxNS0yMDE1fGFscGhhYmV0OmFsbHw%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</film_fr>
-</item>
+<@/item>
 
 
-<item>
+<@item>
 <title>Estrenos Audio latino/title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dEstrenos%5b%2fB%5d%5b%2fCOLOR%5d%20%20%5bCOLOR%20deepskyblue%5dAudio%20Latino%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2faudio_latino.xml</jsonrpc>
-</item>
+<@/item>
 
 <item>
 <title>Estrenos Audio original/title>
@@ -51,36 +51,36 @@
 </item>
 
 
-<item>
+<@item>
 <title>[COLOR gold][B]==============================[/B][/COLOR]</title>
 <link>ignorme</link>
-</item>
+<@/item>
 
-<item>
+<@item>
 <title>Series</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAiZXh0cmEiOiAidHYiLCAiZHVyYXRpb24iOiAwLCAiY29udGVudFNlcmllTmFtZSI6ICIiLCAiZnVsbHRpdGxlIjogIlNlcmllcyIsICJoYXNDb250ZW50RGV0YWlscyI6ICJmYWxzZSIsICJjYXRlZ29yeSI6ICIiLCAiY29udGVudEVwaXNvZGVOdW1iZXIiOiAiIiwgInRpdGxlIjogIlNlcmllcyIsICJmYW5hcnQiOiAiaHR0cDovL2kuaW1ndXIuY29tLzlsb1Zrc1YucG5nIiwgInNob3ciOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYVdDRFd0bi5wbmciLCAiY2hhbm5lbCI6ICJhbGxwZWxpY3VsYXMiLCAiY29udGVudFR5cGUiOiAiIiwgImNvbnRlbnRFcGlzb2RlVGl0bGUiOiAiIiwgInBsb3QiOiAiIiwgImNvbnRlbnRUaXRsZSI6ICIiLCAidmlld21vZGUiOiAibGlzdCIsICJwYXNzd29yZCI6ICIiLCAiY29udGVudFBsb3QiOiAiIiwgImxhbmd1YWdlIjogIiIsICJ1cmwiOiAiaHR0cDovL2FsbHBlbGljdWxhcy5jby9Nb3ZpZXMvZnVsbFZpZXcvMS84Ni8%2fYWpheD0xJndpdGhvdXRGaWx0ZXI9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
-</item>
+<@/item>
  
-<item>
+<@item>
 <title>Documentaries</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAiZXh0cmEiOiAiIiwgImR1cmF0aW9uIjogMCwgImNvbnRlbnRTZXJpZU5hbWUiOiAiIiwgImZ1bGx0aXRsZSI6ICJUb3AiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICJUb3AiLCAiZmFuYXJ0IjogIi9zdG9yYWdlLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8ucGVsaXNhbGFjYXJ0YS9mYW5hcnQuanBnIiwgInNob3ciOiAiIiwgImNvbnRlbnRDaGFubmVsIjogImxpc3QiLCAiZm9sZGVyIjogdHJ1ZSwgInRodW1ibmFpbCI6ICIiLCAiY2hhbm5lbCI6ICJkb2N1bWFuaWF0diIsICJjb250ZW50VHlwZSI6ICIiLCAiY29udGVudEVwaXNvZGVUaXRsZSI6ICIiLCAicGxvdCI6ICIiLCAiY29udGVudFRpdGxlIjogIiIsICJ2aWV3bW9kZSI6ICJsaXN0IiwgInBhc3N3b3JkIjogIiIsICJjb250ZW50UGxvdCI6ICIiLCAibGFuZ3VhZ2UiOiAiIiwgInVybCI6ICJodHRwOi8vd3d3LmRvY3VtYW5pYXR2LmNvbS90b3B2aWRlb3MuaHRtbCIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJub3ZlZGFkZXMifQ%3d%3d</jsonrpc>
 <thumbnail>https://longitude166.files.wordpress.com/2014/09/reportages-logo-10383816imtfn.jpg</thumbnail>
-</item>
+<@/item>
  
-<item>
+<@item>
 <title>[COLOR gold][B]==============================[/B][/COLOR]</title>
 <link>ignorme</link>
-</item>
+<@/item>
 
-<item>
+<@item>
 <title>Generos</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=libre_stream_org&amp;function=showGenre&amp;title=%5BCOLOR+gray%5DMovies+-+Genre%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DLibre-stream.org%5B%2FCOLOR%5D&amp;siteUrl=True&amp;mode=1</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-</item>
+<@/item>
 -----------------------------------------------------------------
 <item>
 <title>Buscar</title>
