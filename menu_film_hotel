@@ -18,4 +18,14 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
+
+<item>
+<title>TV Shows</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.titan/?description&amp;iconimage=http%3a%2f%2fi68.tinypic.com%2f2whm8b6.png&amp;mode=10&amp;name=Tv%20Shows&amp;url=https%3a%2f%2farchive.org%2fdownload%2fhifiseriescaneditthisfileworkingone%2fhifitv.xml%0d</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+
+
 </root>
