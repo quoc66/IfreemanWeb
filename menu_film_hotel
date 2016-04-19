@@ -3,7 +3,7 @@
 <root>
 
 
-<>
+<item>
 <title>30 New movies</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.phstreams/?action=directory&amp;url=http%3a%2f%2fvalhalla.offshorepastebin.com%2fHot.xml</jsonrpc>
