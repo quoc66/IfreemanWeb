@@ -11,4 +11,11 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
+<item>
+<title>Featured movies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.titan/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.titan%5cart%5cfeatured.png&amp;mode=21&amp;name=Featured%20HD%20Movies&amp;url=https%3a%2f%2farchive.org%2fdownload%2fhifimoviesdocs%2fHdMovies.xml</jsonrpc>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
 </root>
