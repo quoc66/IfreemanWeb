@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+
+<>
+<title>30 New movies</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?action=directory&amp;url=http%3a%2f%2fvalhalla.offshorepastebin.com%2fHot.xml</jsonrpc>
+<movie>plugin://plugin.video.phstreams/?action=directory&amp;url=http%3a%2f%2fvalhalla.offshorepastebin.com%2fHot.xml</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+</root>
