@@ -3,6 +3,25 @@
 <items>
 
 <item>
+<title>Russian TV channels</title>
+<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/ru_tv</jsonrpc>
+</item>
+
+<item>
+<title>Russian TV channels (list #2)</title>
+<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.kodilivetv/?url=http%3A%2F%2Fkodilive.eu%2Fiptv%2Fraw2.php%3Fl%3Dru&amp;mode=2&amp;name=%5BCOLOR+gold%5D%5BB%5DRussian%2FUkrainan%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.kodilivetv%2Fresources%2Fimages%2Fru.png&amp;description=</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR gold][B]================================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
+<item>
 <title>French News</title>
 <thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
 <link>http://ignoreme</link>
