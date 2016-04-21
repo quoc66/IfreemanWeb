@@ -10,6 +10,13 @@
 </item>
  
  
+<item>
+<title>UKTV Sports</title>
+<thumbnail>http://tvcric.co/wp-content/uploads/2014/05/Sports-Channels-List-Live-Streaming-Logo-Watch-Online.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=57&amp;name=UKTVNow&amp;url=sss</jsonrpc>
+</item>
+ 
  
 
 <title>Bein Sport</title>
