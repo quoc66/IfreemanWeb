@@ -20,10 +20,10 @@
 </item>
 
 <item>
-<title>HD Movies : Latest</title>
+<title>HD Movies : 2016</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dLatest%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2fall%2fall%2fall</jsonrpc>
-<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dLatest%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2fall%2fall%2fall</movie>
+<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d2016%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2f2016%2fall%2fall</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d2016%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2f2016%2fall%2fall</movie>
 <thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
 </item> 
 
