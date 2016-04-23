@@ -19,13 +19,22 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-<item>
+<@item>
+<title>HD Movies : Latest</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dLatest%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2fall%2fall%2fall</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dLatest%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2fall%2fall%2fall</movie>
+<thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
+<@/item> 
+
+
+<@item>
 <title>HD Movies : 2016</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls036669293%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
 <movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls036669293%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
 <thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
-</item> 
+<@/item> 
 
 
 <item>
