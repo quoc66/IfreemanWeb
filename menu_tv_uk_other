@@ -17,6 +17,13 @@
 </item>
 
 <item>
+<title>Spanish TV</title>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.kodilivetv%5cresources%5cimages%5ces.png&amp;mode=2&amp;name=%5bCOLOR%20gold%5d%5bB%5dSpanish%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fkodilive.eu%2fiptv%2fraw2.php%3fl%3des</jsonrpc>
+</item>
+
+<item>
 <title>[COLOR gold][B]================================[/B][/COLOR]</title>
 <link>ignorme</link>
 </item>
