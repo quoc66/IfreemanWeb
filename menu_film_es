@@ -11,12 +11,9 @@
 <@/item>
 
 <item>
-<title>[COLOR skyblue][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>https://cdn1.iconfinder.com/data/icons/devices-media-circle-style/48/movie-512.png</thumbnail>
-<info></info>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
 </item>
 
 <@item>
