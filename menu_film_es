@@ -55,27 +55,6 @@
 </item>
 
 
-<item>
-<title>Estrenos Audio latino</title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dEstrenos%5b%2fB%5d%5b%2fCOLOR%5d%20%20%5bCOLOR%20deepskyblue%5dAudio%20Latino%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2faudio_latino.xml</jsonrpc>
-</item>
-
-<item>
-<title>Estrenos Audio original</title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dEstrenos%20%5b%2fB%5d%5b%2fCOLOR%5d%20%5bCOLOR%20deepskyblue%5dAudio%20Original%20%5b%2fCOLOR%5d%5bCOLOR%20gray%5d%5bhay%20que%20agregar%20subtitulos%5d%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2festrenos.xml</jsonrpc>
-</item>
-
-
-<item>
-<title>Peliculas Infantiles</title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fKqVSa5k.jpg&amp;mode=1&amp;name=%5bCOLOR%20skyblue%5d%5bB%5dPeliculas%20Infantiles%5b%2fB%5d%5b%2fCOLOR%5d%20%5bCOLOR%20deepskyblue%5dAudio%20Latino%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadryanlist.org%2fadryan%2fjessmax.xml</jsonrpc>
-</item>
 
 
 <@item>
@@ -97,17 +76,17 @@
 <thumbnail>https://longitude166.files.wordpress.com/2014/09/reportages-logo-10383816imtfn.jpg</thumbnail>
 <@/item>
  
-<@item>
+<item>
 <title>[COLOR gold][B]==============================[/B][/COLOR]</title>
 <link>ignorme</link>
-<@/item>
+</item>
 
-<@item>
-<title>Generos</title>
+<item>
+<title>Series de TV</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAiZXh0cmEiOiAiIiwgImR1cmF0aW9uIjogMCwgImNvbnRlbnRTZXJpZU5hbWUiOiAiIiwgImZ1bGx0aXRsZSI6ICJHXHUwMGU5bmVyb3MiLCAiaGFzQ29udGVudERldGFpbHMiOiAiZmFsc2UiLCAiY2F0ZWdvcnkiOiAiIiwgImNvbnRlbnRFcGlzb2RlTnVtYmVyIjogIiIsICJ0aXRsZSI6ICJHXHUwMGU5bmVyb3MiLCAiZmFuYXJ0IjogImh0dHA6Ly9pLmltZ3VyLmNvbS95bWF6Q1dxLmpwZyIsICJzaG93IjogIiIsICJjb250ZW50Q2hhbm5lbCI6ICJsaXN0IiwgImZvbGRlciI6IHRydWUsICJ0aHVtYm5haWwiOiAiaHR0cDovL2kuaW1ndXIuY29tL2FXQ0RXdG4ucG5nIiwgImNoYW5uZWwiOiAiYWxscGVsaWN1bGFzIiwgImNvbnRlbnRUeXBlIjogIiIsICJjb250ZW50RXBpc29kZVRpdGxlIjogIiIsICJwbG90IjogIiIsICJjb250ZW50VGl0bGUiOiAiIiwgInZpZXdtb2RlIjogImxpc3QiLCAicGFzc3dvcmQiOiAiIiwgImNvbnRlbnRQbG90IjogIiIsICJsYW5ndWFnZSI6ICIiLCAidXJsIjogIiIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJzdWJpbmRpY2UifQ%3d%3d</jsonrpc>
+<jsonrpc>plugin://plugin.video.adryanlist/?mode=17&amp;regexs=%7bu%27makelist%27%3a%20%7b%27cookiejar%27%3a%20%27%27%2c%20%27name%27%3a%20u%27makelist%27%2c%20%27listrepeat%27%3a%20u%27%5cr%5cn%3citem%3e%5cr%5cn%3ctitle%3e%5bmakelist.param3%5d%20-%20%5bmakelist.param2%5d%3c%2ftitle%3e%5cr%5cn%3clink%3e%24doregex%5bid%5d%3c%2flink%3e%5cr%5cn%5cr%5cn%3cregex%3e%5cr%5cn%3cname%3eid%3c%2fname%3e%5cr%5cn%3cexpres%3efile%3a%5c%27(.%2a)%5c%27%3c%2fexpres%3e%5cr%5cn%3cpage%3ehttp%3a%2f%2fstreamin.to%2fembed-%24doregex%5blink%5d-740x360.html%3c%2fpage%3e%5cr%5cn%3creferer%3ehttp%3a%2f%2fstreamin.to%3c%2freferer%3e%5cr%5cn%3c%2fregex%3e%5cr%5cn%5cr%5cn%3cregex%3e%5cr%5cn%3cname%3elink%3c%2fname%3e%5cr%5cn%3cexpres%3ehttp%3a%2f%2fstreamin.to%2f(.%2a%3f)%5c%5c%22%3c%2fexpres%3e%5cr%5cn%3cpage%3ehttp%3a%2f%2fgnula.se%2fcapitulo%2f%5bmakelist.param1%5d%3c%2fpage%3e%5cr%5cn%3creferer%3ehttp%3a%2f%2fstreamin.to%3c%2freferer%3e%5cr%5cn%3c%2fregex%3e%5cr%5cn%5cr%5cn%3cthumbnail%3e%20%3c%2fthumbnail%3e%5cr%5cn%3cfanart%3e%20%3c%2ffanart%3e%5cr%5cn%5cr%5cn%3c%2fitem%3e%5cr%5cn%27%2c%20%27expres%27%3a%20u%27href%3d%22http%3a%2f%2fgnula.se%2fcapitulo%2f(.%2a%3f)%22%5b%5c%5cw%5c%5cW%5c%5cs%5d%7b0%2c9%7d%3e(.%2a%3f)%3c%5b%5c%5cw%5c%5cW%5c%5cs%5d%7b9%7d-(.%2a%3f)%3c%27%2c%20%27referer%27%3a%20None%2c%20%27page%27%3a%20u%27http%3a%2f%2fgnula.se%2fcapitulos%2f%5bmakelist2.param1%5d%2f%27%7d%2c%20u%27makelist2%27%3a%20%7b%27cookiejar%27%3a%20%27%27%2c%20%27name%27%3a%20u%27makelist2%27%2c%20%27listrepeat%27%3a%20u%27%5cr%5cn%3ctitle%3e%5bCOLOR%20coral%5d%20%5bmakelist2.param2%5d%20%5b%2fCOLOR%5d%20%3c%2ftitle%3e%5cr%5cn%3clink%3e%24doregex%5bmakelist%5d%3c%2flink%3e%5cr%5cn%3cthumbnail%3e%5bmakelist2.param3%5d%3c%2fthumbnail%3e%5cr%5cn%27%2c%20%27expres%27%3a%20u%27capitulos%2f(.%2a%3f)%22%20title%3d%22(.%2a%3f)%22.%2asrc%3d%22(http%3a%2f%2fgnula.se%2fimg%2f.%2a%3f)%22%27%2c%20%27referer%27%3a%20None%2c%20%27page%27%3a%20u%27http%3a%2f%2fgnula.se%2fseries-mas-vistas%2f%27%7d%7d&amp;url=%24doregex%5bmakelist2%5d</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
-<@/item>
+</item>
 -----------------------------------------------------------------
 <@item>
 <title>Buscar</title>
