@@ -10,6 +10,14 @@
 <film_fr>plugin://plugin.video.pelisalacarta/?eyJzdWJ0aXRsZSI6ICIiLCAiY29udGVudFNlYXNvbiI6ICIiLCAiZXh0cmEiOiAiIiwgImR1cmF0aW9uIjogMCwgImNvbnRlbnRTZXJpZU5hbWUiOiAiIiwgImZ1bGx0aXRsZSI6ICJQZWxcdTAwZWRjdWxhcyIsICJoYXNDb250ZW50RGV0YWlscyI6ICJmYWxzZSIsICJjYXRlZ29yeSI6ICIiLCAiY29udGVudEVwaXNvZGVOdW1iZXIiOiAiIiwgInRpdGxlIjogIlBlbFx1MDBlZGN1bGFzIiwgImZhbmFydCI6ICJodHRwOi8vaS5pbWd1ci5jb20vYzNIUzhrai5wbmciLCAic2hvdyI6ICIiLCAiY29udGVudENoYW5uZWwiOiAibGlzdCIsICJmb2xkZXIiOiB0cnVlLCAidGh1bWJuYWlsIjogImh0dHA6Ly9pLmltZ3VyLmNvbS9hV0NEV3RuLnBuZyIsICJjaGFubmVsIjogImFsbHBlbGljdWxhcyIsICJjb250ZW50VHlwZSI6ICIiLCAiY29udGVudEVwaXNvZGVUaXRsZSI6ICIiLCAicGxvdCI6ICIiLCAiY29udGVudFRpdGxlIjogIiIsICJ2aWV3bW9kZSI6ICJsaXN0IiwgInBhc3N3b3JkIjogIiIsICJjb250ZW50UGxvdCI6ICIiLCAibGFuZ3VhZ2UiOiAiIiwgInVybCI6ICJodHRwOi8vYWxscGVsaWN1bGFzLmNvL01vdmllcy9mdWxsVmlldy8xLzAvJmFqYXg9MSIsICJjb250ZW50VGh1bWJuYWlsIjogIiIsICJzZXJ2ZXIiOiAiIiwgImNvbnRleHQiOiAiIiwgImFjdGlvbiI6ICJsaXN0YSJ9</film_fr>
 <@/item>
 
+<item>
+<title>[COLOR skyblue][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>https://cdn1.iconfinder.com/data/icons/devices-media-circle-style/48/movie-512.png</thumbnail>
+<info></info>
+</item>
 
 <@item>
 <title>2016</title>
