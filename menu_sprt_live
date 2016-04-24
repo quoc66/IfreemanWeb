@@ -10,6 +10,16 @@
 <thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
 </item>
  
+<item>
+<title>Live Football - Rugby - Hockey...</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dlivesportstreams.tv%26url%3dlivesports%252Flivesportstreams-wrapper.cfg%26definedIn%3dlivesports.cfg%26director%3dlivesportstreams.tv%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255CAdministrator.WIN-138U4FHM38T%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Clivesports.png&amp;mode=1</jsonrpc>
+<thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
+</item>
+
+ 
+ 
 <not working now - check later>
 <title>Live NBA - NHL - NFL</title>
 <premium>True</premium>
