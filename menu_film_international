@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+
+<item>
+<title>Peliculas</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/menu_film_es</externallink>
+<thumbnail>https://cdn1.iconfinder.com/data/icons/devices-media-circle-style/48/movie-512.png</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Film Francais/Series TV</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/menu_film_vf</externallink>
+<thumbnail>https://cdn1.iconfinder.com/data/icons/devices-media-circle-style/48/movie-512.png</thumbnail>
+<info></info>
+</item>
+
+
+
+</root>
