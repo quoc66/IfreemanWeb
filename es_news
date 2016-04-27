@@ -1,20 +1,19 @@
 #EXTM3U
 
-EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News"
+EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News"
+EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-EXTINF:0 tvg-name="CDN CANAL 37" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN CANAL 37" tvg-logo="http://www.eltecsa.com/logos/logo_cdn.png" group-title="News"
+EXTINF:0 tvg-name="CDN CANAL 37" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN CANAL 37" tvg-logo="http://www.eltecsa.com/logos/logo_cdn.png" group-title="News",CDN CANAL 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News"
+EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News",Canal Extremadura
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-EXTINF:0 tvg-name="DW" tvg-language="Spanish" tvg-country="ES" tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News"
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News"
+EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News",Euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News"
+EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News",Lancelot TV
 rtmp://62.210.141.18:1935/directo/lancelot.television
-EXTINF:0 tvg-name="TELE SISTEMA" tvg-language="Spanish" tvg-country="ES" tvg-id="TELE SISTEMA" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="News"
+EXTINF:0 tvg-name="TELE SISTEMA" tvg-language="Spanish" tvg-country="ES" tvg-id="TELE SISTEMA" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="News",TELE SISTEMA
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News"
+EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News",Xtremo channel
 http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
