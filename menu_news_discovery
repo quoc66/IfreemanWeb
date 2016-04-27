@@ -2,18 +2,25 @@
 
 <root>
 
-
 <item>
 <title>News US/UK</title>
-<link>ignorme</link>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/uk_news</jsonrpc>
 </item>
 
 <item>
-<title>Chaines d'information</title>
-<link>ignorme</link>
+<title>Informations 24/24</title>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/fr_news</jsonrpc>
 </item>
+
 
 <item>
 <title>Spanish News</title>
-<link>ignorme</link>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/es_news</jsonrpc>
 </item>
+
