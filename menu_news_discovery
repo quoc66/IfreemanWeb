@@ -6,7 +6,7 @@
 <title>News US/UK</title>
 <thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/uk_news</jsonrpc>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/UK_News</jsonrpc>
 </item>
 
 <item>
