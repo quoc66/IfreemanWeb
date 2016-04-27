@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News",24h RTVE
+EXTINF:0,24h RTVE
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV
+EXTINF:0 ,Andalucia TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
