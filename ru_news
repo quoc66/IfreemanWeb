@@ -1,20 +1,20 @@
 #EXTM3U
 
-EXTINF:0 tvg-name="LDPR" tvg-language="Russian" tvg-country="RU" tvg-id="LDPR" tvg-logo="http://tv-tv.in/wp-content/uploads/2015/01/ldpr-live-streaming.gif" group-title="News",LDPR (News) (RU) (Russian)
+#EXTINF:0 tvg-name="LDPR" tvg-language="Russian" tvg-country="RU" tvg-id="LDPR" tvg-logo="http://tv-tv.in/wp-content/uploads/2015/01/ldpr-live-streaming.gif" group-title="News",LDPR (News) (RU) (Russian)
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-EXTINF:0 tvg-name="Life News" tvg-language="Russian" tvg-country="RU" tvg-id="Life News" tvg-logo="http://anytimecar.ru/images/news/lifenews.png" group-title="News",Life News (News) (RU) (Russian)
+#EXTINF:0 tvg-name="Life News" tvg-language="Russian" tvg-country="RU" tvg-id="Life News" tvg-logo="http://anytimecar.ru/images/news/lifenews.png" group-title="News",Life News (News) (RU) (Russian)
 http://tv.life.ru/lifetv/360p/index.m3u8
-EXTINF:0 tvg-name="RBC TV" tvg-language="Russian" tvg-country="RU" tvg-id="RBC TV" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="News",RBC TV (News) (RU) (Russian)
+#EXTINF:0 tvg-name="RBC TV" tvg-language="Russian" tvg-country="RU" tvg-id="RBC TV" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="News",RBC TV (News) (RU) (Russian)
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-EXTINF:0 tvg-name="TCH" tvg-language="Russian" tvg-country="RU" tvg-id="TCH" tvg-logo="http://www.tch.com/images/TCH_logo_final_header_small.jpg" group-title="News",TCH (News) (RU) (Russian)
+#EXTINF:0 tvg-name="TCH" tvg-language="Russian" tvg-country="RU" tvg-id="TCH" tvg-logo="http://www.tch.com/images/TCH_logo_final_header_small.jpg" group-title="News",TCH (News) (RU) (Russian)
 http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
-EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="Russian" tvg-country="US" tvg-id="Nat Geo Wild" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHsbaqneyPfiiNUKqXr1vlCP5q1goPhIuEd0uqGa3L4nYxwPo_nJK5UBA" group-title="Public-News",Nat Geo Wild (Public-News) (US) (Russian)
+#EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="Russian" tvg-country="US" tvg-id="Nat Geo Wild" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHsbaqneyPfiiNUKqXr1vlCP5q1goPhIuEd0uqGa3L4nYxwPo_nJK5UBA" group-title="Public-News",Nat Geo Wild (Public-News) (US) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/133/index.m3u8
-EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="US" tvg-id="Animal Planet" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuKKAKmHxChwVr-Uv6yaxtKaBQqV8Ewx5DOKeTU_LKm-RqG9Qlt1-0Zg" group-title="Public-News",Animal Planet (Public-News) (US) (Russian)
+#EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="US" tvg-id="Animal Planet" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuKKAKmHxChwVr-Uv6yaxtKaBQqV8Ewx5DOKeTU_LKm-RqG9Qlt1-0Zg" group-title="Public-News",Animal Planet (Public-News) (US) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/137/index.m3u8
-EXTINF:0 tvg-name="Rossiya 24" tvg-language="Russian" tvg-country="RU" tvg-id="Rossiya 24" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdpffaQ4yv-yKdn1uRWhsYRlA0agHpR1xiL2LIy_zWGSBU2vRKZ7-0YRLN" group-title="Public-News",Rossiya 24 (Public-News) (RU) (Russian)
+#EXTINF:0 tvg-name="Rossiya 24" tvg-language="Russian" tvg-country="RU" tvg-id="Rossiya 24" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdpffaQ4yv-yKdn1uRWhsYRlA0agHpR1xiL2LIy_zWGSBU2vRKZ7-0YRLN" group-title="Public-News",Rossiya 24 (Public-News) (RU) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/507/index.m3u8
-EXTINF:0 tvg-name="Life News" tvg-language="Russian" tvg-country="UK" tvg-id="Life News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ts1IIltMNmjIZzMNYwWgrghGYbaoBD_KOBP1PD3H0B0DRcvDiw8ovw" group-title="Public-News",Life News (Public-News) (UK) (Russian)
+#EXTINF:0 tvg-name="Life News" tvg-language="Russian" tvg-country="UK" tvg-id="Life News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ts1IIltMNmjIZzMNYwWgrghGYbaoBD_KOBP1PD3H0B0DRcvDiw8ovw" group-title="Public-News",Life News (Public-News) (UK) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/518/index.m3u8
-EXTINF:0 tvg-name="Moscow 24" tvg-language="Russian" tvg-country="RU" tvg-id="Moscow 24" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8PQt6aibU9KA_MEwnW925vv8nFr2hsD0up9ll-Fk2nD0QrpN0cI7BOmU" group-title="Public-News",Moscow 24 (Public-News) (RU) (Russian)
+#EXTINF:0 tvg-name="Moscow 24" tvg-language="Russian" tvg-country="RU" tvg-id="Moscow 24" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8PQt6aibU9KA_MEwnW925vv8nFr2hsD0up9ll-Fk2nD0QrpN0cI7BOmU" group-title="Public-News",Moscow 24 (Public-News) (RU) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/523/index.m3u8
