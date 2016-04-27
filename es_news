@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:0,24h RTVE
+#EXTINF:0,24h RTVE
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-EXTINF:0 ,Andalucia TV
+#EXTINF:0 ,Andalucia TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
