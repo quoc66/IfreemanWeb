@@ -4,9 +4,8 @@
 
 <item>
 <title>Golf Channel</title>
-<link>ignorme</link>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <premium>True</premium>
-<jsonrpc>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</jsonrpc>
 <thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
 </item>
 
