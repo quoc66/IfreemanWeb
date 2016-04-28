@@ -29,13 +29,6 @@
 <film_fr>plugin://plugin.video.vstream/?site=sokrostream_biz&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+Most+seeing%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSokrostream%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fsokrostream.biz%2Fles-films-les-plus-vues-2&amp;sFav=showMovies</film_fr>
 </item>
 
-<item>
-<title>Liste non-exhaustive films (old)</title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Ffilms.php&amp;sFav=showMovies</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?site=film_streaming_co&amp;function=showMovies&amp;title=Tout+Les+Films&amp;siteUrl=http%3A%2F%2Fwww.hd-stream.in%2Ffilms.php&amp;sFav=showMovies</film_fr>
-</item>
 
 <item>
 <title>[COLOR gold][B]==============================[/B][/COLOR]</title>
@@ -45,9 +38,16 @@
 <item>
 <title>Series TV en francais</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=sokrostream_biz&amp;siteUrl=http%3a%2f%2fsokrostream.biz%2fcategories%2fseries&amp;title=%5bCOLOR%20gray%5dSeries%20News%5b%2fCOLOR%5d%20-%20%5bCOLOR%20azure%5dSokrostream%5b%2fCOLOR%5d</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
+
+<@item>
+<title>Series TV en francais</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?site=seriefr_com&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DSeries+-+VF%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSeriefr.com%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fwww.seriefr.com%2Findex.html&amp;mode=1</jsonrpc>
+<thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
+<@/item>
  
 <item>
 <title>Documentaires francais</title>
