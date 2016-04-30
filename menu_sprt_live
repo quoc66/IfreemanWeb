@@ -73,7 +73,7 @@
 <title>Adhenet source</title>
 <link>ignorme</link>
 <premium>True</premium>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dAtdheNet.tv%26url%3dlivesports%252Fatdee.net.cfg%26definedIn%3dlivesports.cfg%26director%3dAtdheNet.tv%26genre%3dLive%2bSports%26type%3drss%26icon%3dC%253A%255CUsers%255CAdministrator.WIN-138U4FHM38T%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Clivesports.png&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.castaway/?mode=open_live_sport&amp;site=atdhe</jsonrpc>
 <thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
 </item>
  
