@@ -59,12 +59,13 @@
 <link>ignorme</link>
 </item>
 
-<item>
+<@item>
 <title>TV Series : Alphabetical order</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.mdwatchtvseries</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
-</item>
+<@/item>
+
 
 
 <item>
@@ -74,6 +75,11 @@
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
-
+<item>
+<title>TV Series : Most popular</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=tvshows&amp;url=popular</jsonrpc>
+<thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
+</item>
 
 </root>
