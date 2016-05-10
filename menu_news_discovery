@@ -31,9 +31,3 @@
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/ru_news</jsonrpc>
 </item>
 
-<item>
-<title>TV Francaise - Beta</title>
-<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>StartAndroidActivity(&quot;com.likegroup.ilikehdtv4&quot;)</jsonrpc>
-</item>
