@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone = "yes"?>
+
+<items>
+
+<item>
+<title>Delete Cache</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc></jsonrpc>
+</item>
+
+<item>
+<title>Delete packages</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc></jsonrpc>
+</item>
+
+<item>
+<title>Update Flixbox</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc></jsonrpc>
+</item>
+
+<item>
+<title>Install Flixbox</title>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc></jsonrpc>
+</item>
+
+
+</items>
