@@ -39,6 +39,6 @@
 <title>Flixbox Update</title>
 <thumbnail>http://www.betfayre.co.uk/images/18.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.flixboxwizard/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fjgyfdck673568qt%2FFlixboxBuild.zip%3Fdl%3D1&amp;mode=1&amp;name=Flixbox&amp;iconimage=http%3A%2F%2Fflixbox.netau.net%2FWizard%2Ficon.png&amp;fanart=http%3A%2F%2Fflixbox.netau.net%2FWizard%2Ffanart.jpg&amp;description=Flixbox</jsonrpc>
+<jsonrpc>plugin://plugin.video.flixboxupdate/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2F7ab27to5ipdqxkb%2FFlixboxUpdate.zip%3Fdl%3D1&amp;mode=1&amp;name=Flixbox&amp;iconimage=http%3A%2F%2Fflixbox.netau.net%2FWizard%2Ficon.png&amp;fanart=http%3A%2F%2Fflixbox.netau.net%2FWizard%2Ffanart.jpg&amp;description=Flixbox</jsonrpc>
 </item>
 </items>
