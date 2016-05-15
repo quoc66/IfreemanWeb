@@ -21,13 +21,13 @@
 
 
 
-<item>
+<@item>
 <title>Liste films les plus populaires </title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=sokrostream_biz&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+Most+seeing%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSokrostream%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fsokrostream.biz%2Fles-films-les-plus-vues-2&amp;sFav=showMovies</jsonrpc>
 <film_fr>plugin://plugin.video.vstream/?site=sokrostream_biz&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+Most+seeing%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSokrostream%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fsokrostream.biz%2Fles-films-les-plus-vues-2&amp;sFav=showMovies</film_fr>
-</item>
+<@/item>
 
 
 <item>
@@ -71,16 +71,23 @@
 <item>
 <title>Recherche Film</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showSearch&amp;sFav=showSearch&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Genre</jsonrpc>
-<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.vstream/?function=showSearch&amp;sFav=showSearch&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Search</jsonrpc>
+<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
 <item>
+<title>Recherche Series TV</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?function=showSearch&amp;sFav=showSearch&amp;site=seriefr_com&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Series%20Searche</jsonrpc>
+<thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
+</item>
+
+<@item>
 <title>Recherche Film/Series</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
-</item>
+<@/item>
 
 
 </root>
