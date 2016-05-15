@@ -69,6 +69,13 @@
 </item>
 -----------------------------------------------------------------
 <item>
+<title>Recherche Film</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?function=showSearch&amp;sFav=showSearch&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Genre</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+</item>
+
+<item>
 <title>Recherche Film/Series</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?site=cHome&amp;function=showSearch&amp;title=%5BCOLOR+gray%5DSearch%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fvenom&amp;mode=1</jsonrpc>
