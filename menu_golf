@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+
+<item>
+<title>NBC Golf Channel</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<premium>True</premium>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 4 #1</title>
+<link>plugin://plugin.video.SportsDevil/?item=plot%3dWatch%2bSkysports4%2bOnline%26catcher%3dstreams%26title%3dSKYSPORTS%2b4%26url%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26videoTitle%3dSKYSPORTS%2b4%26director%3dibrod.tv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26definedIn%3dtv%252Fibrod.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fibrod.tv%252Fimages%252Flogo.png&amp;mode=1</link>
+<premium>True</premium>
+<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 4 #2</title>
+<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDc%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+4+uktv%5B%2FCOLOR%5D</link>
+<premium>True</premium>
+<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 4 #3</title>
+<link>plugin://plugin.video.phstreams/?action=play&amp;url=%3Csublink%3Ehttp%3A%2F%2Fwww.ibrod.tv%2Fskysports4.html%3C%2Fsublink%3E%3Csublink%3Ehttp%3A%2F%2Fhdfree.tv%2Fwatch%2F5%2Fsky-sports-4.html%3C%2Fsublink%3E%3Csublink%3Ehttp%3A%2F%2Fzunox.hk%2Fsky4frame.html%3C%2Fsublink%3E</link>
+<premium>True</premium>
+<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
+</item>
