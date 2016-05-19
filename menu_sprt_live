@@ -3,12 +3,13 @@
  
 
 <item>
-<title>Golf Channel</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<title>Live Football - Rugby - F1 - ...</title>
+<link>ignorme</link>
 <premium>True</premium>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
+<thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
 </item>
-
+https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/menu_golf
 <item>
 <title>Live Football - Rugby - F1 - ...</title>
 <link>ignorme</link>
