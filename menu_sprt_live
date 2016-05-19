@@ -3,13 +3,13 @@
  
 
 <item>
-<title>Live Football - Rugby - F1 - ...</title>
-<link>ignorme</link>
-<premium>True</premium>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
-<thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
+<title>Golf</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/menu_golf</externallink>
+<thumbnail>http://mxtickets.com/sports/Golf-tickets/images/golf-tickets.jpg</thumbnail>
+<info></info>
 </item>
-https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/menu_golf
+
 <item>
 <title>Live Football - Rugby - F1 - ...</title>
 <link>ignorme</link>
