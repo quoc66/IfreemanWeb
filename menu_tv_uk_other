@@ -42,4 +42,11 @@
 <jsonrpc>plugin://plugin.video.mxthai</jsonrpc>
 </item>
 
+<item>
+<title>Chaines ipBox</title>
+<thumbnail>http://3.bp.blogspot.com/-jnLRTajKiRw/VRBZSfNyWGI/AAAAAAAAAVY/CsQg5uNKIfQ/s1600/bein-sport-3.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</jsonrpc>
+</item>
+
 </items>
