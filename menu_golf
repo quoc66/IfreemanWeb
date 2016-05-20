@@ -32,8 +32,8 @@
 
 
 <item>
-<title>Sky Sport 4 -4</title>
-<link>plugin://plugin.video.Evolve/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%3Burl%3Dhttp%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F169.ts%26amp%3Bstreamtype%3DTSDOWNLOADER&amp;mode=2&amp;name=%5BCOLOR+blue%5DGolf+on%5B%2FCOLOR%5D+%5BCOLOR+white%5DSky+Sports+4%5B%2FCOLOR%5D&amp;description=&amp;fanart=http%3A%2F%2Fi.imgur.com%2FTrKIfJK.jpg</link>
+<title>Sky Sport 4 #4</title>
+<link>http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/169.ts</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
