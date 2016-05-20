@@ -32,7 +32,7 @@
 
 <item>
 <title>Sky Sport 4 #4</title>
-<link>plugin://plugin.video.Evolve/?url=http%3A%2F%2Fwww.matsbuilds.co.uk%2FGoliathLists%2FLivesports1.xml&amp;mode=3&amp;name=%5BCOLOR+red%5DSky+Sports+4%5B%2FCOLOR%5D&amp;description=&amp;fanart=nothing</link>
+<link>plugin://plugin.video.Evolve/?url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DTSDOWNLOADER%3Burl%3Dhttp%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F169.ts%26amp%3Bstreamtype%3DTSDOWNLOADER&amp;mode=2&amp;name=%5BCOLOR+blue%5DGolf+on%5B%2FCOLOR%5D+%5BCOLOR+white%5DSky+Sports+4%5B%2FCOLOR%5D&amp;description=&amp;fanart=http%3A%2F%2Fi.imgur.com%2FTrKIfJK.jpg</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
