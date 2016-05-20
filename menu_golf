@@ -3,10 +3,24 @@
  
 
 <item>
-<title>NBC Golf Channel</title>
+<title>[COLOR gray]NBC Golf 1080p[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i.imgur.com/lITra19.jpg</thumbnail>
+<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gray]NBC Golf 720p[/COLOR]</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-<premium>True</premium>
-<thumbnail>http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png</thumbnail>
+<thumbnail>http://i.imgur.com/CTpOaPZ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gray]NBC Golf SD[/COLOR]</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>http://i.imgur.com/oOY9Wo4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
 </item>
 
 <item>
@@ -33,7 +47,7 @@
 
 <item>
 <title>Sky Sport 4 #4</title>
-<link>http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/169.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/169.ts&amp;streamtype=TSDOWNLOADER</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
