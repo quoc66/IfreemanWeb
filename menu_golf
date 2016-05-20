@@ -51,9 +51,4 @@
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
-<item>
-<title>Bein Sport</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/489.ts&amp;streamtype=TSDOWNLOADER</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
+
