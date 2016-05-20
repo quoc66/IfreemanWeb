@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
- 
+
+<item>
+<title>PGA - AT&T Byron Nelson</title>
+<link>plugin://plugin.video.iFreemanWeb/?url=plugin%3A%2F%2Fplugin.video.castaway%2F%3Fplay%3DTrue%26img%3DC%253A%255CUsers%255CAdministrator.WIN-138U4FHM38T%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.castaway%255Cresources%252Fmedia%252Fifirstrow.png%26title%3D%255BCOLOR%2Borange%255D%252821%253A00%2529%255B%252FCOLOR%255D%2BPGA%2BTour%2B-%2BAT%2Band%2BT%2BByron%2BNelson%26url%3Dhttp%253A%252F%252Fifirstrow.eu%252Fwatch%252F437969%252F1%252Fwatch-pga-tour---at-and-t-byron-nelson.html%26site%3Difirstrow%26mode%3Dplay_special_sport&amp;mode=12</link>
+<thumbnail>http://www.attbyronnelson.org/wp-content/uploads/2015/02/blog-img4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
+</item> 
 
 <item>
 <title>[COLOR gray]NBC Golf 1080p[/COLOR]</title>
