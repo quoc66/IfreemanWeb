@@ -11,24 +11,16 @@
 
 <item>
 <title>Sky Sport 4 #1</title>
-<link>plugin://plugin.video.SportsDevil/?item=plot%3dWatch%2bSkysports4%2bOnline%26catcher%3dstreams%26title%3dSKYSPORTS%2b4%26url%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26videoTitle%3dSKYSPORTS%2b4%26director%3dibrod.tv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26definedIn%3dtv%252Fibrod.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fibrod.tv%252Fimages%252Flogo.png&amp;mode=1</link>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?item=plot%3dWatch%2bSkysports4%2bOnline%26catcher%3dstreams%26title%3dSKYSPORTS%2b4%26url%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26videoTitle%3dSKYSPORTS%2b4%26director%3dibrod.tv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26definedIn%3dtv%252Fibrod.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fibrod.tv%252Fimages%252Flogo.png&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDc%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+4+uktv%5B%2FCOLOR%5D</sublink>
+<sublink>plugin://plugin.video.castaway/?play=True&amp;img=http%3A%2F%2Fwww.crichd.tv%2Fimages%2Fsky4.png&amp;title=Sky+Sports+4&amp;url=http%3A%2F%2Fwww.crichd.tv%2Fsky-sports-4-live-stream.php&amp;site=crichd&amp;mode=play_special</sublink>
+</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sport 4 #2</title>
-<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDc%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+4+uktv%5B%2FCOLOR%5D</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
 
-<item>
-<title>Sky Sport 4 #3</title>
-<link>plugin://plugin.video.castaway/?play=True&amp;img=http%3A%2F%2Fwww.crichd.tv%2Fimages%2Fsky4.png&amp;title=Sky+Sports+4&amp;url=http%3A%2F%2Fwww.crichd.tv%2Fsky-sports-4-live-stream.php&amp;site=crichd&amp;mode=play_special</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
 
 <item>
 <title>Sky Sport 4 #4</title>
