@@ -4,7 +4,7 @@
 <item>
 <title>PGA-AT&T Byron Nelson</title>
 <link></link>
-<externallink>plugin://plugin.video.castaway/?img=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.castaway%5cresources%2fmedia%2fifirstrow.png&amp;mode=get_sport_event&amp;site=ifirstrow&amp;title=%5bCOLOR%20orange%5d(20%3a00)%5b%2fCOLOR%5d%20PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson&amp;url=http%3a%2f%2fifirstrow.eu%2fsport%2fgolf.html%40PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson</externallink>
+<jsonrpc>plugin://plugin.video.castaway/?img=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.castaway%5cresources%2fmedia%2fifirstrow.png&amp;mode=get_sport_event&amp;site=ifirstrow&amp;title=%5bCOLOR%20orange%5d(20%3a00)%5b%2fCOLOR%5d%20PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson&amp;url=http%3a%2f%2fifirstrow.eu%2fsport%2fgolf.html%40PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson</jsonrpc>
 <thumbnail>http://www.attbyronnelson.org/wp-content/uploads/2015/02/blog-img4.jpg</thumbnail>
 <fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
 </item> 
