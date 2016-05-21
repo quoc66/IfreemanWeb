@@ -18,7 +18,7 @@
 
 <item>
 <title>Spanish TV</title>
-<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<thumbnail>http://www.crwflags.com/fotw/images/e/es-1936.gif</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.kodilivetv%5cresources%5cimages%5ces.png&amp;mode=2&amp;name=%5bCOLOR%20gold%5d%5bB%5dSpanish%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fkodilive.eu%2fiptv%2fraw2.php%3fl%3des</jsonrpc>
 </item>
@@ -30,7 +30,7 @@
 
 <item>
 <title>French News</title>
-<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/_7Btpo5G19UY/TOSEav576aI/AAAAAAAAAEc/p2IHzdwxgL4/s1600/france-flag_t9t2.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/fr_news</jsonrpc>
 </item>
@@ -43,10 +43,22 @@
 </item>
 
 <item>
-<title>Chaines ipBox</title>
-<thumbnail>http://3.bp.blogspot.com/-jnLRTajKiRw/VRBZSfNyWGI/AAAAAAAAAVY/CsQg5uNKIfQ/s1600/bein-sport-3.png</thumbnail>
+<title>[COLOR gold][B]==============BETA===============[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+
+<item>
+<title>Chaines Francaises</title>
+<thumbnail>http://2.bp.blogspot.com/_7Btpo5G19UY/TOSEav576aI/AAAAAAAAAEc/p2IHzdwxgL4/s1600/france-flag_t9t2.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</jsonrpc>
+<ipbox_fr>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</ipbox_fr>
+</item>
+
+<item>
+<title>Spanish channels</title>
+<thumbnail>http://www.crwflags.com/fotw/images/e/es-1936.gif</thumbnail>
+<link>http://ignoreme</link>
+<ipbox_es>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</ipbox_es>
 </item>
 
 </items>
