@@ -3,7 +3,7 @@
 
 <item>
 <title>PGA - AT&T Byron Nelson</title>
-<link>plugin://plugin.video.iFreemanWeb/?url=plugin%3A%2F%2Fplugin.video.castaway%2F%3Fplay%3DTrue%26img%3DC%253A%255CUsers%255CAdministrator.WIN-138U4FHM38T%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.castaway%255Cresources%252Fmedia%252Fifirstrow.png%26title%3D%255BCOLOR%2Borange%255D%252821%253A00%2529%255B%252FCOLOR%255D%2BPGA%2BTour%2B-%2BAT%2Band%2BT%2BByron%2BNelson%26url%3Dhttp%253A%252F%252Fifirstrow.eu%252Fwatch%252F437969%252F1%252Fwatch-pga-tour---at-and-t-byron-nelson.html%26site%3Difirstrow%26mode%3Dplay_special_sport&amp;mode=12</link>
+<link>plugin://plugin.video.castaway/?img=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.castaway%5cresources%2fmedia%2fifirstrow.png&amp;mode=get_sport_event&amp;site=ifirstrow&amp;title=%5bCOLOR%20orange%5d(20%3a00)%5b%2fCOLOR%5d%20PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson&amp;url=http%3a%2f%2fifirstrow.eu%2fsport%2fgolf.html%40PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson</link>
 <thumbnail>http://www.attbyronnelson.org/wp-content/uploads/2015/02/blog-img4.jpg</thumbnail>
 <fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
 </item> 
@@ -38,13 +38,6 @@
 
 <item>
 <title>Sky Sport 4 #2</title>
-<link>plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDc%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+4+uktv%5B%2FCOLOR%5D</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 4 #3</title>
 <link>plugin://plugin.video.castaway/?play=True&amp;img=http%3A%2F%2Fwww.crichd.tv%2Fimages%2Fsky4.png&amp;title=Sky+Sports+4&amp;url=http%3A%2F%2Fwww.crichd.tv%2Fsky-sports-4-live-stream.php&amp;site=crichd&amp;mode=play_special</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
@@ -52,9 +45,23 @@
 
 
 <item>
-<title>Sky Sport 4 #4</title>
+<title>Sky Sport 4 #3</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/169.ts&amp;streamtype=TSDOWNLOADER</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
 
+<item>
+<title>Ziggo Sport1 Golf</title>
+<link>plugin://plugin.video.ZemTV-shani/?url=aXBib3g6aHR0cDovL09SQklULUlQVFYuQ09NOjI1MDAvbGl2ZS9yLm1lbGtlcnQvci5tZWxrZXJ0Y2hhbmdlcGFzcy8yNjI2LnRzfFVzZXItQWdlbnQ9VkxDLzIuMi4xIExpYlZMQy8yLjIuMTcmSWN5LU1ldGFEYXRhPTE%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DNl%3A+sport1+golf%0D+ipbox%5B%2FCOLOR%5D</link>
+<premium>True</premium>
+<thumbnail>http://www.totaaltv.nl/images/ziggo-sport-voor-alle-abonnees-kabelbedrijf.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Sport TV 4</title>
+<link>plugin://plugin.video.ZemTV-shani/?url=aXBib3g6aHR0cDovL09SQklULUlQVFYuQ09NOjI1MDAvbGl2ZS9yLm1lbGtlcnQvci5tZWxrZXJ0Y2hhbmdlcGFzcy8xMjc0LnRzfFVzZXItQWdlbnQ9VkxDLzIuMi4xIExpYlZMQy8yLjIuMTcmSWN5LU1ldGFEYXRhPTE%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DPt%3Asport+tv+4%0D+ipbox%5B%2FCOLOR%5D</link>
+<premium>True</premium>
+<thumbnail>https://pbs.twimg.com/profile_images/421072160459718657/3P2h6gRR_400x400.jpeg</thumbnail>
+</item>
