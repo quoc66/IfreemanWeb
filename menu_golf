@@ -61,8 +61,8 @@
 
 
 <item>
-<title>Sport TV 4</title>
-<link>plugin://plugin.video.ZemTV-shani/?url=aXBib3g6aHR0cDovL09SQklULUlQVFYuQ09NOjI1MDAvbGl2ZS9yLm1lbGtlcnQvci5tZWxrZXJ0Y2hhbmdlcGFzcy8xMjc0LnRzfFVzZXItQWdlbnQ9VkxDLzIuMi4xIExpYlZMQy8yLjIuMTcmSWN5LU1ldGFEYXRhPTE%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DPt%3Asport+tv+4%0D+ipbox%5B%2FCOLOR%5D</link>
+<title>Sport TV4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/283.ts&amp;streamtype=TSDOWNLOADER</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/421072160459718657/3P2h6gRR_400x400.jpeg</thumbnail>
 </item>
