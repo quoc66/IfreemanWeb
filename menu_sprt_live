@@ -85,11 +85,12 @@
 </item>
 
 
-<item>
-<title>Sankt Gallen – Luzern</title>
-<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%5Cresources%2Fmedia%2Flivetv.png&amp;title=%5BCOLOR+orange%5D%2805%2F22+15%3A00%29%5B%2FCOLOR%5D+%28Swiss+Super+League%29+%5BB%5DSankt+Gallen+%E2%80%93+Luzern%5B%2FB%5D&amp;url=http%3A%2F%2Fcdn.livetvcdn.net%2Fwebplayer.php%3Ft%3Difr%26c%3D430003%26lang%3Den%26eid%3D414105%26lid%3D430003%26ci%3D87%26si%3D1&amp;site=livetv&amp;mode=play_special_sport</link>
-<thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
-</item>
 
+<item>
+<title>Sankt Gallen–Luzern</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2756.ts&amp;streamtype=TSDOWNLOADER</link>
+<premium>True</premium>
+<thumbnail>https://pbs.twimg.com/profile_images/421072160459718657/3P2h6gRR_400x400.jpeg</thumbnail>
+</item>
 
 </root>
