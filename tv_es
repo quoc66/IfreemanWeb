@@ -1,0 +1,79 @@
+#EXTM3U
+
+EXTINF:0 tvg-name="24h RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="24h RTVE" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-original-577x577/public/0020/3295/brand.gif?itok=VyyXyw0I" group-title="News", 24h RTVE (News)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News", Andalucia TV (News)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News", Canal Extremadura (News)
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+EXTINF:0 tvg-name="DW" tvg-language="Spanish" tvg-country="ES" tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News", DW (News)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+EXTINF:0 tvg-name="Euronews" tvg-language="Spanish" tvg-country="ES" tvg-id="Euronews" tvg-logo="http://2.bp.blogspot.com/-bgSjOJk7OpA/VEWJ3YvijBI/AAAAAAAAAQY/VbfaD3aYpBs/s1600/euronews-logo.jpg" group-title="News", Euronews (News)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News", Lancelot TV (News)
+rtmp://62.210.141.18:1935/directo/lancelot.television
+EXTINF:0 tvg-name="TELE SISTEMA" tvg-language="Spanish" tvg-country="ES" tvg-id="TELE SISTEMA" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="News", TELE SISTEMA (News)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News", Xtremo channel (News)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+EXTINF:0 tvg-name="La 2 RTVE" tvg-language="Spanish" tvg-country="ES" tvg-id="La 2 RTVE" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png" group-title="Documentary", La 2 RTVE (Documentary)
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+EXTINF:0 tvg-name="RTVida" tvg-language="Spanish" tvg-country="ES" tvg-id="RTVida" tvg-logo="http://www.eniyitv.com/wp-content/uploads/2013/03/rtvida-tv-logo.png" group-title="Documentary", RTVida (Documentary)
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+EXTINF:0 tvg-name="324" tvg-language="Spanish" tvg-country="ES" tvg-id="324" tvg-logo="http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png" group-title="Entertainment", 324 (Entertainment)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+EXTINF:0 tvg-name="360 TV" tvg-language="Spanish" tvg-country="ES" tvg-id="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png" group-title="Entertainment", 360 TV (Entertainment)
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+EXTINF:0 tvg-name="8TV" tvg-language="Spanish" tvg-country="ES" tvg-id="8TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjHO4cIAohj0HS4QYpMlwauk2JZboetzNcjXDeda8E6zZsW2_pQTz9rw" group-title="Entertainment", 8TV (Entertainment)
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Entertainment", Antena 3 HD (Entertainment)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+EXTINF:0 tvg-name="Antena 3 Internacional" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 Internacional" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSIIyRzequHPUuJAj8hi6o-Ll4N21Ohhfyqq2jVzbRa82K6qXdhwlHOZE" group-title="Entertainment", Antena 3 Internacional (Entertainment)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+EXTINF:0 tvg-name="CerTv" tvg-language="Spanish" tvg-country="ES" tvg-id="CerTv" tvg-logo="http://canalesdominicano.net/wp-content/uploads/2015/05/canal4.jpg" group-title="Entertainment", CerTv (Entertainment)
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+EXTINF:0 tvg-name="Color Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Color Vision" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision-Canal-9.jpg" group-title="Entertainment", Color Vision (Entertainment)
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+EXTINF:0 tvg-name="Galicia" tvg-language="Spanish" tvg-country="ES" tvg-id="Galicia" tvg-logo="http://i.imgur.com/R0CSkHm.jpg" group-title="Entertainment", Galicia (Entertainment)
+http://media3.crtvg.es/live/tvga/.m3u8
+EXTINF:0 tvg-name="HTP" tvg-language="Spanish" tvg-country="ES" tvg-id="HTP" tvg-logo="http://1.bp.blogspot.com/-yNDWbH8srCc/Tx6ZAwctjrI/AAAAAAAAAjY/cKFnPu2_3oQ/s1600/Logo%2BHuesca2.jpg" group-title="Entertainment", HTP (Entertainment)
+rtmp://streaming2.radiohuesca.com/live/huescatv
+EXTINF:0 tvg-name="LUX Mallorca TV" tvg-language="Spanish" tvg-country="ES" tvg-id="LUX Mallorca TV" tvg-logo="http://i.imgur.com/3TTmo4V.jpg" group-title="Entertainment", LUX Mallorca TV (Entertainment)
+rtmp://fl1.viastreaming.net/canal37/livestream
+EXTINF:0 tvg-name="La Sexta" tvg-language="Spanish" tvg-country="ES" tvg-id="La Sexta" tvg-logo="http://progratele.wikispaces.com/file/view/7tocf98kclyo2bm7hr4c62e72db4fa3_la-sexta.gif/335085396/208x208/7tocf98kclyo2bm7hr4c62e72db4fa3_la-sexta.gif" group-title="Entertainment", La Sexta (Entertainment)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+EXTINF:0 tvg-name="Levante TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Levante TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQicXskuymDUbfaftJuBc1kOejzsUPjCdDiA_3x1_urJTIdoTyiqCQsKPM" group-title="Entertainment", Levante TV (Entertainment)
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+EXTINF:0 tvg-name="Mega" tvg-language="Spanish" tvg-country="ES" tvg-id="Mega" tvg-logo="http://mega.atresmedia.com/static/images/logo_mega_rst.png" group-title="Entertainment", Mega (Entertainment)
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+EXTINF:0 tvg-name="MicroVision" tvg-language="Spanish" tvg-country="ES" tvg-id="MicroVision" tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="Entertainment", MicroVision (Entertainment)
+http://tcc-streaming2.cloudapp.net:1935/micro10/microvision10/chunklist_w911586869.m3u8
+EXTINF:0 tvg-name="Peravia Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Peravia Vision" tvg-logo="http://dominicaninternet.com/servicios/images/peravia_vision_logo_domint2013.png" group-title="Entertainment", Peravia Vision (Entertainment)
+http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
+EXTINF:0 tvg-name="RTPA 7" tvg-language="Spanish" tvg-country="ES" tvg-id="RTPA 7" tvg-logo="http://corporativo.rtpa.es/img/logotipo_rtpa_top.png" group-title="Entertainment", RTPA 7 (Entertainment)
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+EXTINF:0 tvg-name="Super TV 55 Santiago" tvg-language="Spanish" tvg-country="ES" tvg-id="Super TV 55 Santiago" tvg-logo="http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/LogoSTV55-Canales-Dominicanos-Online.jpg" group-title="Entertainment", Super TV 55 Santiago (Entertainment)
+rtmp://newyorkstream.ddns.net:1935/supercanalcaribe/
+EXTINF:0 tvg-name="TV Galicia America" tvg-language="Spanish" tvg-country="ES" tvg-id="TV Galicia America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuTyldQw-ct2JZCYLGjOu8WbBtaEH3INd-NBCg-XyV7vdy9oSgxMMXkU" group-title="Entertainment", TV Galicia America (Entertainment)
+http://media3.crtvg.es/live/tvga/playlist.m3u8
+EXTINF:0 tvg-name="TV UNO 1" tvg-language="Spanish" tvg-country="ES" tvg-id="TV UNO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI510-KczLZJBxa0gb_XPaYY6HCZZHlxmdIqvqFoGsVwUMsbmeNvw2B4k" group-title="Entertainment", TV UNO 1 (Entertainment)
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+EXTINF:0 tvg-name="Tele Antillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Tele Antillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment", Tele Antillas (Entertainment)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u
+EXTINF:0 tvg-name="Teleantillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Teleantillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment", Teleantillas (Entertainment)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+EXTINF:0 tvg-name="Telemadrid" tvg-language="Spanish" tvg-country="ES" tvg-id="Telemadrid" tvg-logo="http://images.all-free-download.com/images/graphiclarge/telemadrid_86683.jpg" group-title="Entertainment", Telemadrid (Entertainment)
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+EXTINF:0 tvg-name="Telesistema" tvg-language="Spanish" tvg-country="ES" tvg-id="Telesistema" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Entertainment", Telesistema (Entertainment)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+EXTINF:0 tvg-name="Valle vision Canal 10 la vega" tvg-language="Spanish" tvg-country="ES" tvg-id="Valle vision Canal 10 la vega" tvg-logo="http://dominicanchannel.info/wp-content/uploads/2013/07/vallevision3.jpg" group-title="Entertainment", Valle vision Canal 10 la vega (Entertainment)
+http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
+EXTINF:0 tvg-name="ANTENA 3" tvg-language="Spanish" tvg-country="ES" tvg-id="ANTENA 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6EVpx9ua891pEc79Aji07ydfI__6s7__1pXawrKm4k61JNXZVvhZbhkw" group-title="Family", ANTENA 3 (Family)
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-p.m3u8
+EXTINF:0 tvg-name="TV3 Spain" tvg-language="Spanish" tvg-country="ES" tvg-id="TV3 Spain" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_cJEgo09bbFlPFvM1TYA3CgUOCSNBvR-D0TCdVkzKOgvFACrgMz67yl8" group-title="Family", TV3 Spain (Family)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports", Real Madrid TV (Sports)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+EXTINF:0 tvg-name="Cadena Megavision" tvg-language="Spanish" tvg-country="ES" tvg-id="Cadena Megavision" tvg-logo="http://canal15.megavision.com.sv/images/lunes/cadenamegavision.jpg" group-title="RandomAirTime 24/7", Cadena Megavision (RandomAirTime 24/7)
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
