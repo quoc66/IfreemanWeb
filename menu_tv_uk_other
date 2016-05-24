@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>Spanish TV #2</title>
+<title>Spanish TV 2</title>
 <thumbnail>http://www.crwflags.com/fotw/images/e/es-1936.gif</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/tv_es</jsonrpc>
