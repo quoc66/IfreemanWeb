@@ -19,12 +19,12 @@
 <film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fwww.film-streaming.co%2ftop.php&amp;title=Films%20les%20plus%20vus</film_fr>
 </item>
 
-<item>
+<@item>
 <title>Selection films Francais </title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/meilleur_films_francais</externallink>
-</item>
+<@/item>
 
 
 <@item>
