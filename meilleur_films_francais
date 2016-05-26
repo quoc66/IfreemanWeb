@@ -3,7 +3,7 @@
 
 <item>
 <title>Comment c'est loin</title>
-<link>plugin://plugin.video.iFreemanWeb/?fanart=image%3a%2f%2fC%253a%255cUsers%255cAdministrator.WIN-138U4FHM38T%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.video.vstream%255cresources%255cart%255cfilms_fanart.jpg%2f&amp;mode=53&amp;name=Comment%20c%e2%80%99est%20loin&amp;url=plugin%3a%2f%2fplugin.video.vstream%2f%3fsite%3dfilm_streaming_co%26function%3dshowHosters%26title%3dComment%2bc%25E2%2580%2599est%2bloin%26sMovieTitle%3dComment%2bc%25E2%2580%2599est%2bloin%26siteUrl%3dhttp%253A%252F%252Fwww.film-streaming.co%252Fsearch.php%253Fmovie%253Dcomment%2bc%2527est%2bloin4</link>
+<jsonrpc>plugin://plugin.video.iFreemanWeb/?fanart=image%3a%2f%2fC%253a%255cUsers%255cAdministrator.WIN-138U4FHM38T%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.video.vstream%255cresources%255cart%255cfilms_fanart.jpg%2f&amp;mode=53&amp;name=Comment%20c%e2%80%99est%20loin&amp;url=plugin%3a%2f%2fplugin.video.vstream%2f%3fsite%3dfilm_streaming_co%26function%3dshowHosters%26title%3dComment%2bc%25E2%2580%2599est%2bloin%26sMovieTitle%3dComment%2bc%25E2%2580%2599est%2bloin%26siteUrl%3dhttp%253A%252F%252Fwww.film-streaming.co%252Fsearch.php%253Fmovie%253Dcomment%2bc%2527est%2bloin4</jsonrpc>
 <thumbnail>https://ahmondedemerde.files.wordpress.com/2015/12/98589361_621168.jpg</thumbnail>
 <fanart>https://ahmondedemerde.files.wordpress.com/2015/12/98589361_621168.jpg</fanart>
 </item>
