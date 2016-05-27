@@ -16,9 +16,9 @@
 </item>
 
 <item>
-<title>Search Movie#2</title>
+<title>Search Movie2</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movieSearch;query=None</jsonrpc>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieSearch$amp;query=None</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
