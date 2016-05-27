@@ -13,8 +13,8 @@
 <item>
 <title>Movies - Featured list</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</jsonrpc>
-<movie>plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dviews%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DMost+Watched%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=%2Fstorage%2F.kodi%2Faddons%2Fplugin.video.md9movies%2Ficon.png&amp;description=</movie>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=featured</jsonrpc>
+<movie>plugin://plugin.video.exodus/?action=movies&amp;url=featured</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
