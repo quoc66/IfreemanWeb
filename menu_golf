@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-<item>
-<title>AT&T Byron Nelson</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.castaway/?img=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.castaway%5cresources%2fmedia%2fifirstrow.png&amp;mode=get_sport_event&amp;site=ifirstrow&amp;title=%5bCOLOR%20orange%5d(20%3a00)%5b%2fCOLOR%5d%20PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson&amp;url=http%3a%2f%2fifirstrow.eu%2fsport%2fgolf.html%40PGA%20Tour%20-%20AT%20and%20T%20Byron%20Nelson</jsonrpc>
-<thumbnail>http://www.attbyronnelson.org/wp-content/uploads/2015/02/blog-img4.jpg</thumbnail>
-<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
-</item> 
 
 <item>
 <title>[COLOR gray]NBC Golf 1080p[/COLOR]</title>
@@ -52,23 +45,5 @@
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
 
-<item>
-<title>Sky Sport 4 #4</title>
-<link>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0Omh0dHA6Ly8xODUuNTkuMjIyLjY1OjgwODAvTUhBSmJtbWhoalBJQW1za3k0L2luZGV4Lm0zdTh8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4xLjE7IGVuLUdCOyBTTS1HOTIwRiBCdWlsZC9MTVk0N1guRzkyMEZYWFMzQ09LNSkgTVhQbGF5ZXIvMS43LjQw&amp;mode=11&amp;name=Sky+Sport+4</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
-
-<item>
-<title>Ten Golf</title>
-<link>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMTQ5LjIwMi4yMDcuODo4MDgwL25iY2dvbGYtMTRNYXkvc2FsbHUvaW5kZXgubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DCanal+golf%5B%2FCOLOR%5D</link>
-<thumbnail>http://tvimages.burrp.com/images/channels2/sports/TEN.png</thumbnail>
-</item>
 
 
-<item>
-<title>Sport TV 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1274.ts&amp;streamtype=TSDOWNLOADER</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/421072160459718657/3P2h6gRR_400x400.jpeg</thumbnail>
-</item>
