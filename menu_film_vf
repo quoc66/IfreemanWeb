@@ -12,11 +12,11 @@
 
 
 <item>
-<title>Liste films les plus populaires </title>
+<title>Liste de films : nouveautes </title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fwww.film-streaming.co%2ftop.php&amp;title=Films%20les%20plus%20vus</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fwww.film-streaming.co%2ftop.php&amp;title=Films%20les%20plus%20vus</film_fr>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=full_stream_org&amp;siteUrl=http%3a%2f%2ffull-stream.nu%2f&amp;title=Films%20Nouveaut%c3%a9s</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=full_stream_org&amp;siteUrl=http%3a%2f%2ffull-stream.nu%2f&amp;title=Films%20Nouveaut%c3%a9s</film_fr>
 </item>
 
 <@item>
