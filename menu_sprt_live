@@ -79,18 +79,4 @@
 </item>
  
 
-<item>
-<title>[COLOR gold][B]===========Swiss match - 22 may==========[/B][/COLOR]</title>
-<link>ignorme</link>
-</item>
-
-
-
-<item>
-<title>Sankt Gallen – Luzern</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://ORBIT-IPTV.COM:2500/live/bilal/bilal/2757.ts&amp;streamtype=TSDOWNLOADER</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/421072160459718657/3P2h6gRR_400x400.jpeg</thumbnail>
-</item>
-
 </root>
