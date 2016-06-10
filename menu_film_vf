@@ -42,9 +42,9 @@
 </item>
 
 <item>
-<title>Series TV en Francais</title>
+<title>Series TV en francais</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=sokrostream_biz&amp;siteUrl=http%3a%2f%2fsokrostream.biz%2fcategories%2fseries&amp;title=%5bCOLOR%20gray%5dSokrostream%5b%2fCOLOR%5d
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=sokrostream_biz&amp;siteUrl=http%3a%2f%2fsokrostream.biz%2fcategories%2fseries&amp;title=%5bCOLOR%20gray%5dSokrostream%5b%2fCOLOR%5d</jsonrpc>
 <thumbnail>http://img14.deviantart.net/fdf3/i/2008/238/4/e/tv_series_vol_1___icons_by_kad_by_kadu20es.jpg</thumbnail>
 </item>
 
