@@ -30,12 +30,12 @@
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
 
-<item>
+<@item>
 <title>Sky Sport 4 #2</title>
 <link>plugin://plugin.video.castaway/?play=True&amp;img=http%3A%2F%2Fwww.crichd.tv%2Fimages%2Fsky4.png&amp;title=Sky+Sports+4&amp;url=http%3A%2F%2Fwww.crichd.tv%2Fsky-sports-4-live-stream.php&amp;site=crichd&amp;mode=play_special</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
+<@/item>
 
 
 <item>
@@ -47,7 +47,7 @@
 
 <item>
 <title>Sky Sport 4 #4</title>
-<link>plugin://plugin.video.VidTime/?url=http%3A%2F%2Fwww.liveonlinetv247.info%2Fskysports4.php&amp;icon=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports4.png+&amp;mode=ONTV&amp;name=%5BCOLOR+white%5DSky+Sports+4%5B%2FCOLOR%5D</link>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
