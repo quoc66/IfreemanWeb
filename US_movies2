@@ -54,15 +54,6 @@
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
 
-
-<item>
-<title>HD Movies : Selected playlists</title>
-<link>ignorme</link>
-<premium>True</premium>
-<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
-<thumbnail>http://www.jazz901.org/wp-content/uploads/2015/07/playlist.png</thumbnail>
-</item>
-
 <item>
 <title>[COLOR gold][B]============TV series==============[/B][/COLOR]</title>
 <link>ignorme</link>
