@@ -18,4 +18,13 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
+
+<item>
+<title>HD Movies : Selected playlists</title>
+<link>ignorme</link>
+<premium>True</premium>
+<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
+<thumbnail>http://www.jazz901.org/wp-content/uploads/2015/07/playlist.png</thumbnail>
+</item>
+
 </root>
