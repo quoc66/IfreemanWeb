@@ -13,9 +13,8 @@
 <item>
 <title>Movies - most popular</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=featured</jsonrpc>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=popular</jsonrpc>
 <@ovie>plugin://plugin.video.exodus/?action=movies&amp;url=featured</@ovie>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=popular</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
