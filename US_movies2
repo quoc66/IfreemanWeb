@@ -30,6 +30,14 @@
 </item> 
 
 <item>
+<title>Movies : Featured List (with hosts selection)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
+<movie>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
 <title>HD Movies : Random list</title>
 <link>ignorme</link>
 <premium>True</premium>
