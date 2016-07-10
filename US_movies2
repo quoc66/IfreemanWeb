@@ -3,15 +3,8 @@
 <root>
 
 
-<>
-<title>HD Movies : Most watched</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</jsonrpc>
-<movie>plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fview%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
 
-<item>
+<>
 <title>HD Movies : Most ratings (unstable - go to "Other Sources")</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Ratings%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2frating%2fall%2fall%2fall%2fall%2fall&amp;mode=1</jsonrpc>
@@ -19,7 +12,7 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-<item>
+<>
 <title>HD Movies : 2016</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=%2fstorage%2f.kodi%2faddons%2fplugin.video.md123movies%2ficon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d2016%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2flatest%2fall%2fall%2f2016%2fall%2fall</jsonrpc>
@@ -28,20 +21,11 @@
 </item> 
 
 
-<@item>
-<title>HD Movies : 2016</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls036669293%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls036669293%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
-<thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
-<@/item> 
-
 
 <item>
-<title>HD Movies : 2015</title>
+<title>HD Movies : 2015/2016</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls071776440%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls071776440%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
+<jsonrpc>plugin://plugin.video.Evolve/?description&amp;fanart=http%3a%2f%2fwww.matsbuilds.co.uk%2fpics%2fevolve%2ffanart.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20red%5dM%5b%2fCOLOR%5d%5bCOLOR%20white%5dovies%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwww.matsbuilds.co.uk%2fGoliathLists%2fmovies.xml</jsonrpc>
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
 </item> 
 
