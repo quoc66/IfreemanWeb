@@ -10,17 +10,9 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-<item>
-<title>Movies - most popular</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=popular</jsonrpc>
-<@ovie>plugin://plugin.video.exodus/?action=movies&amp;url=featured</@ovie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
-
 
 <item>
-<title>Movies - most popular - test</title>
+<title>Movies - most popular - HD</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=popular</jsonrpc>
 <movie>plugin://plugin.video.exoman/?action=movies&amp;url=featured</movie>
@@ -33,6 +25,14 @@
 <premium>True</premium>
 <externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/mov_playlists</externallink>
 <thumbnail>http://www.jazz901.org/wp-content/uploads/2015/07/playlist.png</thumbnail>
+</item>
+
+<item>
+<title>Movies - test area</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=popular</jsonrpc>
+<@ovie>plugin://plugin.video.exodus/?action=movies&amp;url=featured</@ovie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
 </root>
