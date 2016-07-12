@@ -20,6 +20,14 @@
 
 
 <item>
+<title>Movies - most popular - test</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=popular</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=featured</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
 <title>HD Movies : Selected playlists</title>
 <link>ignorme</link>
 <premium>True</premium>
