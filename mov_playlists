@@ -5,8 +5,8 @@
 <item>
 <title>Top Box office</title>
 <link>ignorme</link>          
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=boxoffice</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=boxoffice</movie>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=boxoffice</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=boxoffice</movie>
 <thumbnail>https://d28wbuch0jlv7v.cloudfront.net/images/infografik/normal/chartoftheday_4081_the_top_10_box_office_record_breakers_n.jpg</thumbnail>
 </item>
 
@@ -22,8 +22,8 @@
 <item>
 <title>Top 100 IMDB</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls055592025%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls055592025%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls055592025%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls055592025%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
 <thumbnail>https://ykroh.files.wordpress.com/2012/11/imdb-top-250-logo-480x330.jpg?w=450&h=309</thumbnail>
 </item>
 
@@ -39,7 +39,7 @@
 <item>
 <title>Sky Movie channels</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=channels</jsonrpc>
+<jsonrpc>plugin://plugin.video.exoman/?action=channels</jsonrpc>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 </item>
 
@@ -52,16 +52,16 @@
 <item>
 <title>Love</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls004071299%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls004071299%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls004071299%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls004071299%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
 <thumbnail>http://s6.postimg.org/nn4hv0on5/HD_fantasy_girls_pictures_2.jpg</thumbnail>
 </item>
 
 <item>
 <title>Cry</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000172311%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000172311%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000172311%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls000172311%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
 <thumbnail>http://s6.postimg.org/47tq1wvcx/cry_2.jpg</thumbnail>
 </item>
 
@@ -130,8 +130,8 @@
 <item>
 <title>Comedies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls058726648%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls058726648%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls058726648%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls058726648%2F%3Fview%3Ddetail%26sort%3Duser_rating%3Adesc%26title_type%3Dfeature%2Cshort%2Ctv_movie%2Ctv_special%2Cvideo%2Cdocumentary%2Cgame%26start%3D1</movie>
 <thumbnail>http://watchmojo.com/uploads/blipthumbs/Fi-M-Top10-Comedy-Films-of-the-90s-480p30_480.jpg</thumbnail>
 </item>
 
