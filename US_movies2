@@ -29,8 +29,17 @@
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
 </item> 
 
+
 <item>
-<title>Movies : Featured List (with hosts selection)</title>
+<title>Movies - most popular - HD (Host selection)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=popular</jsonrpc>
+<movie>plugin://plugin.video.exoman/?action=movies&amp;url=featured</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
+
+<item>
+<title>Movies : Featured List (Host selection) HD/SD</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
 <movie>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
@@ -61,16 +70,16 @@
 
 
 <item>
-<title>TV Series : Featured list</title>
+<title>TV Series : Featured list HD/SD</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?mode=GetFilteredResults&amp;section=tv&amp;sort=views</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
 <item>
-<title>TV Series : Most popular</title>
+<title>TV Series : Most popular HD</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=tvshows&amp;url=popular</jsonrpc>
+<jsonrpc>plugin://plugin.video.exoman/?action=tvshows&amp;url=popular</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
