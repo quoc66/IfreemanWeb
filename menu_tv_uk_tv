@@ -19,7 +19,7 @@
 <item>
 <title>Sky Movie channels</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=channels</jsonrpc>
+<jsonrpc>plugin://plugin.video.exoman/?action=channels</jsonrpc>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 </item>
 
