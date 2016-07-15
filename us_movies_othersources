@@ -3,7 +3,7 @@
 <root>
 
 <item>
-<title>Movies (with hosts selection)</title>
+<title>Movies HD/SD (with hosts selection)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
 <movie>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
@@ -12,12 +12,12 @@
 
 
 <item>
-<title>Movies - most popular - HD</title>
+<title>TV Series HD/SD (with hosts selection)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=popular</jsonrpc>
-<movie>plugin://plugin.video.exoman/?action=movies&amp;url=featured</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+<jsonrpc>plugin://plugin.video.1channel/?mode=GetFilteredResults&amp;section=tv&amp;sort=views</jsonrpc>
+<thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
+
 
 <item>
 <title>HD Movies : Selected playlists</title>
