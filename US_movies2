@@ -4,11 +4,11 @@
 
 
 
-<>
-<title>HD Movies : Most ratings (unstable - go to "Other Sources")</title>
+<item>
+<title>HD Movies : Most Views</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Ratings%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2frating%2fall%2fall%2fall%2fall%2fall&amp;mode=1</jsonrpc>
-<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Ratings%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2frating%2fall%2fall%2fall%2fall%2fall&amp;mode=1</movie>
+<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Viewed%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2fview%2fall%2fall%2fall%2fall%2fall</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Viewed%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2fview%2fall%2fall%2fall%2fall%2fall</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
@@ -39,13 +39,6 @@
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
-<item>
-<title>Movies : Featured List (Host selection) HD/SD</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</jsonrpc>
-<movie>plugin://plugin.video.1channel/?sort=featured&amp;section=movie&amp;mode=GetFilteredResults</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
 
 <item>
 <title>HD Movies : Random list</title>
@@ -68,17 +61,15 @@
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 <@/item>
 
-
-
 <item>
-<title>TV Series : Featured list HD/SD</title>
+<title>TV Series : Trending HD</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.1channel/?mode=GetFilteredResults&amp;section=tv&amp;sort=views</jsonrpc>
+<jsonrpc>plugin://plugin.video.mdmovieflix/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.mdmovieflix%5cresources%5cart%5cicon.png&amp;mode=2&amp;name=%5bB%5d%5bI%5d%5bCOLOR%20firebrick%5dTrending%5b%2fCOLOR%5d%5b%2fI%5d%5b%2fB%5d&amp;url=http%3a%2f%2fmovieflix.to%2fshows%3fo%3dt%26p%3d1</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
 <item>
-<title>TV Series : Most popular HD</title>
+<title>TV Series : Most popular HD (Host selection)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.exoman/?action=tvshows&amp;url=popular</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
