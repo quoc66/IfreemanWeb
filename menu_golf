@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-
-<item>
-<title>[COLOR gray]NBC Golf 1080p[/COLOR]</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-<thumbnail>http://i.imgur.com/lITra19.jpg</thumbnail>
-<fanart>http://i.imgur.com/Rf3OUxq.jpg</fanart>
-</item>
-
 <item>
 <title>[COLOR gray]NBC Golf 720p[/COLOR]</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
@@ -25,7 +17,7 @@
 
 <item>
 <title>Sky Sport 4 #1</title>
-<link>plugin://plugin.video.SportsDevil/?item=plot%3dWatch%2bSkysports4%2bOnline%26catcher%3dstreams%26title%3dSKYSPORTS%2b4%26url%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26videoTitle%3dSKYSPORTS%2b4%26director%3dibrod.tv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fibrod.tv%252Fskysports4.html%26definedIn%3dtv%252Fibrod.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fibrod.tv%252Fimages%252Flogo.png&amp;mode=1</link>
+<link>;plugin://plugin.video.ZemTV-shani/?url=dWt0dm5vdzoyMDc%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSky+sports+4+uktv%5B%2FCOLOR%5D</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
@@ -38,30 +30,23 @@
 <@/item>
 
 
-<@item>
+<item>
 <title>Sky Sport 4 #3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/169.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMTQ5LjIwMi4yMDcuODo4MDgwL0ZLUnN5amtpeS00L2NvdW50ZXIyL2luZGV4Lm0zdTh8VXNlci1BZ2VudD1BcHBsZUNvcmVNZWRpYS8xLjAuMC4xM0E0NTIgKGlQaG9uZTsgVTsgQ1BVIE9TIDlfMF8yIGxpa2UgTWFjIE9TIFg7IGVuX2diKQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSk+sports+4%5B%2FCOLOR%5D</link>
+<premium>True</premium>
+<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
+</item>
+
+<@item>
+<title>Sky Sport 4 #4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 <@/item>
 
 <item>
-<title>Sky Sport 4 #4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/h13ez12WyF/mGulMPcmRD/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
-
-<item>
 <title>Sky Sport 4 #5</title>
-<link>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vODguMTUwLjE5OC4xMTQ6MTg1Ny9TUE9SVFM0U1RBVGljL1NQNC9pbmRleC5tM3U4P3Rva2VuPVlUQTNNR1UwWldKak1XSmpNakl3TmpjNU1UYzVZamc1WVROa016Vm1aamM2TVRRMk5qRTNPVGMzT0E9PXxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DLive+golf++v8%5B%2FCOLOR%5D</link>
-<premium>True</premium>
-<thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 4 #6 - livetv.sx</title>
-<link>plugin://plugin.video.castaway/?play=True&amp;img=C%3A%5CUsers%5CAdministrator.WIN-138U4FHM38T%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.castaway%5Cresources%2Fmedia%2Flivetv.png&amp;title=%5BCOLOR+red%5D%2806%2F16+15%3A00%29%5B%2FCOLOR%5D+%28PGA+Tour%29+%5BB%5DU.S.+Open+Championship+2016%5B%2FB%5D&amp;url=http%3A%2F%2Fcdn.livetvcdn.net%2Fwebplayer.php%3Ft%3Difr%26c%3D439979%26lang%3Den%26eid%3D421742%26lid%3D439979%26ci%3D232%26si%3D37&amp;site=livetv&amp;mode=play_special_sport</link>
+<link>;plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vODguMTUwLjE5OC4xMTQ6MTg1Ny9TUE9SVFM0U1RBVGljL1NQNC9pbmRleC5tM3U4P3Rva2VuPU1UWXdNalE0T1dJM056VmxPVFE1WkRVM05XVmtNV0ptWkRGa04yRTNOelE2TVRRMk9EWTFNRFUyTWc9PXxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+4+v8%5B%2FCOLOR%5D</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
