@@ -22,20 +22,20 @@
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
 
-<@item>
+<item>
 <title>Sky Sport 4 #2</title>
-<link>plugin://plugin.video.castaway/?play=True&amp;img=http%3A%2F%2Fwww.crichd.tv%2Fimages%2Fsky4.png&amp;title=Sky+Sports+4&amp;url=http%3A%2F%2Fwww.crichd.tv%2Fsky-sports-4-live-stream.php&amp;site=crichd&amp;mode=play_special</link>
+<link>plugin://plugin.video.ZemTV-shani/?url=http%3A%2F%2Fwatch.hdcric.com%2Fsky-sports-4-live-streaming&amp;mode=27&amp;name=Sky4</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-<@/item>
+</item>
 
 
-<item>
+<@item>
 <title>Sky Sport 4 #3</title>
 <link>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMTQ5LjIwMi4yMDcuODo4MDgwL0ZLUnN5amtpeS00L2NvdW50ZXIyL2luZGV4Lm0zdTh8VXNlci1BZ2VudD1BcHBsZUNvcmVNZWRpYS8xLjAuMC4xM0E0NTIgKGlQaG9uZTsgVTsgQ1BVIE9TIDlfMF8yIGxpa2UgTWFjIE9TIFg7IGVuX2diKQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSk+sports+4%5B%2FCOLOR%5D</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
-</item>
+<@/item>
 
 <@item>
 <title>Sky Sport 4 #4</title>
@@ -46,7 +46,7 @@
 
 <item>
 <title>Sky Sport 4 #5</title>
-<link>;plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vODguMTUwLjE5OC4xMTQ6MTg1Ny9TUE9SVFM0U1RBVGljL1NQNC9pbmRleC5tM3U4P3Rva2VuPU1UWXdNalE0T1dJM056VmxPVFE1WkRVM05XVmtNV0ptWkRGa04yRTNOelE2TVRRMk9EWTFNRFUyTWc9PXxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+4+v8%5B%2FCOLOR%5D</link>
+<link>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vNzkuMTQzLjgzLjkwOjg2MDAvcy80dG9kYXkvaW5kZXgubTN1OD90b2tlbj1PREkwWkRjME1tVTVOalU1WXpjNU5UZzVaRFl5TnpRNVpETTBPV0U0WVRNNk1UUTJPRFk0TURnMk9RPT18VXNlci1BZ2VudD1BcHBsZUNvcmVNZWRpYS8xLjAuMC4xM0E0NTIgKGlQaG9uZTsgVTsgQ1BVIE9TIDlfMF8yIGxpa2UgTWFjIE9TIFg7IGVuX2diKQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+4+v8%5B%2FCOLOR%5D</link>
 <premium>True</premium>
 <thumbnail>https://pbs.twimg.com/profile_images/502484119335337984/8z4OYebg.png</thumbnail>
 </item>
