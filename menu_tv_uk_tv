@@ -25,10 +25,10 @@
 
 
 <item>
-<title>UK Channels - Beta</title>
+<title>UK Channels -Beta</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
-<ipbox_uk>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fglobalstream.noip.us%3a8000%2fget.php%3fusername%3dtest%26password%3dtest%26type%3dm3u</ipbox_es>
+<ipbox_uk>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fglobalstream.noip.us%3a8000%2fget.php%3fusername%3dtest%26password%3dtest%26type%3dm3u</ipbox_uk>
 </item>
 
 </items>
