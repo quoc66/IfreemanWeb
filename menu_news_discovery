@@ -37,17 +37,17 @@
 </item>
 
 <item>
-<title>Chaines Francaises</title>
+<title>Chaines francaises</title>
 <thumbnail>http://2.bp.blogspot.com/_7Btpo5G19UY/TOSEav576aI/AAAAAAAAAEc/p2IHzdwxgL4/s1600/france-flag_t9t2.jpg</thumbnail>
 <link>http://ignoreme</link>
-<ipbox_fr>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</ipbox_fr>
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=https%3a%2f%2fi.imgsafe.org%2f0f54b37692.png&amp;mode=1&amp;name=%5bCOLOR%20red%5d%20FRAN%c3%87A%20%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fvitor1983.netai.net%2flogan%2fMENUS%2fFRENCH.xml%20</jsonrpc>
 </item>
 
 <item>
 <title>Spanish Channels</title>
 <thumbnail>http://www.crwflags.com/fotw/images/e/es-1936.gif</thumbnail>
 <link>http://ignoreme</link>
-<ipbox_es>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</ipbox_es>
+<ipbox_es>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fglobiptv.com%3a8000%2fget.php%3fusername%3dcardsharing%26password%3dyg4tdh%26type%3dm3u</ipbox_es>
 </item>
 
 
@@ -55,12 +55,12 @@
 <title>Portuguese Channels</title>
 <thumbnail>http://vignette2.wikia.nocookie.net/tenkai-knights/images/9/9b/Portugal-flag-194-p-ekm-1000x622-ekm-.jpg</thumbnail>
 <link>http://ignoreme</link>
-<ipbox_pt>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</ipbox_pt>
+<ipbox_pt>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fglobiptv.com%3a8000%2fget.php%3fusername%3dcardsharing%26password%3dyg4tdh%26type%3dm3u</ipbox_pt>
 </item>
 
 <item>
 <title>Dutch Channels</title>
 <thumbnail>https://lh3.ggpht.com/wHvhNkgqT0mohuAng9mgvcZmQa4VWbRlu2gionWGht52DRlE3ZOFzG_ownagzAA8Iw=h900</thumbnail>
 <link>http://ignoreme</link>
-<ipbox_nl>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2forbit-iptv.com%3a2500%2fget.php%3fusername%3dHerman%26password%3dHermanmj145%26type%3dm3u%26output%3dmpegts</ipbox_nl>
+<ipbox_nl>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fglobiptv.com%3a8000%2fget.php%3fusername%3dcardsharing%26password%3dyg4tdh%26type%3dm3u</ipbox_nl>
 </item>
