@@ -92,21 +92,21 @@
 <title>UFC</title>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/f/fd/Schoolbustripuniversallogo.png/revision/latest?cb=20151115193900</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.VidTime/?base=https%3a%2f%2fwww.dropbox.com%2fs%2f9rla59cnoiz23n8%2fUFC.xml%3fraw%3dtrue&amp;mode=XML&amp;name=%5bCOLOR%20orange%5dUFC%5b%2fCOLOR%5d</jsonrpc>
+<jsonrpc>plugin://plugin.video.Evolve/?description&amp;fanart=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f4%2f42%2fLogo_de_UFC.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20red%5dUFC%5b%2fCOLOR%5d%20%5bCOLOR%20white%5dZONE%5b%2fCOLOR%5d%5b%2fB%5d%20&amp;url=http%3a%2f%2fmatsbuilds.co.uk%2frambo%2fEVOLVE%2fUFC%2520REPLAYS.xml</jsonrpc>
 </item> 
 
 <item>
 <title>WWE</title>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/a/a1/Raw1.jpg/revision/latest?cb=20150926130107</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.VidTime/?base=https%3a%2f%2fwww.dropbox.com%2fs%2fgx7azwryxymq43m%2fWWE.xml%3fraw%3dtrue&amp;mode=XML&amp;name=%5bCOLOR%20orange%5dWWE%5b%2fCOLOR%5d</jsonrpc>
+<jsonrpc>plugin://plugin.video.VidTime/?base=https%3a%2f%2fwww.dropbox.com%2fs%2fgump551oqbrffir%2fWWE.xml%3fraw%3dtrue&amp;mode=XML&amp;name=%5bCOLOR%20red%5dWWE%5b%2fCOLOR%5d</jsonrpc>
 </item> 
 
 <item>
 <title>Boxing</title>
 <thumbnail>https://stephenchukumba.files.wordpress.com/2010/08/global-boxing-stars.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.VidTime/?base=https%3a%2f%2fwww.dropbox.com%2fs%2f0uls2m0eskmz3um%2fBoxing.xml%3fraw%3dtrue&amp;mode=XML&amp;name=%5bCOLOR%20orange%5dBoxing%5b%2fCOLOR%5d</jsonrpc>
+<jsonrpc>plugin://plugin.video.VidTime/?base=https%3a%2f%2fwww.dropbox.com%2fs%2forejz5cpe3hx6xf%2fBoxing.xml%3fraw%3dtrue&amp;mode=XML&amp;name=%5bCOLOR%20red%5dBoxing%5b%2fCOLOR%5d</jsonrpc>
 </item> 
 
 </root>
