@@ -51,7 +51,7 @@
 <title>Formula One</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/45/F1_logo.svg/1280px-F1_logo.svg.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>;plugin://plugin.video.castaway/?category=Other&amp;mode=open_demand_sport&amp;site=f1full</jsonrpc>
+<jsonrpc>plugin://plugin.video.castaway/?category=Other&amp;mode=open_demand_sport&amp;site=f1full</jsonrpc>
 </item> 
 
 <item>
