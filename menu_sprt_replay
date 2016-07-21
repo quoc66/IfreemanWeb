@@ -51,14 +51,14 @@
 <title>Formula One</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/45/F1_logo.svg/1280px-F1_logo.svg.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.MoneySports/?fanart=http%3a%2f%2fi65.tinypic.com%2fbbtld.jpg&amp;mode=1&amp;name=F1%20REPLAYS%202016&amp;url=http%3a%2f%2fwww.matsbuilds.co.uk%2fhank%2fF1.XML</jsonrpc>
+<jsonrpc>;plugin://plugin.video.castaway/?category=Other&amp;mode=open_demand_sport&amp;site=f1full</jsonrpc>
 </item> 
 
 <item>
-<title>MotoGP - WRC</title>
+<title>MotoGP</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2000px-Moto_Gp_logo.svg.png</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.VidTime/?base=https%3a%2f%2fwww.dropbox.com%2fs%2f4dpnywbg9pro8gm%2fGP%2520Replay.xml%3fraw%3dtrue&amp;mode=XML&amp;name=%5bCOLOR%20orange%5dGP%20Replay%5b%2fCOLOR%5d</jsonrpc>
+<jsonrpc>plugin://plugin.video.Evolve/?description&amp;fanart=http%3a%2f%2fi.imgur.com%2fIBNOJ9K.png&amp;mode=1&amp;name=%23%23%23%23%23%23%23%23%23%5bCOLOR%20yellow%5dCLICK%20HERE%20FOR%20MOTO%20GP%5b%2fCOLOR%5d%23%23%23%23%23%23%23%23%23&amp;url=http%3a%2f%2fpastebin.com%2fraw%2fnQamKZ95</jsonrpc>
 </item> 
 
 
