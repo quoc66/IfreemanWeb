@@ -19,8 +19,6 @@
 </item>
 
 
- 
- 
 <not working now - check later>
 <title>Live NBA - NHL - NFL</title>
 <premium>True</premium>
@@ -77,6 +75,15 @@
 <jsonrpc>plugin://plugin.video.castaway/?mode=open_live_sport&amp;site=atdhe</jsonrpc>
 <thumbnail>http://frankstonrsl.com.au/wp-content/uploads/2013/08/live.jpg</thumbnail>
 </item>
+ 
+<item>
+<title>Lugano - Luzern</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=aXBib3g6aHR0cDovL2NkbjA0LnNlbGxpbmctdGVhbS5uZXQ6ODAwMC9saXZlL3ZpcHNoYXJlZGVtby81Mzc1Mzc1My84NDM0LnRzfFVzZXItQWdlbnQ9VkxDLzIuMi4xIExpYlZMQy8yLjIuMTcmSWN5LU1ldGFEYXRhPTE%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DCh%3A+teleclub+sport+1%0D+ipbox%5B%2FCOLOR%5D&</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/The_Open_Championship.svg/1280px-The_Open_Championship.svg.png</thumbnail>
+</item>
+ 
  
 
 </root>
