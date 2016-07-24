@@ -64,3 +64,18 @@
 <link>http://ignoreme</link>
 <ipbox_nl>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fglobiptv.com%3a8000%2fget.php%3fusername%3dcardsharing%26password%3dyg4tdh%26type%3dm3u</ipbox_nl>
 </item>
+
+
+<item>
+<title>Swiss Channels</title>
+<thumbnail>http://toddsmods.com/media/swiss.gif</thumbnail>
+<link>http://ignoreme</link>
+<ipbox_ch>plugin://plugin.video.ZemTV-shani/?mode=67&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20channels%3c%3c%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fcdn04.selling-team.net%3a8000%2fget.php%3fusername%3dvipsharedemo%26password%3d53753753%26type%3dm3u</ipbox_ch>
+</item>
+
+<item>
+<title>German Channels</title>
+<thumbnail>http://wallpapercave.com/wp/0CWTArG.gif</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=https%3a%2f%2fi.imgsafe.org%2f0f54b37692.png&amp;mode=1&amp;name=%5bCOLOR%20red%5d%20ALEMANHA%20%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fvitor1983.netai.net%2flogan%2fMENUS%2fGERMANY.xml</jsonrpc>
+</item>
