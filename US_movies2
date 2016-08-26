@@ -34,8 +34,8 @@
 <item>
 <title>Movies - most popular - HD (Host selection)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=popular</jsonrpc>
-<movie>plugin://plugin.video.exoman/?action=movies&amp;url=featured</movie>
+<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
+<movie>plugin://plugin.video.specto/?action=movies&amp;url=featured</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
