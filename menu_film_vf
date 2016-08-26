@@ -3,16 +3,16 @@
 
 
 <item>
-<title>Liste non-exhaustive films</title>
+<title>Films en Francais</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fwww.film-streaming.co%2ffilms.php&amp;title=Tout%20Les%20Films</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fwww.film-streaming.co%2ffilms.php&amp;title=Tout%20Les%20Films</film_fr>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=streamcomplet&amp;siteUrl=http%3a%2f%2fstreamcomplet.com%2f&amp;title=%5bCOLOR%20gray%5dStreamcomplet.com%5b%2fCOLOR%5d</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=streamcomplet&amp;siteUrl=http%3a%2f%2fstreamcomplet.com%2f&amp;title=%5bCOLOR%20gray%5dStreamcomplet.com%5b%2fCOLOR%5d</film_fr>
 </item>
 
 
 <item>
-<title>Liste de films : nouveautes </title>
+<title>Films en Francais (avec selection de la source)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=full_stream_org&amp;siteUrl=http%3a%2f%2ffull-stream.nu%2f&amp;title=Films%20Nouveaut%c3%a9s</jsonrpc>
