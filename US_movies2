@@ -69,9 +69,9 @@
 </item>
 
 <item>
-<title>TV Series : Most popular HD (Host selection)</title>
+<title>Tv Series : Most popular HD (Host selection)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exoman/?action=tvshows&amp;url=popular</jsonrpc>
+<jsonrpc>plugin://plugin.video.specto/?action=tvshows&amp;url=popular</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 </item>
 
