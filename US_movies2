@@ -13,7 +13,7 @@
 </item>
 
 <item>
-<title>HD Movies : 2016 (specto)</title>
+<title>HD Movies : 2016</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=http%3a%2f%2fwww.imdb.com%2fsearch%2ftitle%3ftitle_type%3dfeature%2ctv_movie%26languages%3den%26num_votes%3d100%2c%26production_status%3dreleased%26year%3d2016%26sort%3dmoviemeter%2casc%26count%3d20%26start%3d1</jsonrpc>
 <movie>plugin://plugin.video.specto/?action=movies&amp;url=http%3a%2f%2fwww.imdb.com%2fsearch%2ftitle%3ftitle_type%3dfeature%2ctv_movie%26languages%3den%26num_votes%3d100%2c%26production_status%3dreleased%26year%3d2016%26sort%3dmoviemeter%2casc%26count%3d20%26start%3d1</movie>
@@ -25,8 +25,8 @@
 <item>
 <title>HD Movies : 2015</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exoman/?action=movies&amp;url=http%3a%2f%2fwww.imdb.com%2fsearch%2ftitle%3ftitle_type%3dfeature%2ctv_movie%26languages%3den%26num_votes%3d100%2c%26production_status%3dreleased%26year%3d2015%2c2015%26sort%3dmoviemeter%2casc%26count%3d40%26start%3d1</jsonrpc>
-<movie>plugin://plugin.video.exoman/?action=movies&amp;url=http%3a%2f%2fwww.imdb.com%2fsearch%2ftitle%3ftitle_type%3dfeature%2ctv_movie%26languages%3den%26num_votes%3d100%2c%26production_status%3dreleased%26year%3d2015%2c2015%26sort%3dmoviemeter%2casc%26count%3d40%26start%3d1</movie>
+<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=http%3a%2f%2fwww.imdb.com%2fsearch%2ftitle%3ftitle_type%3dfeature%2ctv_movie%26languages%3den%26num_votes%3d100%2c%26production_status%3dreleased%26year%3d2015%2c2015%26sort%3dmoviemeter%2casc%26count%3d40%26start%3d1</jsonrpc>
+<movie>plugin://plugin.video.specto/?action=movies&amp;url=http%3a%2f%2fwww.imdb.com%2fsearch%2ftitle%3ftitle_type%3dfeature%2ctv_movie%26languages%3den%26num_votes%3d100%2c%26production_status%3dreleased%26year%3d2015%2c2015%26sort%3dmoviemeter%2casc%26count%3d40%26start%3d1</movie>
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
 </item> 
 
