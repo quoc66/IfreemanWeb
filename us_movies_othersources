@@ -28,9 +28,9 @@
 </item>
 
 <item>
-<title>Movies - Test area</title>
+<title>Movies - test area</title>
 <link>ignorme</link>
-<jsonrpc>lugin://plugin.video.exodus/?action=movieWidget</jsonrpc>
+<jsonrpc>plugin://plugin.video.exodus/?action=movieWidget</jsonrpc>
 <@ovie>plugin://plugin.video.exodus/?action=movies&amp;url=featured</@ovie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
