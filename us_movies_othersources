@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>Movies - Test area</title>
+<title>Movies - test area</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
 <@ovie>plugin://plugin.video.exodus/?action=movies&amp;url=featured</@ovie>
