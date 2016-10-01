@@ -52,9 +52,9 @@
 </item>
 
 <item>
-<title>British Open</title>
+<title>Ryder Cup 2017>
 <link>ignorme</link>
 <premium>True</premium>
-<jsonrpc>plugin://plugin.video.castaway/?img=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.castaway%5cresources%2fmedia%2fifirstrow.png&amp;mode=get_sport_event&amp;site=ifirstrow&amp;title=%5bCOLOR%20orange%5d(14%3a30)%5b%2fCOLOR%5d%20European%20Tour%20-%20THE%20OPEN%20Championship&amp;url=http%3a%2f%2fifirstrow.eu%2fsport%2fgolf.html%40European%20Tour%20-%20THE%20OPEN%20Championship</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/The_Open_Championship.svg/1280px-The_Open_Championship.svg.png</thumbnail>
+<jsonrpc>plugin://plugin.video.Evolve/?url=http%3A%2F%2Fpastebin.com%2Fraw%2FjU1iFZGq&amp;mode=3&amp;name=%5BCOLOR+red%5D%3D%5B%2FCOLOR%5D%5BCOLOR+white%5D%3D%5B%2FCOLOR%5D%5BCOLOR+red%5D%3D%5B%2FCOLOR%5D%5BB%5D%5BCOLOR+white%5D2016+Ryder+Cup+LIVE%5B%2FCOLOR%5D%5B%2FB%5D%5BCOLOR+yellow%5D%3D%5B%2FCOLOR%5D%5BCOLOR+blue%5D%3D%5B%2FCOLOR%5D%5BCOLOR+blue%5D%3D%5B%2FCOLOR%5D&amp;description=&amp;fanart=http%3A%2F%2Fi.imgur.com%2FzagInd5.jpg</jsonrpc>
+<thumbnail>http://i.cdn.turner.com/pga/cs/sites/rydercup/2010/europe/news/images/RC-LogoBiddingNations062509_1.jpg</thumbnail>
 </item>
