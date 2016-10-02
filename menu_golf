@@ -45,9 +45,10 @@
 <@/item>
 
 <item>
-<title>NBC Channels</title>
-<link>plugin://plugin.video.ustvnow.tva/?mode=tvguide_list&amp;name=NBC</link>
+<title>NBC channels</title>
+<link>ignorme</link>
 <premium>True</premium>
+<jsonrpc>plugin://plugin.video.ustvnow.tva/?mode=tvguide_list&amp;name=NBC</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2000px-NBC_logo.svg.png</thumbnail>
 </item>
 
