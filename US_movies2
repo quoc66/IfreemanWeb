@@ -2,13 +2,11 @@
 
 <root>
 
-
-
 <item>
-<title>HD Movies : Most Views</title>
+<title>Movies - most popular - HD (Host selection)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Viewed%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2fview%2fall%2fall%2fall%2fall%2fall</jsonrpc>
-<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Viewed%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2fview%2fall%2fall%2fall%2fall%2fall</movie>
+<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
+<movie>plugin://plugin.video.specto/?action=movies&amp;url=featured</movie>
 <thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
 </item>
 
@@ -20,8 +18,6 @@
 <thumbnail>http://voeux2016.ifsttar.fr/fileadmin/contributeurs/voeux2016/Ifsttar-voeux-2016-logo.jpg</thumbnail>
 </item> 
 
-
-
 <item>
 <title>HD Movies : 2015</title>
 <link>ignorme</link>
@@ -30,14 +26,6 @@
 <thumbnail>http://images-cdn.moviepilot.com/image/upload/c_fill,h_480,w_1062/t_mp_quality/2015-logo-my-top-10-most-anticipated-2015-movies-jpeg-209795.jpg</thumbnail>
 </item> 
 
-
-<item>
-<title>Movies - most popular - HD (Host selection)</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
-<movie>plugin://plugin.video.specto/?action=movies&amp;url=featured</movie>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-</item>
 
 
 <item>
@@ -48,6 +36,14 @@
 <random>plugin://plugin.video.1channel/?url=%2Fplaylists.php%3Fid%3D41731&amp;mode=show_playlist&amp;public=True</random>
 <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/thriller-movies-colour-lightbg.png</thumbnail>
 </item> 
+
+<@item>
+<title>HD Movies : Most Views</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Viewed%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2fview%2fall%2fall%2fall%2fall%2fall</jsonrpc>
+<movie>plugin://plugin.video.md123movies/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5dMost%20Viewed%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2f123movies.to%2fmovie%2ffilter%2fmovie%2fview%2fall%2fall%2fall%2fall%2fall</movie>
+<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR gold][B]============TV series==============[/B][/COLOR]</title>
