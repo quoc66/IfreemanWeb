@@ -57,12 +57,12 @@
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
 <@/item>
 
-<item>
+<@item>
 <title>TV Series : Trending HD</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.mdmovieflix/?description&amp;iconimage=C%3a%5cUsers%5cAdministrator.WIN-138U4FHM38T%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.mdmovieflix%5cresources%5cart%5cicon.png&amp;mode=2&amp;name=%5bB%5d%5bI%5d%5bCOLOR%20firebrick%5dTrending%5b%2fCOLOR%5d%5b%2fI%5d%5b%2fB%5d&amp;url=http%3a%2f%2fmovieflix.to%2fshows%3fo%3dt%26p%3d1</jsonrpc>
 <thumbnail>http://cimsir.com/wp-content/uploads/2015/04/tv_shows_aicon_pack_1_by_fafla-d3gmfak.png</thumbnail>
-</item>
+<@/item>
 
 <item>
 <title>Tv Series : Most popular HD (Host selection)</title>
