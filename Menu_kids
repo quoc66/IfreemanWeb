@@ -29,10 +29,10 @@
 
 
 <item>
-<title>Recent Kids movies</title>
+<title>Recent Kids Movies</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26release_date%3Ddate%5B730%5D%2Cdate%5B30%5D%26genres%3Dfamily%26sort%3Dmoviemeter%2Casc%26count%3D100%26start%3D1</jsonrpc>
-<movie>plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26release_date%3Ddate%5B730%5D%2Cdate%5B30%5D%26genres%3Dfamily%26sort%3Dmoviemeter%2Casc%26count%3D100%26start%3D1</movie>
+<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26release_date%3Ddate%5B730%5D%2Cdate%5B30%5D%26genres%3Dfamily%26sort%3Dmoviemeter%2Casc%26count%3D100%26start%3D1</jsonrpc>
+<movie>plugin://plugin.video.specto/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26release_date%3Ddate%5B730%5D%2Cdate%5B30%5D%26genres%3Dfamily%26sort%3Dmoviemeter%2Casc%26count%3D100%26start%3D1</movie>
 <thumbnail>http://1.bp.blogspot.com/-iRfKGaFSAuM/U3XmBsaoKCI/AAAAAAAAMUQ/GzBRUUZ6Fmk/s1600/drew+struzan+stephen+king.jpg</thumbnail>
 </item>
  
