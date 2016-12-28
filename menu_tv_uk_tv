@@ -2,11 +2,18 @@
 
 <items>
 
-<item>
+<@item>
 <title>UK Channels</title>
 <thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.F.T.V/?url=5&amp;mode=123&amp;name=UK+LIVE+TV&amp;ch_fanart=uk-live-tv&amp;description=14,3698,2798,3683,1309,27,3227,3166,361,25,1666,113,103,11,1817,67,1820,26,1823,101,1826,3211,2,65,97,22,851,845,370,2707,372,1039,371,1808,1811,1805,1952,3707,1711,2696</jsonrpc>
+<@/item>
+
+<item>
+<title>UK Channels</title>
+<thumbnail>http://www.morningsideaerials.co.uk/graphics/freeview/logos.png</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?action=directory&amp;content=addons&amp;url=http%3a%2f%2fphoenixtv.offshorepastebin.com%2ftv%2fmain.xml</jsonrpc>
 </item>
 
 <item>
@@ -19,7 +26,7 @@
 <item>
 <title>Sky Movie channels</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.exoman/?action=channels</jsonrpc>
+<jsonrpc>plugin://plugin.video.specto/?action=channels</jsonrpc>
 <thumbnail>http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/sky-movies-collection.png</thumbnail>
 </item>
 
