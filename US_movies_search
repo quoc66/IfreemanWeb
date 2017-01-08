@@ -2,9 +2,9 @@
 
 <root>
 
-<title>Search Movie (Recommended)</title>
+<title>Search Movie/TV Series/Actors (Recommended)</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.md9movies/?url=url&amp;mode=4&amp;description=</jsonrpc>
+<jsonrpc>plugin://plugin.video.specto/?action=searchNavigator</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
@@ -15,12 +15,12 @@
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
-<item>
+<@item>
 <title>Search Movie 2</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.dubstop/?mode=10&amp;name=%5bCOLOR%20lightgreen%5dSearch%5b%2fCOLOR%5d&amp;page=0&amp;url=search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
-</item>
+<@/item>
 
 
 <item>
