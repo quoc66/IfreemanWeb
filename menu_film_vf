@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 
-
 <item>
 <title>Films en Francais (liste #1)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=streamcomplet&amp;siteUrl=http%3a%2f%2fstreamcomplet.com%2f&amp;title=%5bCOLOR%20gray%5dStreamcomplet.com%5b%2fCOLOR%5d</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=streamcomplet&amp;siteUrl=http%3a%2f%2fstreamcomplet.com%2f&amp;title=%5bCOLOR%20gray%5dStreamcomplet.com%5b%2fCOLOR%5d</film_fr>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=planet_streaming&amp;siteUrl=http%3a%2f%2fwww.planet-streaming.com%2f&amp;title=%5bCOLOR%20gray%5dPlanet%20Streaming%5b%2fCOLOR%5d</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=planet_streaming&amp;siteUrl=http%3a%2f%2fwww.planet-streaming.com%2f&amp;title=%5bCOLOR%20gray%5dPlanet%20Streaming%5b%2fCOLOR%5d</film_fr>
 </item>
 
 <item>
 <title>Films en Francais (liste #2)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=vkstreamingfilm_biz&amp;siteUrl=http%3a%2f%2fwww.vkstreamingfilm.biz%2f&amp;title=%5bCOLOR%20gray%5dVkstreamingfilm.biz%5b%2fCOLOR%5d</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=vkstreamingfilm_biz&amp;siteUrl=http%3a%2f%2fwww.vkstreamingfilm.biz%2f&amp;title=%5bCOLOR%20gray%5dVkstreamingfilm.biz%5b%2fCOLOR%5d</film_fr>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=filmsvostfr_biz&amp;siteUrl=http%3a%2f%2fwww.filmsvostfr.co%2ffilms-en-streaming&amp;title=%5bCOLOR%20gray%5dFilmsvostfr%5b%2fCOLOR%5d</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=filmsvostfr_biz&amp;siteUrl=http%3a%2f%2fwww.filmsvostfr.co%2ffilms-en-streaming&amp;title=%5bCOLOR%20gray%5dFilmsvostfr%5b%2fCOLOR%5d</film_fr>
 </item>
 
-<item>
+
+<@item>
+<title>Films en Francais (liste #1)</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=streamcomplet&amp;siteUrl=http%3a%2f%2fstreamcomplet.com%2f&amp;title=%5bCOLOR%20gray%5dStreamcomplet.com%5b%2fCOLOR%5d</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=streamcomplet&amp;siteUrl=http%3a%2f%2fstreamcomplet.com%2f&amp;title=%5bCOLOR%20gray%5dStreamcomplet.com%5b%2fCOLOR%5d</film_fr>
+<@/item>
+
+<@item>
+<title>Films en Francais (liste #2)</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=vkstreamingfilm_biz&amp;siteUrl=http%3a%2f%2fwww.vkstreamingfilm.biz%2f&amp;title=%5bCOLOR%20gray%5dVkstreamingfilm.biz%5b%2fCOLOR%5d</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=vkstreamingfilm_biz&amp;siteUrl=http%3a%2f%2fwww.vkstreamingfilm.biz%2f&amp;title=%5bCOLOR%20gray%5dVkstreamingfilm.biz%5b%2fCOLOR%5d</film_fr>
+<@/item>
+
+<@item>
 <title>Films en Francais (avec selection de la source)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=full_stream_org&amp;siteUrl=http%3a%2f%2ffull-stream.nu%2f&amp;title=Films%20Nouveaut%c3%a9s</jsonrpc>
 <film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=full_stream_org&amp;siteUrl=http%3a%2f%2ffull-stream.nu%2f&amp;title=Films%20Nouveaut%c3%a9s</film_fr>
-</item>
+<@/item>
 
 <@item>
 <title>Selection films Francais </title>
@@ -81,10 +97,17 @@
 <link>ignorme</link>
 </item>
 
-<item>
+<@item>
 <title>Genre/Categories films</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.vstream/?function=showGenre&amp;sFav=showGenre&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Genre</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
+<@/item>
+
+<item>
+<title>Genre/Categories films</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.vstream/?function=showGenre&amp;sFav=showGenre&amp;site=films-en-streaming&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Genre</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 -----------------------------------------------------------------
