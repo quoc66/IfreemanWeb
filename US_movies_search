@@ -2,6 +2,7 @@
 
 <root>
 
+<item>
 <title>Search Movie/TV Series/Actors (Recommended)</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.specto/?action=searchNavigator</jsonrpc>
@@ -24,7 +25,7 @@
 
 
 <item>
-<title>Search TV Serie</title>
+<title>Search TV Series</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.1channel/?section=tv&amp;mode=GetSearchQuery;next_mode=Search</jsonrpc>
 <thumbnail>http://img08.deviantart.net/1e2e/i/2010/019/5/2/my_favorite_tv_series_by_igor0899.jpg</thumbnail>
