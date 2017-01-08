@@ -42,21 +42,6 @@
 <film_fr>plugin://plugin.video.vstream/?function=showMovies&amp;sFav=showMovies&amp;site=full_stream_org&amp;siteUrl=http%3a%2f%2ffull-stream.nu%2f&amp;title=Films%20Nouveaut%c3%a9s</film_fr>
 <@/item>
 
-<@item>
-<title>Selection films Francais </title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/meilleur_films_francais</externallink>
-<@/item>
-
-
-<@item>
-<title>Liste films les plus populaires </title>
-<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.vstream/?site=sokrostream_biz&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+Most+seeing%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSokrostream%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fsokrostream.biz%2Fles-films-les-plus-vues-2&amp;sFav=showMovies</jsonrpc>
-<film_fr>plugin://plugin.video.vstream/?site=sokrostream_biz&amp;function=showMovies&amp;title=%5BCOLOR+gray%5DMovies+Most+seeing%5B%2FCOLOR%5D+-+%5BCOLOR+azure%5DSokrostream%5B%2FCOLOR%5D&amp;siteUrl=http%3A%2F%2Fsokrostream.biz%2Fles-films-les-plus-vues-2&amp;sFav=showMovies</film_fr>
-<@/item>
 
 
 <item>
@@ -107,14 +92,14 @@
 <item>
 <title>Genre/Categories films</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showGenre&amp;sFav=showGenre&amp;site=films-en-streaming&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Genre</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?function=showGenre&amp;sFav=showGenre&amp;site=filmsvostfr_biz&amp;siteUrl=True&amp;title=Films%20par%20Genres</jsonrpc>
 <thumbnail>http://previews.123rf.com/images/unkreatives/unkreatives1401/unkreatives140100043/25026606-detailed-illustration-of-a-clapper-boards-with-genre-terms-symbol-for-film-and-video-Stock-Vector.jpg</thumbnail>
 </item>
 -----------------------------------------------------------------
 <item>
 <title>Recherche Film</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.vstream/?function=showSearch&amp;sFav=showSearch&amp;site=film_streaming_co&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Films%20Search</jsonrpc>
+<jsonrpc>plugin://plugin.video.vstream/?function=showSearch&amp;sFav=showSearch&amp;site=filmsvostfr_biz&amp;siteUrl=True&amp;title=Films%20Search</jsonrpc>
 <thumbnail>http://www.filmgator.com/black/pics/tour_search.png</thumbnail>
 </item>
 
