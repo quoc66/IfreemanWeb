@@ -18,6 +18,13 @@
 <thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
 </item>
 
+<item>
+<title>World Sport Live</title>
+<premium>True</premium>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?action=directory&amp;content=0&amp;url=http%3a%2f%2fphoenixtv.offshorepastebin.com%2ftv%2fWizHD.xml</jsonrpc>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/tv/sportsworld1.png</thumbnail>
+</item>
 
 <not working now - check later>
 <title>Live NBA - NHL - NFL</title>
