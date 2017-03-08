@@ -2,6 +2,17 @@
 <root>
 
 <item>
+<title>Kepliz</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.vstream/?function=load&amp;sFav=load&amp;site=kepliz_com&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Kepliz</jsonrpc>
+<film_fr>plugin://plugin.video.vstream/?function=load&amp;sFav=load&amp;site=kepliz_com&amp;siteUrl=http%3a%2f%2fvenom&amp;title=Kepliz</film_fr>
+</item>
+<item>
+<title>[COLOR gold][B]==============================[/B][/COLOR]</title>
+<link>ignorme</link>
+</item>
+<item>
 <title>Films en Francais (liste #1)</title>
 <thumbnail>http://ecx.images-amazon.com/images/I/41ZOtz9SCPL.jpg</thumbnail>
 <link>http://ignoreme</link>
