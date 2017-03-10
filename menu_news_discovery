@@ -2,12 +2,20 @@
 
 <root>
 
-<item>
+<@item>
 <title>News US/UK</title>
 <thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.iFreemanWeb/?https://raw.githubusercontent.com/quoc66/IfreemanWeb/master/UK_News</jsonrpc>
+<@/item>
+
+<item>
+<title>News US/UK</title>
+<thumbnail>http://www.bfmfan.com/blog/public/news_2/chaine_info_combat.jpg</thumbnail>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?action=directory&amp;content=0&amp;url=http%3a%2f%2fphoenixtv.offshorepastebin.com%2ftv%2fnews.xml</jsonrpc>
 </item>
+
 
 <item>
 <title>Informations 24/24</title>
